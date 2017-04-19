@@ -1,0 +1,22 @@
+---
+layout: single
+title: Prosemirror editor
+---
+
+{% assign post = site.data.editors | where: "title", "Prosemirror" %}
+
+<h1>Prosemirror</h1>
+
+{{post.website}}
+
+{% for p in post%}
+
+{% include detail.html %}
+
+
+{%endfor%}
+<p>
+
+</p>
+
+

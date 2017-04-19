@@ -1,38 +1,23 @@
-<!doctype html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport"
-          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="{{site.url}}{{site.baseurl}}/css/style.css">
-    <title>{{ page.title }} - Next Text Editor</title>
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
+{% include header.html %}
 
-</head>
-<body>
+<div class="content" role="document">
+    {{ content }}
+
+    <div class="about">
+        <p>
+            <strong>About this page</strong> <br>
+            I created this page because I have an interest for text editors. The reason for this interest is mostly my daytime job,
+            which I spend developing an editor for newspapers. The last couple of years it has happended a lot in this field,
+            so I thought I create a list of the editors I know of and share that list with you.
 
 
-
-<div class="container">
-
-    <header>
-        <div class="center">
-            <span class="icon-article"></span>
-            <h2>{{ site.title }}</h2>
-            <p>
-                <a href="{{site.baseurl}}">Nexttexteditor</a> gives you the most modern and flexible rich text editors
-            </p>
-        </div>
-
-    </header>
-
-
-    <div class="content" role="document">
-        {{ content }}
+        </p>
+        <p>
+            I guess this is the MVP version of this page, I already have a lot more planned, but for now, we will
+            stick with this list. Perhaps in the next version I'll collect more data, write some guides on how to get started.
+        </p>
     </div>
 
 </div>
 
-</body>
-</html>
+{% include footer.html %}

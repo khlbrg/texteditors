@@ -1,0 +1,84 @@
+- title: Substance
+  website: http://substance.io
+  github: https://github.com/substance/substance
+  getStarted: http://substance.io/docs/beta5/your-first-editor.html
+  description: |
+    Substance is one of the most advanced and flexible editors, yet it's easy to understand the main concepts.
+    The component model is based on a virtual DOM and it's very similar to React
+  level: 4
+  page: substance
+  format: XML/HTML
+  license: MIT
+  community: 2
+
+
+- title: Quill
+  website: https://quilljs.com/
+  github: https://github.com/quilljs/quill
+  getStarted: https://quilljs.com/docs/quickstart/
+  logo: assets/quill-logo.svg
+  description: |
+    Quill is a modern rich text editor built for compatibility and extensibility. It was created by Jason Chen and Byron Milligan and open sourced by Salesforce.com.
+  level: 4
+  page: quill
+  format: XML/HTML
+  license: BSD 3-clause
+  community: 9
+
+
+
+- title: Draft.js
+  website: https://draftjs.org/
+  getStarted: https://draftjs.org/docs/overview.html#content
+  github: https://github.com/facebook/draft-js
+  description: |
+      Draft.js is created by Facebook. It's described as a framework for building rich text editor in React.
+      Like React is it based on an immutable model. If you are used to, and if you like React, this framework will
+       be a nice fit for you text editor.
+  level: 7
+  page: draftjs
+  format: XML/HTML
+  license: BSD 3-clause
+  community: 9
+
+
+- title: Trix
+  website: https://trix-editor.org/
+  github: https://github.com/basecamp/trix
+  getStarted: https://github.com/basecamp/trix#readme
+  description: |
+    Trix is created and released by Basecamp. You can easily use Trix to create editors for lists, comments, blog posts and articles.
+    You can create editors that support embeded content and with its own document model you will always get consistent output.
+  level: 7
+  page: trix
+  format: XML/HTML
+  license: MIT
+  community: 6
+
+
+- title: Prosemirror
+  website: https://prosemirror.net/
+  logo: assets/prosemirror-logo.svg
+  github: https://github.com/prosemirror
+  getStarted: https://prosemirror.net/docs/guides/basics/
+  page: prosemirror
+  level: 4
+  community: 5
+  description: |
+      A very competent editor with support for real time collaboration. Good documentation and information.
+
+
+- title: ContentTools
+  website: http://getcontenttools.com/
+  getStarted: http://getcontenttools.com/getting-started
+  github: https://github.com/GetmeUK/ContentTools
+  description: |
+      ContentTools is not really an text editor, it's more like a HTML/WYSIWYG kind of editor.
+      Simply add an attribute to you existing DOM-model and you can now start to edit that content.
+  level: 8
+  page: contenttools
+  format: XML/HTML
+  license: MIT
+  community: 6
+
+

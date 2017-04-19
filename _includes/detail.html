@@ -1,0 +1,44 @@
+<div class="col description">
+    <p>{{p.description}}</p>
+
+    <div class="links">
+
+        {% if p.github %}
+        <a class="link" href="{{p.github}}"><i class="fa fa-github"></i> Github</a>
+        {% endif %}
+
+        {% if p.website %}
+        <a class="link" href="{{p.website}}"><i class="fa fa-external-link"></i> {{p.website}}</a>
+        {% endif %}
+
+        {% if p.getStarted %}
+        <a class="link" href="{{p.getStarted}}"><i class="fa fa-play-circle"></i> Get started</a>
+        {% endif %}
+
+    </div>
+
+</div>
+
+
+{% if p.community_ %}
+<div class="progress-container">
+
+    {% if p.level_ %}
+    <div>
+        <h2>Entry level</h2>
+        <progress id="progressbar" value="{{p.level}}" max="10"></progress>
+        <em>{{p.level}}/10 - Is it easy to get started</em>
+
+    </div>
+    {% endif %}
+    {% if p.community_ %}
+    <div>
+
+        <h2>Community</h2>
+        <progress id="progressbar" value="{{p.community}}" max="10"></progress>
+        <em>{{p.community}}/10 - Is there an active community</em>
+
+    </div>
+    {% endif %}
+</div>
+{% endif %}

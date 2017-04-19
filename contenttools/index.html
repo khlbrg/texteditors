@@ -1,0 +1,17 @@
+---
+layout: single
+title: HTML & Website real time editing
+---
+
+{% assign post = site.data.editors | where: "title", "ContentTools" %}
+
+<h1>Website editing with ContentTools</h1>
+
+{% for p in post%}
+{% include detail.html %}
+
+{%endfor%}
+
+<p>
+</p>
+

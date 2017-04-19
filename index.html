@@ -1,0 +1,73 @@
+---
+layout: index
+title: Text editors
+---
+
+<p>
+    Lately, rich text editors has become quite popular, in fact, many of the biggest software
+    companies have created their own editors, for example Facebook created Draft.js and Basecamp created
+    trix. Even Slack have created their own, although it's not available as open source.
+</p>
+<p>
+    Here is a list of the serious, modern and flexible editors I know of, with direct links to website, github repo and
+    how to get started.
+</p>
+
+
+<div class="editor-list">
+    {% for editor in site.data.editors %}
+    <div class="editor-item">
+        <div class="col name">
+            <a href="{{ site.url }}{{ site.baseurl }}/{{ editor.page }}">{{editor.title}} </a>
+
+        </div>
+        <div class="col description">
+            <p>{{editor.description}}</p>
+
+            <div class="links">
+
+                {% if editor.github %}
+                <a class="link" href="{{editor.github}}"><i class="fa fa-github"></i> Github</a>
+                {% endif %}
+
+                {% if editor.website %}
+                <a class="link" href="{{editor.website}}"><i class="fa fa-external-link"></i> Website</a>
+                {% endif %}
+
+                {% if editor.getStarted %}
+                <a class="link" href="{{editor.getStarted}}"><i class="fa fa-play-circle"></i> Get started</a>
+                {% endif %}
+
+            </div>
+
+        </div>
+
+    </div>
+    {% endfor %}
+</div>
+
+
+<p class="center">
+    Subscribe to get the latest updates on texttexteditor.com
+</p>
+<!-- Begin MailChimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+    #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}
+    /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+       We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+    <form action="//nexttexteditor.us15.list-manage.com/subscribe/post?u=32324ff6eb9525789ffa5fec2&amp;id=b7d00b4820" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+        <div id="mc_embed_signup_scroll">
+
+            <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+            <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+            <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_32324ff6eb9525789ffa5fec2_b7d00b4820" tabindex="-1" value=""></div>
+            <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+        </div>
+    </form>
+</div>
+
+<!--End mc_embed_signup-->
+

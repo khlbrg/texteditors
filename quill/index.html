@@ -1,0 +1,17 @@
+---
+layout: single
+title: Quilljs
+---
+
+{% assign post = site.data.editors | where: "title", "Quill" %}
+
+<h1>Quill</h1>
+
+{% for p in post%}
+{% include detail.html %}
+
+{%endfor%}
+
+<p>
+</p>
+

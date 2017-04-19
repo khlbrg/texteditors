@@ -1,0 +1,18 @@
+---
+layout: single
+title: Trix editor
+---
+
+{% assign post = site.data.editors | where: "title", "Trix" %}
+
+<h1>Trix</h1>
+
+{% for p in post%}
+{% include detail.html %}
+
+{%endfor%}
+
+<p>
+    Trix editor
+</p>
+

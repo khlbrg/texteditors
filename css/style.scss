@@ -1,14 +1,16 @@
 ---
 ---
 
+@import "font-awesome.min.css";
+
 @font-face {
     font-family: 'fontello';
-    src: url('../font/fontello.eot?32016072');
-    src: url('../font/fontello.eot?32016072#iefix') format('embedded-opentype'),
-    url('../font/fontello.woff2?32016072') format('woff2'),
-    url('../font/fontello.woff?32016072') format('woff'),
-    url('../font/fontello.ttf?32016072') format('truetype'),
-    url('../font/fontello.svg?32016072#fontello') format('svg');
+    src: url('../fonts/fontello.eot?32016072');
+    src: url('../fonts/fontello.eot?32016072#iefix') format('embedded-opentype'),
+    url('../fonts/fontello.woff2?32016072') format('woff2'),
+    url('../fonts/fontello.woff?32016072') format('woff'),
+    url('../fonts/fontello.ttf?32016072') format('truetype'),
+    url('../fonts/fontello.svg?32016072#fontello') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -48,61 +50,265 @@
     /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
 }
 
-.icon-article:before { content: '\e800'; } /* '' */
+$small: 640px;
+$blue: #3e5063;
+$background: #f5f5f5;
+
+.icon-article:before {
+    content: '\e800';
+}
+
+/* '' */
 
 html, body {
-    margin:0;
-    padding:0;
+    margin: 0 auto;
+    padding: 0;
+    font-size: 100%;
+    background-color: $background;
+    @media (max-width: 600px) {
+        font-size: 80%;
+    }
 }
- a {
-     color: #3282a9;
-     text-decoration: none;
 
-     &:hover {
-         color: lighten(#3282a9, 20%)
-     }
- }
+a {
+    color: #219ec4;
+    text-decoration: none;
+
+    &:hover {
+        color: lighten(#3282a9, 20%)
+    }
+}
+
+.center {
+    text-align: center;
+}
 /**
  * Header bar
  */
 header {
-    margin-top:30px;
+    margin-top: 30px;
     display: flex;
-    justify-content:space-around;
+    justify-content: space-around;
+
     h2 {
-        margin:20px 0;
-        padding:0;
-        font-size:1.6rem;
+        margin: 20px 0;
+        padding: 0;
+        font-size: 1.6rem;
         color: #333;
+
+        a {
+            color: #3e5063;
+
+            &:hover {
+                color: darken(#202933, 10%)
+            }
+        }
     }
     .center {
-        margin:0;
-        padding:1rem;
-        font-weight:normal;
+        margin: 0;
+        padding: 1rem;
+        font-weight: normal;
         flex: 1 auto 20%;
         text-align: center;
     }
     .icon-article {
         border-radius: 55px;
         padding: 10px;
-        border:3px solid #d2d2d2;
+        border: 3px solid #d2d2d2;
         color: #565656;
-        font-size:1.5rem;
-        margin-bottom:10px;
+        font-size: 1.5rem;
+        margin-bottom: 10px;
     }
     p {
-        color: #777
+        color: #777;
+        font-size: 1.3rem;
     }
 }
 
 body {
-    background-color: #fff;
-    font-family: 'Open Sans', sans-serif;
+    font-family: Cabin, sans-serif;
 
 }
 
-.container {
+.editor-list {
+
+    .editor-item {
+        display: flex;
+        border-bottom:1px solid #e9e9e9;
+        margin:25px 0;
+
+        @media (max-width:$small) {
+            display: block;
+        }
+
+        p {
+            margin:0;
+        }
+        .col {
+            padding: 0 15px 10px 0;
+            margin:10px 0 ;
+            font-size:1.1rem;
+
+            @media (max-width:$small) {
+                padding:0;
+            }
+
+        }
+        .name,
+        .links {
+            flex: 1;
+        }
+        .description {
+            flex:4;
+            margin:0 0 10px 0;
+            &:after {
+                display: block;
+                clear: both;
+                content: '';
+            }
+        }
+        .name {
+            font-size:1.1rem;
+            font-weight:700;
+            margin:0;
+            padding:0;
+
+            .logo-container {
+                width: 100%;
+                text-align: center;
+            }
+            a {
+                display: block;
+                color: $blue;
+            }
+            img {
+                text-align: center;
+            }
+        }
+
+    }
+}
+.links {
+    padding-right:0;
+    margin-top:15px;
     width:100%;
+    display: flex;
+
+
+    @media (max-width:$small) {
+        float: none;
+
+        a {
+            display: block;
+            width:90%;
+            margin:5px 0;
+        }
+    }
+
+    a {
+
+        .fa {
+            color: lighten(#ff6d69, 30%);
+        }
+
+        flex:1 auto;
+        background-color: lighten(#ff6d69, 10%);
+        padding:6px 12px;
+        margin:0 10px 0 0;
+        color: #fff;
+        display: inline-block;
+        border-radius: 4px;
+        font-size:1rem;
+        text-align: center;
+        &:hover {
+            background-color: #ff6d69;
+        }
+    }
+}
+
+.container {
+    width: 100%;
+    max-width: 960px;
     margin: 0 auto;
-    border:1px solid red;
+
+
+
+    h1 {
+        margin: 0;
+        text-align: center;
+    }
+    .content {
+        background-color: #fff;
+        border-radius: 15px;
+        padding: 20px 35px;
+        border: 1px solid darken($background, 8%);
+        color: #565656;
+
+        @media (max-width:$small) {
+            padding: 20px ;
+            border-radius: 0;
+        }
+
+
+        .logo {
+            height: 25px;
+        }
+        p {
+            font-size: 1.1rem;
+            line-height: 1.5rem;
+
+        }
+    }
+    .about {
+        color: #999;
+        font-size: 1rem;
+        margin-top:15px;
+        border-top:1px solid #e9e9e9;
+    }
+    footer {
+        padding: 20px 0;
+        text-align: center;
+
+        .fa-fire {
+            color: orangered;
+        }
+    }
+}
+
+progress {
+    -webkit-appearance: none;
+    appearance: none;
+
+    &::-webkit-progress-bar {
+        background-color: #efefef;
+        border-radius: 2px;
+        //box-shadow: 0 2px 5px rgba(0, 0, 0, 0.25) inset;
+    }
+    &::-webkit-progress-value {
+        background-color: #219ec4;
+        border-radius: 2px;
+        background-size: 35px 20px, 100% 100%, 100% 100%;
+    }
+    width:50%;
+    height:20px;
+}
+
+
+.progress-container {
+    display: flex;
+    border-bottom:1px solid #e9e9e9;
+    margin-bottom:15px;
+    padding-bottom:15px;
+
+    h2 {
+        font-size:1.2rem;
+        color: #565656;
+    }
+    em {
+        margin-top:10px;
+        display: block;
+    }
+     > div {
+         flex:1 ;
+     }
 }

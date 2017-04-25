@@ -81,4 +81,15 @@
   license: MIT
   community: 6
 
+- title: Slate
+  website: http://slatejs.org/
+  getStarted: https://docs.slatejs.org/
+  github: https://github.com/ianstormtaylor/slate
+  description: |
+      Slate lets you build rich, intuitive editors like those in Medium, Dropbox Paper or Canvas—which are becoming table stakes for applications on the web—without your codebase getting mired in complexity.
+  level: 8
+  page: slate
+  format: XML/HTML
+  license: MIT
+  community: 6
 

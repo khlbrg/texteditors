@@ -5,13 +5,168 @@ title: Rich text editing with React and Draft
 
 {% assign post = site.data.editors | where: "title", "Draft.js" %}
 
-<h1>Draft.js text editor</h1>
+<h1>Draft.js rich text editor framework for React</h1>
 
 {% for p in post%}
 {% include detail.html %}
 
 {%endfor%}
 
-<p>
-</p>
+
+<article>
+
+    <section>
+        <h2>Get started with Draft.js</h2>
+        <p>This short get started guide will help you get started with Draft.js. The main objective will be that after this guide you will have an text editor in a React app, where you can open a template article.</p>
+    </section>
+
+    <section class="image">
+        <img src="{{site.baseurl}}/draftjs/preview.gif" alt="Draft.js editor preview"/>
+    </section>
+    <section>
+        <h3>Install create-react-app</h3>
+        <p>
+            For the sake of this tutorial we're going to use
+            <a href="https://github.com/facebookincubator/create-react-app"><code class="inline">create-react-app</code></a> app to
+            create a
+            React app.
+            If you do not have that installed it can be installed with:
+        </p>
+        {% highlight bash %}
+npm install -g create-react-app
+        {% endhighlight %}
+
+    </section>
+
+    <section>
+        <h3>Create the editor application</h3>
+
+        <p>Start by creating a new React application using create-react-app</p>
+        {% highlight bash %}
+create-react-app blog-editor
+cd blog-editor
+        {% endhighlight %}
+
+        <p>
+            When the install script is completed your React app should be ready to run. Now we need to install Draft.js as well.
+        </p>
+
+        <h3>Install Draft.js</h3>
+        <p>(React and React-dom is already installed in the previous step)</p>
+        {% highlight javascript %}
+npm install --save draft-js
+        {% endhighlight %}
+    </section>
+
+
+    <section>
+        <h3>Start the application</h3>
+        <p>
+            We can now try to run the React application. Type <code class="inline">npm start</code> in the CLI to start the development server
+
+        </p>
+        <p>
+            When the dev server is started you should be able to open you React app
+            by navigation to http://localhost:3000
+        </p>
+        <!--<img src="{{site.baseurl}}/draftjs/started.png" alt="React application template started"/>-->
+    </section>
+
+    <section>
+        <h3>Start developing</h3>
+        <p>
+            Now it's the time to open the source code to your project in one of your text editors.
+            You will notice there are some folders and files already created for you by the create-react-app.
+
+        </p>
+        <p>
+            In our case we will just go ahead and use the created components. Start by opening <code class="inline">./src/App.js</code>
+        </p>
+        <p>
+            <strong>The first step will</strong> be to remove some boilerplate code and replace it with the Draft.js Editor. I removed everything in div.App, I also changed the className property to blog-editor, after these changes my App.js looks like this.
+
+        </p>
+        {% highlight javascript %}
+
+import React, {Component} from 'react'
+class App extends Component {
+    render() {
+        return (
+            <div className="blog-editor"></div>
+        )
+    }
+}
+export default App
+        {% endhighlight %}
+        <p>
+            In the next step we will import <code class="inline">Editor and EditorState</code> from Draft.js, so at the top of the file we add
+            the following import statement
+        </p>
+
+        {% highlight javascript %}
+import { Editor, EditorState } from 'draft-js';
+        {% endhighlight %}
+        <p>
+            Then, in the render method, we add the <code class="inline">Editor</code> component and pass the
+            editorState and onChange method as props.
+        </p>
+        <p>
+            Notice that we are passing <code class="inline">this.state.editorState</code> and not just the imported EditorState.
+            This means that our App.js has it's own state containing the editorState. The initials setup is done in the constructor.
+        </p>
+        <p>
+            We also specify an <code  class="inline">onChange</code> method and passing as props.
+            This method is triggered by Draft.js Editor and in our case it will just replace
+            the old editorState with a new fresh one.
+        </p>
+        {% highlight javascript %}
+
+import React, {Component} from 'react'
+import { Editor, EditorState } from 'draft-js'
+class App extends Component {
+    constructor(props) {
+        super(props)
+        this.state = {
+            editorState: EditorState.createEmpty()
+        }
+
+        this.onChange = (editorState) => {
+            this.setState({
+                editorState: editorState
+            })
+        }
+    }
+
+    render() {
+        return (
+            <div className="blog-editor">
+                <Editor editorState={this.state.editorState} onChange={this.onChange}/>
+            <div>
+        )
+    }
+}
+export default App
+
+        {% endhighlight %}
+
+
+        <p>
+            If you haven't, start the dev server with <code class="inline">npm start</code>
+            and open <a href="http://localhost:3000">localhost:3000</a>
+        </p>
+        <p>
+            <strong>Congratulations</strong>, you now have an Draft.js editor up and running.
+        </p>
+    </section>
+
+</article>
+
+
+
+<!--<p>
+    Article and text is separated in to paragraphs, called <strong>Records.</strong>.
+    Each Record is immutable so every change/add/delete of characters creates a new record.
+
+    Cursor snapshot - StartKey (StartRecord), EndKey(EndRecord) StartOffset, EndOffset
+</p>-->
 

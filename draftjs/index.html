@@ -129,18 +129,19 @@ class App extends Component {
         this.state = {
             editorState: EditorState.createEmpty()
         }
+    }
 
-        this.onChange = (editorState) => {
-            this.setState({
-                editorState: editorState
-            })
-        }
+
+    onChange(editorState) {
+        this.setState({
+            editorState: editorState
+        })
     }
 
     render() {
         return (
             <div className="blog-editor">
-                <Editor editorState={this.state.editorState} onChange={this.onChange}/>
+                <Editor editorState={this.state.editorState} onChange={this.onChange.bind(this)}/>
             <div>
         )
     }

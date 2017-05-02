@@ -93,3 +93,28 @@
   license: MIT
   community: 6
 
+- title: Scribe
+  website: http://guardian.github.io/scribe/
+  getStarted: https://github.com/guardian/scribe
+  github: https://github.com/guardian/scribe
+  description: |
+      Scribe is an editor created and released be the newspaper The Guardian. This is probably the oldest editor/framework in the list.
+      It do no use an own document model but instead fixes the browser differences in contentEditable. 
+  level: 8
+  page: scribe
+  format: HTML
+  license: Apache
+  community: 6
+
+- title: Mobiledoc-Kit	
+  website: https://bustlelabs.github.io/mobiledoc-kit
+  demo: https://bustlelabs.github.io/mobiledoc-kit/demo/
+  getStarted: https://github.com/bustlelabs/mobiledoc-kit#intro-to-mobiledoc-kit
+  github: https://github.com/bustlelabs/mobiledoc-kit
+  description: |
+      Mobiledoc-kit is a library for building WYSIWYG editors. It has its own format which is called mobiledoc and is a JSON based format.
+  level: 8
+  page: mobiledoc-kit
+  format: JSON
+  license: MIT
+  community: 6

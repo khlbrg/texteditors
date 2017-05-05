@@ -13,6 +13,7 @@
     watchers: 2155
     updated_at: '2017-05-05T19:56:59Z'
     stargazers_count: 2155
+    github_description: 'A JavaScript library for web-based content editing.'
 -
     title: Quill
     website: 'https://quilljs.com/'
@@ -29,6 +30,7 @@
     watchers: 13258
     updated_at: '2017-05-05T16:43:56Z'
     stargazers_count: 13258
+    github_description: 'Your powerful, rich text editor'
 -
     title: Draft.js
     website: 'https://draftjs.org/'
@@ -44,6 +46,7 @@
     watchers: 9804
     updated_at: '2017-05-05T16:07:56Z'
     stargazers_count: 9804
+    github_description: 'A React framework for building text editors.'
 -
     title: Trix
     website: 'https://trix-editor.org/'
@@ -59,6 +62,7 @@
     watchers: 7631
     updated_at: '2017-05-05T18:35:10Z'
     stargazers_count: 7631
+    github_description: 'A rich text editor for everyday writing'
 -
     title: Prosemirror
     website: 'https://prosemirror.net/'
@@ -73,6 +77,7 @@
     watchers: null
     updated_at: null
     stargazers_count: null
+    github_description: null
 -
     title: ContentTools
     website: 'http://getcontenttools.com/'
@@ -88,6 +93,7 @@
     watchers: 2769
     updated_at: '2017-05-05T12:19:05Z'
     stargazers_count: 2769
+    github_description: 'A JS library for building WYSIWYG editors for HTML content.'
 -
     title: Slate
     website: 'http://slatejs.org/'
@@ -103,6 +109,7 @@
     watchers: 4702
     updated_at: '2017-05-05T17:50:17Z'
     stargazers_count: 4702
+    github_description: 'A completely customizable framework for building rich text editors.'
 -
     title: Scribe
     website: 'http://guardian.github.io/scribe/'
@@ -118,6 +125,7 @@
     watchers: 3526
     updated_at: '2017-05-04T09:27:17Z'
     stargazers_count: 3526
+    github_description: 'A rich text editor framework for the web platform'
 -
     title: Mobiledoc-kit
     website: 'https://bustlelabs.github.io/mobiledoc-kit'
@@ -134,3 +142,4 @@
     watchers: 457
     updated_at: '2017-05-05T18:47:19Z'
     stargazers_count: 457
+    github_description: 'A toolkit for building WYSIWYG editors with Mobiledoc'

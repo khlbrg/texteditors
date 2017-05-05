@@ -63,7 +63,7 @@
     title: Prosemirror
     website: 'https://prosemirror.net/'
     logo: assets/prosemirror-logo.svg
-    github: 'https://github.com/prosemirror'
+    github: 'https://github.com/ProseMirror/prosemirror'
     getStarted: 'https://prosemirror.net/docs/guides/basics/'
     page: prosemirror
     level: 4

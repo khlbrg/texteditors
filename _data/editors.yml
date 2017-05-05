@@ -9,9 +9,10 @@
     format: XML/HTML
     license: MIT
     community: null
-    open_issues: null
-    watchers: null
-    updated_at: null
+    open_issues: 129
+    watchers: 2155
+    updated_at: '2017-05-05T19:56:59Z'
+    stargazers_count: 2155
 -
     title: Quill
     website: 'https://quilljs.com/'
@@ -24,9 +25,10 @@
     format: XML/HTML
     license: 'BSD 3-clause'
     community: null
-    open_issues: null
-    watchers: null
-    updated_at: null
+    open_issues: 149
+    watchers: 13258
+    updated_at: '2017-05-05T16:43:56Z'
+    stargazers_count: 13258
 -
     title: Draft.js
     website: 'https://draftjs.org/'
@@ -38,9 +40,10 @@
     format: XML/HTML
     license: 'BSD 3-clause'
     community: null
-    open_issues: null
-    watchers: null
-    updated_at: null
+    open_issues: 399
+    watchers: 9804
+    updated_at: '2017-05-05T16:07:56Z'
+    stargazers_count: 9804
 -
     title: Trix
     website: 'https://trix-editor.org/'
@@ -52,9 +55,10 @@
     format: XML/HTML
     license: MIT
     community: null
-    open_issues: null
-    watchers: null
-    updated_at: null
+    open_issues: 38
+    watchers: 7631
+    updated_at: '2017-05-05T18:35:10Z'
+    stargazers_count: 7631
 -
     title: Prosemirror
     website: 'https://prosemirror.net/'
@@ -68,6 +72,7 @@
     open_issues: null
     watchers: null
     updated_at: null
+    stargazers_count: null
 -
     title: ContentTools
     website: 'http://getcontenttools.com/'
@@ -79,9 +84,10 @@
     format: XML/HTML
     license: MIT
     community: null
-    open_issues: null
-    watchers: null
-    updated_at: null
+    open_issues: 47
+    watchers: 2769
+    updated_at: '2017-05-05T12:19:05Z'
+    stargazers_count: 2769
 -
     title: Slate
     website: 'http://slatejs.org/'
@@ -93,9 +99,10 @@
     format: XML/HTML
     license: MIT
     community: null
-    open_issues: null
-    watchers: null
-    updated_at: null
+    open_issues: 98
+    watchers: 4702
+    updated_at: '2017-05-05T17:50:17Z'
+    stargazers_count: 4702
 -
     title: Scribe
     website: 'http://guardian.github.io/scribe/'
@@ -107,9 +114,10 @@
     format: HTML
     license: Apache
     community: null
-    open_issues: null
-    watchers: null
-    updated_at: null
+    open_issues: 100
+    watchers: 3526
+    updated_at: '2017-05-04T09:27:17Z'
+    stargazers_count: 3526
 -
     title: Mobiledoc-kit
     website: 'https://bustlelabs.github.io/mobiledoc-kit'
@@ -122,6 +130,7 @@
     format: JSON
     license: MIT
     community: null
-    open_issues: null
-    watchers: null
-    updated_at: null
+    open_issues: 40
+    watchers: 457
+    updated_at: '2017-05-05T18:47:19Z'
+    stargazers_count: 457

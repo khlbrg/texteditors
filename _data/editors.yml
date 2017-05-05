@@ -4,12 +4,12 @@
   getStarted: http://substance.io/docs/beta5/your-first-editor.html
   description: |
     Substance is one of the most advanced and flexible editors, yet it's easy to understand the main concepts.
-    The component model is based on a virtual DOM and it's very similar to React
+    The component model is based on a virtual DOM and it's very similar to React.
   level: 4
   page: substance
   format: XML/HTML
   license: MIT
-  community: 2
+  community: 5
 
 
 - title: Quill

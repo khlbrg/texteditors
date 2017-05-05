@@ -21,13 +21,16 @@ title: JavaScript text editor frameworks for web application
         <div class="col name">
             <a href="{{ site.url }}{{ site.baseurl }}/{{ editor.page }}">{{editor.title}} </a>
             {% if editor.stargazers_count %}
-            <p class="github-info"><i class="fa fa-star"></i> {{ editor.stargazers_count }}</p>
-            <p class="github-info"><i class="fa fa-clock-o"></i> {{ editor.updated_at | date: '%B %d, %Y' }}</p>
+            <p class="github-info" title="Github stars"><i class="fa fa-star"></i> {{ editor.stargazers_count }}</p>
+            <p class="github-info" title="Repo last updated {{editor.updated_at}}"><i class="fa fa-clock-o"></i> {{ editor.updated_at | date: '%B %d, %Y' }}</p>
             {% endif %}
         </div>
         <div class="col description">
             <p>{{editor.description}}</p>
 
+            {% if editor.github_description %}
+                <blockquote title="Github description">{{editor.github_description}}</blockquote>
+            {% endif %}
             <div class="links">
 
                 {% if editor.github %}

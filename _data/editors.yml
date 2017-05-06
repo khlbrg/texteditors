@@ -27,9 +27,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 149
-    watchers: 13262
-    updated_at: '2017-05-06T15:50:19Z'
-    stargazers_count: 13262
+    watchers: 13261
+    updated_at: '2017-05-06T17:33:46Z'
+    stargazers_count: 13261
     github_description: 'Your powerful, rich text editor'
 -
     title: Draft.js
@@ -59,9 +59,9 @@
     license: MIT
     community: null
     open_issues: 38
-    watchers: 7636
-    updated_at: '2017-05-06T14:25:38Z'
-    stargazers_count: 7636
+    watchers: 7634
+    updated_at: '2017-05-06T17:27:46Z'
+    stargazers_count: 7634
     github_description: 'A rich text editor for everyday writing'
 -
     title: Prosemirror

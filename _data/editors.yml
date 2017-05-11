@@ -59,9 +59,9 @@
     license: MIT
     community: null
     open_issues: 39
-    watchers: 7641
-    updated_at: '2017-05-11T11:16:15Z'
-    stargazers_count: 7641
+    watchers: 7642
+    updated_at: '2017-05-11T18:29:44Z'
+    stargazers_count: 7642
     github_description: 'A rich text editor for everyday writing'
 -
     title: Prosemirror
@@ -74,9 +74,9 @@
     community: null
     description: "A very competent editor with support for real time collaboration. Good documentation and information.\n"
     open_issues: 25
-    watchers: 2468
-    updated_at: '2017-05-08T21:55:17Z'
-    stargazers_count: 2468
+    watchers: 2469
+    updated_at: '2017-05-11T18:04:07Z'
+    stargazers_count: 2469
     github_description: 'The ProseMirror WYSIWYM editor'
 -
     title: ContentTools

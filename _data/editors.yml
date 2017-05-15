@@ -27,9 +27,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 150
-    watchers: 13333
-    updated_at: '2017-05-14T09:05:07Z'
-    stargazers_count: 13333
+    watchers: 13339
+    updated_at: '2017-05-15T06:09:58Z'
+    stargazers_count: 13339
     github_description: 'Your powerful, rich text editor'
 -
     title: Draft.js
@@ -42,10 +42,10 @@
     format: XML/HTML
     license: 'BSD 3-clause'
     community: null
-    open_issues: 409
-    watchers: 9874
-    updated_at: '2017-05-14T12:46:51Z'
-    stargazers_count: 9874
+    open_issues: 410
+    watchers: 9876
+    updated_at: '2017-05-15T06:02:10Z'
+    stargazers_count: 9876
     github_description: 'A React framework for building text editors.'
 -
     title: Trix
@@ -73,7 +73,7 @@
     level: 4
     community: null
     description: "A very competent editor with support for real time collaboration. Good documentation and information.\n"
-    open_issues: 25
+    open_issues: 26
     watchers: 2470
     updated_at: '2017-05-13T19:55:18Z'
     stargazers_count: 2470
@@ -106,9 +106,9 @@
     license: MIT
     community: null
     open_issues: 110
-    watchers: 4779
-    updated_at: '2017-05-14T13:43:17Z'
-    stargazers_count: 4779
+    watchers: 4781
+    updated_at: '2017-05-15T04:04:51Z'
+    stargazers_count: 4781
     github_description: 'A completely customizable framework for building rich text editors.'
 -
     title: Scribe
@@ -138,8 +138,8 @@
     format: JSON
     license: MIT
     community: null
-    open_issues: 40
-    watchers: 457
-    updated_at: '2017-05-05T18:47:19Z'
-    stargazers_count: 457
+    open_issues: 39
+    watchers: 458
+    updated_at: '2017-05-15T03:20:29Z'
+    stargazers_count: 458
     github_description: 'A toolkit for building WYSIWYG editors with Mobiledoc'

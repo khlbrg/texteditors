@@ -9,7 +9,7 @@
     format: XML/HTML
     license: MIT
     community: null
-    open_issues: 128
+    open_issues: 129
     watchers: 2165
     updated_at: '2017-05-16T13:44:17Z'
     stargazers_count: 2165
@@ -26,10 +26,10 @@
     format: XML/HTML
     license: 'BSD 3-clause'
     community: null
-    open_issues: 148
-    watchers: 13372
-    updated_at: '2017-05-17T06:15:05Z'
-    stargazers_count: 13372
+    open_issues: 145
+    watchers: 13378
+    updated_at: '2017-05-17T16:09:02Z'
+    stargazers_count: 13378
     github_description: 'Your powerful, rich text editor'
 -
     title: Draft.js
@@ -43,9 +43,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 410
-    watchers: 9897
-    updated_at: '2017-05-17T06:16:07Z'
-    stargazers_count: 9897
+    watchers: 9902
+    updated_at: '2017-05-17T18:20:26Z'
+    stargazers_count: 9902
     github_description: 'A React framework for building text editors.'
 -
     title: Trix
@@ -74,9 +74,9 @@
     community: null
     description: "A very competent editor with support for real time collaboration. Good documentation and information.\n"
     open_issues: 26
-    watchers: 2472
-    updated_at: '2017-05-15T21:59:27Z'
-    stargazers_count: 2472
+    watchers: 2473
+    updated_at: '2017-05-17T14:17:25Z'
+    stargazers_count: 2473
     github_description: 'The ProseMirror WYSIWYM editor'
 -
     title: ContentTools
@@ -106,9 +106,9 @@
     license: MIT
     community: null
     open_issues: 113
-    watchers: 4797
-    updated_at: '2017-05-17T05:22:48Z'
-    stargazers_count: 4797
+    watchers: 4799
+    updated_at: '2017-05-17T10:47:55Z'
+    stargazers_count: 4799
     github_description: 'A completely customizable framework for building rich text editors.'
 -
     title: Scribe
@@ -122,9 +122,9 @@
     license: Apache
     community: null
     open_issues: 100
-    watchers: 3528
-    updated_at: '2017-05-09T06:13:49Z'
-    stargazers_count: 3528
+    watchers: 3529
+    updated_at: '2017-05-17T08:15:57Z'
+    stargazers_count: 3529
     github_description: 'A rich text editor framework for the web platform'
 -
     title: Mobiledoc-kit

@@ -9,7 +9,7 @@
     format: XML/HTML
     license: MIT
     community: null
-    open_issues: 129
+    open_issues: 130
     watchers: 2165
     updated_at: '2017-05-16T13:44:17Z'
     stargazers_count: 2165
@@ -26,10 +26,10 @@
     format: XML/HTML
     license: 'BSD 3-clause'
     community: null
-    open_issues: 145
-    watchers: 13378
-    updated_at: '2017-05-17T16:09:02Z'
-    stargazers_count: 13378
+    open_issues: 142
+    watchers: 13382
+    updated_at: '2017-05-18T04:19:34Z'
+    stargazers_count: 13382
     github_description: 'Your powerful, rich text editor'
 -
     title: Draft.js
@@ -42,10 +42,10 @@
     format: XML/HTML
     license: 'BSD 3-clause'
     community: null
-    open_issues: 410
-    watchers: 9902
-    updated_at: '2017-05-17T18:20:26Z'
-    stargazers_count: 9902
+    open_issues: 413
+    watchers: 9904
+    updated_at: '2017-05-17T19:45:32Z'
+    stargazers_count: 9904
     github_description: 'A React framework for building text editors.'
 -
     title: Trix
@@ -90,9 +90,9 @@
     license: MIT
     community: 5
     open_issues: 49
-    watchers: 2789
-    updated_at: '2017-05-16T12:07:49Z'
-    stargazers_count: 2789
+    watchers: 2790
+    updated_at: '2017-05-17T20:35:37Z'
+    stargazers_count: 2790
     github_description: 'A JS library for building WYSIWYG editors for HTML content.'
 -
     title: Slate
@@ -105,10 +105,10 @@
     format: XML/HTML
     license: MIT
     community: null
-    open_issues: 113
-    watchers: 4799
-    updated_at: '2017-05-17T10:47:55Z'
-    stargazers_count: 4799
+    open_issues: 114
+    watchers: 4800
+    updated_at: '2017-05-18T05:12:58Z'
+    stargazers_count: 4800
     github_description: 'A completely customizable framework for building rich text editors.'
 -
     title: Scribe
@@ -139,7 +139,7 @@
     license: MIT
     community: null
     open_issues: 39
-    watchers: 458
-    updated_at: '2017-05-15T03:20:29Z'
-    stargazers_count: 458
+    watchers: 459
+    updated_at: '2017-05-18T04:44:08Z'
+    stargazers_count: 459
     github_description: 'A toolkit for building WYSIWYG editors with Mobiledoc'

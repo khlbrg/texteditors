@@ -27,9 +27,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 141
-    watchers: 13417
-    updated_at: '2017-05-21T16:03:50Z'
-    stargazers_count: 13417
+    watchers: 13424
+    updated_at: '2017-05-22T06:29:21Z'
+    stargazers_count: 13424
     github_description: 'Your powerful, rich text editor'
 -
     title: Draft.js
@@ -43,9 +43,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 415
-    watchers: 9934
-    updated_at: '2017-05-21T15:46:28Z'
-    stargazers_count: 9934
+    watchers: 9937
+    updated_at: '2017-05-22T06:27:09Z'
+    stargazers_count: 9937
     github_description: 'A React framework for building text editors.'
 -
     title: Trix
@@ -73,10 +73,10 @@
     level: 4
     community: null
     description: "A very competent editor with support for real time collaboration. Good documentation and information.\n"
-    open_issues: 27
-    watchers: 2473
-    updated_at: '2017-05-21T01:56:12Z'
-    stargazers_count: 2473
+    open_issues: 28
+    watchers: 2474
+    updated_at: '2017-05-21T22:15:37Z'
+    stargazers_count: 2474
     github_description: 'The ProseMirror WYSIWYM editor'
 -
     title: ContentTools
@@ -106,9 +106,9 @@
     license: MIT
     community: null
     open_issues: 116
-    watchers: 4809
-    updated_at: '2017-05-20T12:55:18Z'
-    stargazers_count: 4809
+    watchers: 4811
+    updated_at: '2017-05-22T06:16:28Z'
+    stargazers_count: 4811
     github_description: 'A completely customizable framework for building rich text editors.'
 -
     title: Scribe

@@ -26,10 +26,10 @@
     format: XML/HTML
     license: 'BSD 3-clause'
     community: null
-    open_issues: 137
-    watchers: 13507
-    updated_at: '2017-05-30T04:53:36Z'
-    stargazers_count: 13507
+    open_issues: 138
+    watchers: 13512
+    updated_at: '2017-05-30T17:26:45Z'
+    stargazers_count: 13512
     github_description: 'Your powerful, rich text editor'
 -
     title: Draft.js
@@ -42,10 +42,10 @@
     format: XML/HTML
     license: 'BSD 3-clause'
     community: null
-    open_issues: 418
-    watchers: 9994
-    updated_at: '2017-05-29T22:32:00Z'
-    stargazers_count: 9994
+    open_issues: 420
+    watchers: 10035
+    updated_at: '2017-05-30T18:34:15Z'
+    stargazers_count: 10035
     github_description: 'A React framework for building text editors.'
 -
     title: Trix
@@ -60,7 +60,7 @@
     community: null
     open_issues: 41
     watchers: 7678
-    updated_at: '2017-05-30T02:22:35Z'
+    updated_at: '2017-05-30T17:57:55Z'
     stargazers_count: 7678
     github_description: 'A rich text editor for everyday writing'
 -
@@ -73,7 +73,7 @@
     level: 4
     community: null
     description: "A very competent editor with support for real time collaboration. Good documentation and information.\n"
-    open_issues: 30
+    open_issues: 29
     watchers: 2481
     updated_at: '2017-05-30T03:51:05Z'
     stargazers_count: 2481
@@ -106,9 +106,9 @@
     license: MIT
     community: null
     open_issues: 141
-    watchers: 5014
-    updated_at: '2017-05-30T04:00:04Z'
-    stargazers_count: 5014
+    watchers: 5018
+    updated_at: '2017-05-30T16:46:34Z'
+    stargazers_count: 5018
     github_description: 'A completely customizable framework for building rich text editors.'
 -
     title: Scribe
@@ -139,7 +139,7 @@
     license: MIT
     community: null
     open_issues: 33
-    watchers: 465
-    updated_at: '2017-05-29T14:32:02Z'
-    stargazers_count: 465
+    watchers: 466
+    updated_at: '2017-05-30T14:47:37Z'
+    stargazers_count: 466
     github_description: 'A toolkit for building WYSIWYG editors with Mobiledoc'

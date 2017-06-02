@@ -27,9 +27,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 142
-    watchers: 13541
-    updated_at: '2017-06-01T16:13:47Z'
-    stargazers_count: 13541
+    watchers: 13545
+    updated_at: '2017-06-02T05:01:43Z'
+    stargazers_count: 13545
     github_description: 'Your powerful, rich text editor'
 -
     title: Draft.js
@@ -60,7 +60,7 @@
     community: null
     open_issues: 41
     watchers: 7684
-    updated_at: '2017-06-01T14:25:01Z'
+    updated_at: '2017-06-02T05:06:00Z'
     stargazers_count: 7684
     github_description: 'A rich text editor for everyday writing'
 -
@@ -73,7 +73,7 @@
     level: 4
     community: null
     description: "A very competent editor with support for real time collaboration. Good documentation and information.\n"
-    open_issues: 28
+    open_issues: 30
     watchers: 2480
     updated_at: '2017-05-31T23:10:14Z'
     stargazers_count: 2480
@@ -105,10 +105,10 @@
     format: XML/HTML
     license: MIT
     community: null
-    open_issues: 139
-    watchers: 5030
-    updated_at: '2017-06-01T16:02:00Z'
-    stargazers_count: 5030
+    open_issues: 140
+    watchers: 5032
+    updated_at: '2017-06-02T02:11:48Z'
+    stargazers_count: 5032
     github_description: 'A completely customizable framework for building rich text editors.'
 -
     title: Scribe

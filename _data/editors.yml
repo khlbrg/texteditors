@@ -27,9 +27,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 146
-    watchers: 13613
-    updated_at: '2017-06-06T17:56:16Z'
-    stargazers_count: 13613
+    watchers: 13615
+    updated_at: '2017-06-07T02:30:06Z'
+    stargazers_count: 13615
     github_description: 'Your powerful, rich text editor'
 -
     title: Draft.js
@@ -59,9 +59,9 @@
     license: MIT
     community: null
     open_issues: 44
-    watchers: 7691
-    updated_at: '2017-06-06T16:38:48Z'
-    stargazers_count: 7691
+    watchers: 7693
+    updated_at: '2017-06-07T03:56:53Z'
+    stargazers_count: 7693
     github_description: 'A rich text editor for everyday writing'
 -
     title: Prosemirror
@@ -74,9 +74,9 @@
     community: null
     description: "A very competent editor with support for real time collaboration. Good documentation and information.\n"
     open_issues: 29
-    watchers: 2486
-    updated_at: '2017-06-06T05:48:54Z'
-    stargazers_count: 2486
+    watchers: 2487
+    updated_at: '2017-06-06T22:51:52Z'
+    stargazers_count: 2487
     github_description: 'The ProseMirror WYSIWYM editor'
 -
     title: ContentTools
@@ -106,9 +106,9 @@
     license: MIT
     community: null
     open_issues: 148
-    watchers: 5053
-    updated_at: '2017-06-06T16:13:50Z'
-    stargazers_count: 5053
+    watchers: 5056
+    updated_at: '2017-06-07T03:25:00Z'
+    stargazers_count: 5056
     github_description: 'A completely customizable framework for building rich text editors.'
 -
     title: Scribe

@@ -10,9 +10,9 @@
     license: MIT
     community: null
     open_issues: 132
-    watchers: 2180
-    updated_at: '2017-06-07T07:43:06Z'
-    stargazers_count: 2180
+    watchers: 2181
+    updated_at: '2017-06-07T19:11:42Z'
+    stargazers_count: 2181
     github_description: 'A JavaScript library for web-based content editing.'
 -
     title: Quill
@@ -27,9 +27,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 147
-    watchers: 13626
-    updated_at: '2017-06-07T18:32:22Z'
-    stargazers_count: 13626
+    watchers: 13630
+    updated_at: '2017-06-08T01:51:26Z'
+    stargazers_count: 13630
     github_description: 'Your powerful, rich text editor'
 -
     title: Draft.js
@@ -43,9 +43,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 426
-    watchers: 10143
-    updated_at: '2017-06-07T16:44:18Z'
-    stargazers_count: 10143
+    watchers: 10146
+    updated_at: '2017-06-08T02:09:24Z'
+    stargazers_count: 10146
     github_description: 'A React framework for building text editors.'
 -
     title: Trix
@@ -60,7 +60,7 @@
     community: null
     open_issues: 44
     watchers: 7694
-    updated_at: '2017-06-07T08:24:51Z'
+    updated_at: '2017-06-07T23:23:39Z'
     stargazers_count: 7694
     github_description: 'A rich text editor for everyday writing'
 -
@@ -90,9 +90,9 @@
     license: MIT
     community: 5
     open_issues: 52
-    watchers: 2816
-    updated_at: '2017-06-07T17:03:09Z'
-    stargazers_count: 2816
+    watchers: 2817
+    updated_at: '2017-06-07T20:57:03Z'
+    stargazers_count: 2817
     github_description: 'A JS library for building WYSIWYG editors for HTML content.'
 -
     title: Slate
@@ -106,9 +106,9 @@
     license: MIT
     community: null
     open_issues: 148
-    watchers: 5058
-    updated_at: '2017-06-07T10:11:38Z'
-    stargazers_count: 5058
+    watchers: 5061
+    updated_at: '2017-06-08T05:50:40Z'
+    stargazers_count: 5061
     github_description: 'A completely customizable framework for building rich text editors.'
 -
     title: Scribe

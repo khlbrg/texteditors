@@ -9,7 +9,7 @@
     format: XML/HTML
     license: MIT
     community: null
-    open_issues: 136
+    open_issues: 135
     watchers: 2193
     updated_at: '2017-06-23T18:07:33Z'
     stargazers_count: 2193
@@ -26,10 +26,10 @@
     format: XML/HTML
     license: 'BSD 3-clause'
     community: null
-    open_issues: 174
-    watchers: 13859
-    updated_at: '2017-06-24T05:37:43Z'
-    stargazers_count: 13859
+    open_issues: 173
+    watchers: 13863
+    updated_at: '2017-06-24T17:37:43Z'
+    stargazers_count: 13863
     github_description: 'Your powerful, rich text editor'
 -
     title: Draft.js
@@ -43,9 +43,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 420
-    watchers: 10277
-    updated_at: '2017-06-24T05:34:20Z'
-    stargazers_count: 10277
+    watchers: 10279
+    updated_at: '2017-06-24T09:36:17Z'
+    stargazers_count: 10279
     github_description: 'A React framework for building text editors.'
 -
     title: Trix
@@ -89,7 +89,7 @@
     format: XML/HTML
     license: MIT
     community: 5
-    open_issues: 55
+    open_issues: 56
     watchers: 2841
     updated_at: '2017-06-23T09:36:16Z'
     stargazers_count: 2841

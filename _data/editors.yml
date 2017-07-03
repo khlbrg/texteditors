@@ -10,9 +10,9 @@
     license: MIT
     community: null
     open_issues: 134
-    watchers: 2206
-    updated_at: '2017-07-02T06:54:00Z'
-    stargazers_count: 2206
+    watchers: 2207
+    updated_at: '2017-07-03T06:46:45Z'
+    stargazers_count: 2207
     github_description: 'A JavaScript library for web-based content editing.'
 -
     title: Quill
@@ -27,9 +27,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 170
-    watchers: 13948
-    updated_at: '2017-07-03T04:37:10Z'
-    stargazers_count: 13948
+    watchers: 13949
+    updated_at: '2017-07-03T15:03:02Z'
+    stargazers_count: 13949
     github_description: 'Your powerful, rich text editor'
 -
     title: Draft.js
@@ -43,9 +43,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 413
-    watchers: 10334
-    updated_at: '2017-07-03T03:39:29Z'
-    stargazers_count: 10334
+    watchers: 10342
+    updated_at: '2017-07-03T16:34:39Z'
+    stargazers_count: 10342
     github_description: 'A React framework for building text editors.'
 -
     title: Trix
@@ -60,7 +60,7 @@
     community: null
     open_issues: 46
     watchers: 7732
-    updated_at: '2017-07-02T02:18:32Z'
+    updated_at: '2017-07-03T17:22:15Z'
     stargazers_count: 7732
     github_description: 'A rich text editor for everyday writing'
 -
@@ -105,10 +105,10 @@
     format: XML/HTML
     license: MIT
     community: null
-    open_issues: 156
-    watchers: 5147
-    updated_at: '2017-07-02T23:17:23Z'
-    stargazers_count: 5147
+    open_issues: 158
+    watchers: 5151
+    updated_at: '2017-07-03T13:42:29Z'
+    stargazers_count: 5151
     github_description: 'A completely customizable framework for building rich text editors.'
 -
     title: Scribe
@@ -122,9 +122,9 @@
     license: Apache
     community: null
     open_issues: 101
-    watchers: 3530
-    updated_at: '2017-06-29T13:30:27Z'
-    stargazers_count: 3530
+    watchers: 3529
+    updated_at: '2017-07-03T09:01:03Z'
+    stargazers_count: 3529
     github_description: 'A rich text editor framework for the web platform'
 -
     title: Mobiledoc-kit

@@ -27,9 +27,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 143
-    watchers: 14197
-    updated_at: '2017-07-24T17:39:46Z'
-    stargazers_count: 14197
+    watchers: 14201
+    updated_at: '2017-07-25T05:10:59Z'
+    stargazers_count: 14201
     github_description: 'Quill is a modern rich text editor built for compatibility and extensibility.'
 -
     title: Draft.js
@@ -43,9 +43,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 423
-    watchers: 10540
-    updated_at: '2017-07-24T18:16:41Z'
-    stargazers_count: 10540
+    watchers: 10547
+    updated_at: '2017-07-25T06:06:57Z'
+    stargazers_count: 10547
     github_description: 'A React framework for building text editors.'
 -
     title: Trix
@@ -59,9 +59,9 @@
     license: MIT
     community: null
     open_issues: 46
-    watchers: 7841
-    updated_at: '2017-07-24T16:12:33Z'
-    stargazers_count: 7841
+    watchers: 7842
+    updated_at: '2017-07-24T18:44:50Z'
+    stargazers_count: 7842
     github_description: 'A rich text editor for everyday writing'
 -
     title: Prosemirror
@@ -105,10 +105,10 @@
     format: XML/HTML
     license: MIT
     community: null
-    open_issues: 174
-    watchers: 5232
-    updated_at: '2017-07-24T14:01:02Z'
-    stargazers_count: 5232
+    open_issues: 175
+    watchers: 5234
+    updated_at: '2017-07-25T01:42:28Z'
+    stargazers_count: 5234
     github_description: 'A completely customizable framework for building rich text editors.'
 -
     title: Scribe

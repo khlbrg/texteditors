@@ -26,10 +26,10 @@
     format: XML/HTML
     license: 'BSD 3-clause'
     community: null
-    open_issues: 161
-    watchers: 14480
-    updated_at: '2017-08-17T18:07:45Z'
-    stargazers_count: 14480
+    open_issues: 162
+    watchers: 14487
+    updated_at: '2017-08-18T06:25:12Z'
+    stargazers_count: 14487
     github_description: 'Quill is a modern rich text editor built for compatibility and extensibility.'
 -
     title: Draft.js
@@ -43,9 +43,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 438
-    watchers: 10730
-    updated_at: '2017-08-17T14:51:30Z'
-    stargazers_count: 10730
+    watchers: 10731
+    updated_at: '2017-08-18T02:45:39Z'
+    stargazers_count: 10731
     github_description: 'A React framework for building text editors.'
 -
     title: Trix
@@ -59,9 +59,9 @@
     license: MIT
     community: null
     open_issues: 41
-    watchers: 7889
-    updated_at: '2017-08-17T16:39:42Z'
-    stargazers_count: 7889
+    watchers: 7891
+    updated_at: '2017-08-18T06:03:25Z'
+    stargazers_count: 7891
     github_description: 'A rich text editor for everyday writing'
 -
     title: Prosemirror
@@ -74,9 +74,9 @@
     community: null
     description: "A very competent editor with support for real time collaboration. Good documentation and information.\n"
     open_issues: 21
-    watchers: 2649
-    updated_at: '2017-08-16T22:11:31Z'
-    stargazers_count: 2649
+    watchers: 2651
+    updated_at: '2017-08-18T01:44:40Z'
+    stargazers_count: 2651
     github_description: 'The ProseMirror WYSIWYM editor'
 -
     title: ContentTools
@@ -106,9 +106,9 @@
     license: MIT
     community: null
     open_issues: 165
-    watchers: 5308
-    updated_at: '2017-08-17T15:27:55Z'
-    stargazers_count: 5308
+    watchers: 5310
+    updated_at: '2017-08-18T06:34:27Z'
+    stargazers_count: 5310
     github_description: 'A completely customizable framework for building rich text editors.'
 -
     title: Scribe
@@ -138,8 +138,8 @@
     format: JSON
     license: MIT
     community: null
-    open_issues: 35
-    watchers: 672
-    updated_at: '2017-08-17T13:29:08Z'
-    stargazers_count: 672
+    open_issues: 34
+    watchers: 674
+    updated_at: '2017-08-18T05:40:19Z'
+    stargazers_count: 674
     github_description: 'A toolkit for building WYSIWYG editors with Mobiledoc'

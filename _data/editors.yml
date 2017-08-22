@@ -26,10 +26,10 @@
     format: XML/HTML
     license: 'BSD 3-clause'
     community: null
-    open_issues: 163
-    watchers: 14528
-    updated_at: '2017-08-22T05:53:30Z'
-    stargazers_count: 14528
+    open_issues: 164
+    watchers: 14531
+    updated_at: '2017-08-22T14:52:06Z'
+    stargazers_count: 14531
     github_description: 'Quill is a modern rich text editor built for compatibility and extensibility.'
 -
     title: Draft.js
@@ -42,10 +42,10 @@
     format: XML/HTML
     license: 'BSD 3-clause'
     community: null
-    open_issues: 438
-    watchers: 10752
-    updated_at: '2017-08-22T01:18:34Z'
-    stargazers_count: 10752
+    open_issues: 439
+    watchers: 10753
+    updated_at: '2017-08-22T17:07:21Z'
+    stargazers_count: 10753
     github_description: 'A React framework for building text editors.'
 -
     title: Trix
@@ -73,10 +73,10 @@
     level: 4
     community: null
     description: "A very competent editor with support for real time collaboration. Good documentation and information.\n"
-    open_issues: 20
-    watchers: 2654
-    updated_at: '2017-08-21T20:04:16Z'
-    stargazers_count: 2654
+    open_issues: 19
+    watchers: 2653
+    updated_at: '2017-08-22T17:56:23Z'
+    stargazers_count: 2653
     github_description: 'The ProseMirror WYSIWYM editor'
 -
     title: ContentTools
@@ -90,9 +90,9 @@
     license: MIT
     community: 5
     open_issues: 36
-    watchers: 2920
-    updated_at: '2017-08-21T17:50:04Z'
-    stargazers_count: 2920
+    watchers: 2921
+    updated_at: '2017-08-22T17:48:49Z'
+    stargazers_count: 2921
     github_description: 'A JS library for building WYSIWYG editors for HTML content.'
 -
     title: Slate
@@ -107,7 +107,7 @@
     community: null
     open_issues: 177
     watchers: 5318
-    updated_at: '2017-08-22T01:38:01Z'
+    updated_at: '2017-08-22T16:22:14Z'
     stargazers_count: 5318
     github_description: 'A completely customizable framework for building rich text editors.'
 -
@@ -121,7 +121,7 @@
     format: HTML
     license: Apache
     community: null
-    open_issues: 101
+    open_issues: 102
     watchers: 3534
     updated_at: '2017-08-21T15:12:06Z'
     stargazers_count: 3534

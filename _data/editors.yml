@@ -9,7 +9,7 @@
     format: XML/HTML
     license: MIT
     community: null
-    open_issues: 155
+    open_issues: 156
     watchers: 2260
     updated_at: '2017-09-10T01:16:19Z'
     stargazers_count: 2260
@@ -43,9 +43,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 453
-    watchers: 10869
-    updated_at: '2017-09-09T18:49:02Z'
-    stargazers_count: 10869
+    watchers: 10873
+    updated_at: '2017-09-10T15:11:40Z'
+    stargazers_count: 10873
     github_description: 'A React framework for building text editors.'
 -
     title: Trix
@@ -59,9 +59,9 @@
     license: MIT
     community: null
     open_issues: 41
-    watchers: 7943
-    updated_at: '2017-09-09T17:40:22Z'
-    stargazers_count: 7943
+    watchers: 7942
+    updated_at: '2017-09-10T13:51:43Z'
+    stargazers_count: 7942
     github_description: 'A rich text editor for everyday writing'
 -
     title: Prosemirror
@@ -73,7 +73,7 @@
     level: 4
     community: null
     description: "A very competent editor with support for real time collaboration. Good documentation and information.\n"
-    open_issues: 20
+    open_issues: 19
     watchers: 2676
     updated_at: '2017-09-09T15:13:05Z'
     stargazers_count: 2676
@@ -105,7 +105,7 @@
     format: XML/HTML
     license: MIT
     community: null
-    open_issues: 144
+    open_issues: 147
     watchers: 5383
     updated_at: '2017-09-09T19:22:28Z'
     stargazers_count: 5383
@@ -138,7 +138,7 @@
     format: JSON
     license: MIT
     community: null
-    open_issues: 35
+    open_issues: 36
     watchers: 691
     updated_at: '2017-09-09T12:34:43Z'
     stargazers_count: 691

@@ -27,9 +27,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 172
-    watchers: 14879
-    updated_at: '2017-09-24T05:26:38Z'
-    stargazers_count: 14879
+    watchers: 14882
+    updated_at: '2017-09-24T16:29:57Z'
+    stargazers_count: 14882
     github_description: 'Quill is a modern rich text editor built for compatibility and extensibility.'
 -
     title: Draft.js
@@ -43,9 +43,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 463
-    watchers: 10953
-    updated_at: '2017-09-24T04:52:56Z'
-    stargazers_count: 10953
+    watchers: 10959
+    updated_at: '2017-09-24T17:51:34Z'
+    stargazers_count: 10959
     github_description: 'A React framework for building text editors.'
 -
     title: Trix
@@ -59,9 +59,9 @@
     license: MIT
     community: null
     open_issues: 43
-    watchers: 7963
-    updated_at: '2017-09-23T11:08:11Z'
-    stargazers_count: 7963
+    watchers: 7965
+    updated_at: '2017-09-24T17:43:42Z'
+    stargazers_count: 7965
     github_description: 'A rich text editor for everyday writing'
 -
     title: Prosemirror
@@ -74,9 +74,9 @@
     community: null
     description: "A very competent editor with support for real time collaboration. Good documentation and information.\n"
     open_issues: 14
-    watchers: 2690
-    updated_at: '2017-09-23T06:29:45Z'
-    stargazers_count: 2690
+    watchers: 2691
+    updated_at: '2017-09-24T11:40:46Z'
+    stargazers_count: 2691
     github_description: 'The ProseMirror WYSIWYM editor'
 -
     title: ContentTools
@@ -106,9 +106,9 @@
     license: MIT
     community: null
     open_issues: 143
-    watchers: 5419
-    updated_at: '2017-09-23T15:55:57Z'
-    stargazers_count: 5419
+    watchers: 5420
+    updated_at: '2017-09-24T07:42:39Z'
+    stargazers_count: 5420
     github_description: 'A completely customizable framework for building rich text editors.'
 -
     title: Scribe
@@ -123,7 +123,7 @@
     community: null
     open_issues: 102
     watchers: 3543
-    updated_at: '2017-09-21T15:16:02Z'
+    updated_at: '2017-09-24T13:34:52Z'
     stargazers_count: 3543
     github_description: 'A rich text editor framework for the web platform'
 -

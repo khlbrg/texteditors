@@ -10,9 +10,9 @@
     license: MIT
     community: null
     open_issues: 155
-    watchers: 2277
-    updated_at: '2017-10-02T10:06:33Z'
-    stargazers_count: 2277
+    watchers: 2278
+    updated_at: '2017-10-02T19:07:17Z'
+    stargazers_count: 2278
     github_description: 'A JavaScript library for web-based content editing.'
 -
     title: Quill
@@ -27,9 +27,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 184
-    watchers: 14968
-    updated_at: '2017-10-02T18:24:38Z'
-    stargazers_count: 14968
+    watchers: 14970
+    updated_at: '2017-10-03T03:15:21Z'
+    stargazers_count: 14970
     github_description: 'Quill is a modern rich text editor built for compatibility and extensibility.'
 -
     title: Draft.js
@@ -43,9 +43,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 461
-    watchers: 11020
-    updated_at: '2017-10-02T12:25:44Z'
-    stargazers_count: 11020
+    watchers: 11022
+    updated_at: '2017-10-03T03:05:36Z'
+    stargazers_count: 11022
     github_description: 'A React framework for building text editors.'
 -
     title: Trix
@@ -60,7 +60,7 @@
     community: null
     open_issues: 42
     watchers: 7984
-    updated_at: '2017-10-02T13:17:19Z'
+    updated_at: '2017-10-02T20:38:21Z'
     stargazers_count: 7984
     github_description: 'A rich text editor for everyday writing'
 -
@@ -90,9 +90,9 @@
     license: MIT
     community: 5
     open_issues: 39
-    watchers: 2966
-    updated_at: '2017-10-02T08:37:30Z'
-    stargazers_count: 2966
+    watchers: 2970
+    updated_at: '2017-10-03T04:33:05Z'
+    stargazers_count: 2970
     github_description: 'A JS library for building WYSIWYG editors for HTML content.'
 -
     title: Slate
@@ -107,7 +107,7 @@
     community: null
     open_issues: 153
     watchers: 5445
-    updated_at: '2017-10-02T09:44:59Z'
+    updated_at: '2017-10-03T03:11:22Z'
     stargazers_count: 5445
     github_description: 'A completely customizable framework for building rich text editors.'
 -
@@ -139,7 +139,7 @@
     license: MIT
     community: null
     open_issues: 39
-    watchers: 707
-    updated_at: '2017-10-02T10:56:47Z'
-    stargazers_count: 707
+    watchers: 708
+    updated_at: '2017-10-02T19:08:15Z'
+    stargazers_count: 708
     github_description: 'A toolkit for building WYSIWYG editors with Mobiledoc'

@@ -26,10 +26,10 @@
     format: XML/HTML
     license: 'BSD 3-clause'
     community: null
-    open_issues: 180
-    watchers: 15009
-    updated_at: '2017-10-08T18:17:22Z'
-    stargazers_count: 15009
+    open_issues: 178
+    watchers: 15013
+    updated_at: '2017-10-09T05:35:28Z'
+    stargazers_count: 15013
     github_description: 'Quill is a modern rich text editor built for compatibility and extensibility.'
 -
     title: Draft.js
@@ -44,7 +44,7 @@
     community: null
     open_issues: 460
     watchers: 11059
-    updated_at: '2017-10-08T15:23:28Z'
+    updated_at: '2017-10-08T21:54:48Z'
     stargazers_count: 11059
     github_description: 'A React framework for building text editors.'
 -
@@ -105,7 +105,7 @@
     format: XML/HTML
     license: MIT
     community: null
-    open_issues: 162
+    open_issues: 163
     watchers: 5464
     updated_at: '2017-10-08T11:42:11Z'
     stargazers_count: 5464

@@ -26,10 +26,10 @@
     format: XML/HTML
     license: 'BSD 3-clause'
     community: null
-    open_issues: 188
-    watchers: 15206
-    updated_at: '2017-10-23T18:20:31Z'
-    stargazers_count: 15206
+    open_issues: 189
+    watchers: 15214
+    updated_at: '2017-10-24T05:12:50Z'
+    stargazers_count: 15214
     github_description: 'Quill is a modern rich text editor built for compatibility and extensibility.'
 -
     title: Draft.js
@@ -42,10 +42,10 @@
     format: XML/HTML
     license: 'BSD 3-clause'
     community: null
-    open_issues: 458
-    watchers: 11174
-    updated_at: '2017-10-23T17:31:06Z'
-    stargazers_count: 11174
+    open_issues: 460
+    watchers: 11178
+    updated_at: '2017-10-24T04:21:10Z'
+    stargazers_count: 11178
     github_description: 'A React framework for building text editors.'
 -
     title: Trix
@@ -74,9 +74,9 @@
     community: null
     description: "A very competent editor with support for real time collaboration. Good documentation and information.\n"
     open_issues: 12
-    watchers: 2971
-    updated_at: '2017-10-23T08:40:16Z'
-    stargazers_count: 2971
+    watchers: 2972
+    updated_at: '2017-10-23T22:22:37Z'
+    stargazers_count: 2972
     github_description: 'The ProseMirror WYSIWYM editor'
 -
     title: ContentTools
@@ -90,9 +90,9 @@
     license: MIT
     community: 5
     open_issues: 42
-    watchers: 2992
-    updated_at: '2017-10-23T14:04:35Z'
-    stargazers_count: 2992
+    watchers: 2993
+    updated_at: '2017-10-24T02:55:01Z'
+    stargazers_count: 2993
     github_description: 'A JS library for building WYSIWYG editors for HTML content.'
 -
     title: Slate
@@ -105,10 +105,10 @@
     format: XML/HTML
     license: MIT
     community: null
-    open_issues: 163
-    watchers: 5762
-    updated_at: '2017-10-23T16:11:12Z'
-    stargazers_count: 5762
+    open_issues: 165
+    watchers: 5766
+    updated_at: '2017-10-24T03:08:58Z'
+    stargazers_count: 5766
     github_description: 'A completely customizable framework for building rich text editors.'
 -
     title: Scribe
@@ -138,7 +138,7 @@
     format: JSON
     license: MIT
     community: null
-    open_issues: 37
+    open_issues: 38
     watchers: 719
     updated_at: '2017-10-21T13:48:25Z'
     stargazers_count: 719

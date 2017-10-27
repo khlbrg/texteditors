@@ -32,6 +32,23 @@
     stargazers_count: 15268
     github_description: 'Quill is a modern rich text editor built for compatibility and extensibility.'
 -
+    title: CKEditor5
+    website: 'https://ckeditor.com/ckeditor-5-framework/'
+    github: 'https://github.com/ckeditor/ckeditor5'
+    getStarted: 'https://docs.ckeditor.com/ckeditor5/latest/examples/index.html'
+    logo: assets/quill-logo.svg
+    description: "CKEditor 5 is a modular, multi-package, multi-repository project. It consists of a several packages which create the editing framework, based on which the feature packages are implemented.\n"
+    level: 4
+    page: ckeditor5
+    format: XML/HTML
+    license: 'GPL/LGPL/MPL'
+    community: null
+    open_issues: 194
+    watchers: 15268
+    updated_at: '2017-10-27T06:05:45Z'
+    stargazers_count: 15268
+    github_description: 'Quill is a modern rich text editor built for compatibility and extensibility.'
+-
     title: Draft.js
     website: 'https://draftjs.org/'
     getStarted: 'https://draftjs.org/docs/overview.html#content'

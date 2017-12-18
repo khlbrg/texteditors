@@ -27,9 +27,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 206
-    watchers: 15925
-    updated_at: '2017-12-18T04:01:16Z'
-    stargazers_count: 15925
+    watchers: 15926
+    updated_at: '2017-12-18T17:24:56Z'
+    stargazers_count: 15926
     github_description: 'Quill is a modern rich text editor built for compatibility and extensibility.'
 -
     title: CKEditor5
@@ -43,7 +43,7 @@
     format: XML/HTML
     license: GPL/LGPL/MPL
     community: null
-    open_issues: 155
+    open_issues: 157
     watchers: 586
     updated_at: '2017-12-18T03:17:53Z'
     stargazers_count: 586
@@ -60,9 +60,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 468
-    watchers: 11637
-    updated_at: '2017-12-17T16:49:53Z'
-    stargazers_count: 11637
+    watchers: 11649
+    updated_at: '2017-12-18T18:34:33Z'
+    stargazers_count: 11649
     github_description: 'A React framework for building text editors.'
 -
     title: Trix
@@ -90,7 +90,7 @@
     level: 4
     community: null
     description: "A very competent editor with support for real time collaboration. Good documentation and information.\n"
-    open_issues: 18
+    open_issues: 19
     watchers: 3073
     updated_at: '2017-12-16T19:14:36Z'
     stargazers_count: 3073
@@ -106,7 +106,7 @@
     format: XML/HTML
     license: MIT
     community: 5
-    open_issues: 40
+    open_issues: 41
     watchers: 3059
     updated_at: '2017-12-17T19:10:41Z'
     stargazers_count: 3059
@@ -123,9 +123,9 @@
     license: MIT
     community: null
     open_issues: 164
-    watchers: 6167
-    updated_at: '2017-12-18T06:27:12Z'
-    stargazers_count: 6167
+    watchers: 6176
+    updated_at: '2017-12-18T15:02:38Z'
+    stargazers_count: 6176
     github_description: 'A completely customizable framework for building rich text editors.'
 -
     title: Scribe
@@ -138,7 +138,7 @@
     format: HTML
     license: Apache
     community: null
-    open_issues: 104
+    open_issues: 105
     watchers: 3566
     updated_at: '2017-12-13T17:16:46Z'
     stargazers_count: 3566
@@ -155,7 +155,7 @@
     format: JSON
     license: MIT
     community: null
-    open_issues: 45
+    open_issues: 46
     watchers: 732
     updated_at: '2017-12-17T23:28:12Z'
     stargazers_count: 732

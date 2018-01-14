@@ -26,10 +26,10 @@
     format: XML/HTML
     license: 'BSD 3-clause'
     community: null
-    open_issues: 227
-    watchers: 16228
-    updated_at: '2018-01-13T18:17:53Z'
-    stargazers_count: 16228
+    open_issues: 229
+    watchers: 16231
+    updated_at: '2018-01-14T05:12:49Z'
+    stargazers_count: 16231
     github_description: 'Quill is a modern WYSIWYG editor built for compatibility and extensibility.'
 -
     title: CKEditor5
@@ -44,9 +44,9 @@
     license: GPL/LGPL/MPL
     community: null
     open_issues: 175
-    watchers: 640
-    updated_at: '2018-01-13T03:46:15Z'
-    stargazers_count: 640
+    watchers: 641
+    updated_at: '2018-01-13T20:31:40Z'
+    stargazers_count: 641
     github_description: 'Development environment for CKEditor 5; the best browser-based rich text editor.'
 -
     title: Draft.js
@@ -59,10 +59,10 @@
     format: XML/HTML
     license: 'BSD 3-clause'
     community: null
-    open_issues: 484
-    watchers: 11860
-    updated_at: '2018-01-13T14:18:29Z'
-    stargazers_count: 11860
+    open_issues: 488
+    watchers: 11862
+    updated_at: '2018-01-14T06:07:55Z'
+    stargazers_count: 11862
     github_description: 'A React framework for building text editors.'
 -
     title: Trix
@@ -91,9 +91,9 @@
     community: null
     description: "A very competent editor with support for real time collaboration. Good documentation and information.\n"
     open_issues: 19
-    watchers: 3112
-    updated_at: '2018-01-13T08:36:57Z'
-    stargazers_count: 3112
+    watchers: 3113
+    updated_at: '2018-01-14T04:40:33Z'
+    stargazers_count: 3113
     github_description: 'The ProseMirror WYSIWYM editor'
 -
     title: ContentTools
@@ -122,10 +122,10 @@
     format: XML/HTML
     license: MIT
     community: null
-    open_issues: 173
-    watchers: 6383
-    updated_at: '2018-01-13T18:26:57Z'
-    stargazers_count: 6383
+    open_issues: 171
+    watchers: 6387
+    updated_at: '2018-01-13T22:41:12Z'
+    stargazers_count: 6387
     github_description: 'A completely customizable framework for building rich text editors.'
 -
     title: Scribe

@@ -10,9 +10,9 @@
     license: MIT
     community: null
     open_issues: 166
-    watchers: 2379
-    updated_at: '2018-02-09T12:56:24Z'
-    stargazers_count: 2379
+    watchers: 2380
+    updated_at: '2018-02-12T01:02:29Z'
+    stargazers_count: 2380
     github_description: 'A JavaScript library for web-based content editing.'
 -
     title: Quill
@@ -27,9 +27,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 235
-    watchers: 16646
-    updated_at: '2018-02-11T17:16:10Z'
-    stargazers_count: 16646
+    watchers: 16649
+    updated_at: '2018-02-12T06:00:47Z'
+    stargazers_count: 16649
     github_description: 'Quill is a modern WYSIWYG editor built for compatibility and extensibility.'
 -
     title: CKEditor5
@@ -60,9 +60,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 486
-    watchers: 12074
-    updated_at: '2018-02-11T14:27:06Z'
-    stargazers_count: 12074
+    watchers: 12076
+    updated_at: '2018-02-12T04:21:08Z'
+    stargazers_count: 12076
     github_description: 'A React framework for building text editors.'
 -
     title: Trix
@@ -76,9 +76,9 @@
     license: MIT
     community: null
     open_issues: 48
-    watchers: 8445
-    updated_at: '2018-02-10T19:15:17Z'
-    stargazers_count: 8445
+    watchers: 8448
+    updated_at: '2018-02-12T03:40:37Z'
+    stargazers_count: 8448
     github_description: 'A rich text editor for everyday writing'
 -
     title: Prosemirror
@@ -124,7 +124,7 @@
     community: null
     open_issues: 182
     watchers: 6577
-    updated_at: '2018-02-11T10:40:39Z'
+    updated_at: '2018-02-12T00:29:23Z'
     stargazers_count: 6577
     github_description: 'A completely customizable framework for building rich text editors.'
 -
@@ -139,9 +139,9 @@
     license: Apache
     community: null
     open_issues: 104
-    watchers: 3578
-    updated_at: '2018-02-09T07:46:00Z'
-    stargazers_count: 3578
+    watchers: 3579
+    updated_at: '2018-02-12T05:34:36Z'
+    stargazers_count: 3579
     github_description: 'A rich text editor framework for the web platform'
 -
     title: Mobiledoc-kit

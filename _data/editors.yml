@@ -10,9 +10,9 @@
     license: MIT
     community: null
     open_issues: 166
-    watchers: 2385
-    updated_at: '2018-02-17T15:28:18Z'
-    stargazers_count: 2385
+    watchers: 2386
+    updated_at: '2018-02-18T02:07:55Z'
+    stargazers_count: 2386
     github_description: 'A JavaScript library for web-based content editing.'
 -
     title: Quill
@@ -28,7 +28,7 @@
     community: null
     open_issues: 247
     watchers: 16715
-    updated_at: '2018-02-17T18:01:34Z'
+    updated_at: '2018-02-18T05:35:21Z'
     stargazers_count: 16715
     github_description: 'Quill is a modern WYSIWYG editor built for compatibility and extensibility.'
 -
@@ -76,9 +76,9 @@
     license: MIT
     community: null
     open_issues: 49
-    watchers: 8464
-    updated_at: '2018-02-17T10:32:47Z'
-    stargazers_count: 8464
+    watchers: 8468
+    updated_at: '2018-02-18T04:11:31Z'
+    stargazers_count: 8468
     github_description: 'A rich text editor for everyday writing'
 -
     title: Prosemirror
@@ -122,9 +122,9 @@
     format: XML/HTML
     license: MIT
     community: null
-    open_issues: 195
+    open_issues: 197
     watchers: 6604
-    updated_at: '2018-02-17T14:35:58Z'
+    updated_at: '2018-02-17T21:49:56Z'
     stargazers_count: 6604
     github_description: 'A completely customizable framework for building rich text editors.'
 -

@@ -9,7 +9,7 @@
     format: XML/HTML
     license: MIT
     community: null
-    open_issues: 168
+    open_issues: 167
     watchers: 2395
     updated_at: '2018-02-24T15:03:03Z'
     stargazers_count: 2395
@@ -27,9 +27,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 254
-    watchers: 16796
-    updated_at: '2018-02-25T00:13:57Z'
-    stargazers_count: 16796
+    watchers: 16798
+    updated_at: '2018-02-25T17:58:43Z'
+    stargazers_count: 16798
     github_description: 'Quill is a modern WYSIWYG editor built for compatibility and extensibility.'
 -
     title: CKEditor5
@@ -44,9 +44,9 @@
     license: GPL/LGPL/MPL
     community: null
     open_issues: 207
-    watchers: 717
-    updated_at: '2018-02-23T17:29:24Z'
-    stargazers_count: 717
+    watchers: 719
+    updated_at: '2018-02-25T11:14:03Z'
+    stargazers_count: 719
     github_description: 'Development environment for CKEditor 5; the best browser-based rich text editor.'
 -
     title: Draft.js
@@ -60,9 +60,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 497
-    watchers: 12164
-    updated_at: '2018-02-25T05:54:54Z'
-    stargazers_count: 12164
+    watchers: 12166
+    updated_at: '2018-02-25T17:13:18Z'
+    stargazers_count: 12166
     github_description: 'A React framework for building text editors.'
 -
     title: Trix
@@ -76,9 +76,9 @@
     license: MIT
     community: null
     open_issues: 51
-    watchers: 8492
-    updated_at: '2018-02-25T04:45:35Z'
-    stargazers_count: 8492
+    watchers: 8493
+    updated_at: '2018-02-25T08:34:11Z'
+    stargazers_count: 8493
     github_description: 'A rich text editor for everyday writing'
 -
     title: Prosemirror
@@ -123,9 +123,9 @@
     license: MIT
     community: null
     open_issues: 195
-    watchers: 6658
-    updated_at: '2018-02-25T01:40:03Z'
-    stargazers_count: 6658
+    watchers: 6661
+    updated_at: '2018-02-25T16:42:24Z'
+    stargazers_count: 6661
     github_description: 'A completely customizable framework for building rich text editors.'
 -
     title: Scribe

@@ -27,9 +27,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 264
-    watchers: 16900
-    updated_at: '2018-03-03T05:32:35Z'
-    stargazers_count: 16900
+    watchers: 16904
+    updated_at: '2018-03-03T13:50:26Z'
+    stargazers_count: 16904
     github_description: 'Quill is a modern WYSIWYG editor built for compatibility and extensibility.'
 -
     title: CKEditor5
@@ -43,7 +43,7 @@
     format: XML/HTML
     license: GPL/LGPL/MPL
     community: null
-    open_issues: 201
+    open_issues: 202
     watchers: 731
     updated_at: '2018-03-02T18:17:30Z'
     stargazers_count: 731
@@ -60,9 +60,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 498
-    watchers: 12226
-    updated_at: '2018-03-02T22:27:30Z'
-    stargazers_count: 12226
+    watchers: 12227
+    updated_at: '2018-03-03T07:30:46Z'
+    stargazers_count: 12227
     github_description: 'A React framework for building text editors.'
 -
     title: Trix
@@ -76,9 +76,9 @@
     license: MIT
     community: null
     open_issues: 51
-    watchers: 8504
-    updated_at: '2018-03-02T07:15:05Z'
-    stargazers_count: 8504
+    watchers: 8505
+    updated_at: '2018-03-03T18:34:49Z'
+    stargazers_count: 8505
     github_description: 'A rich text editor for everyday writing'
 -
     title: Prosemirror
@@ -91,9 +91,9 @@
     community: null
     description: "A very competent editor with support for real time collaboration. Good documentation and information.\n"
     open_issues: 21
-    watchers: 3168
-    updated_at: '2018-03-02T23:36:44Z'
-    stargazers_count: 3168
+    watchers: 3169
+    updated_at: '2018-03-03T11:27:58Z'
+    stargazers_count: 3169
     github_description: 'The ProseMirror WYSIWYM editor'
 -
     title: ContentTools
@@ -123,9 +123,9 @@
     license: MIT
     community: null
     open_issues: 203
-    watchers: 6710
-    updated_at: '2018-03-03T05:32:23Z'
-    stargazers_count: 6710
+    watchers: 6711
+    updated_at: '2018-03-03T18:12:49Z'
+    stargazers_count: 6711
     github_description: 'A completely customizable framework for building rich text editors.'
 -
     title: Scribe

@@ -60,9 +60,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 501
-    watchers: 12302
-    updated_at: '2018-03-10T15:55:29Z'
-    stargazers_count: 12302
+    watchers: 12304
+    updated_at: '2018-03-10T22:33:43Z'
+    stargazers_count: 12304
     github_description: 'A React framework for building text editors.'
 -
     title: Trix
@@ -76,9 +76,9 @@
     license: MIT
     community: null
     open_issues: 52
-    watchers: 8529
-    updated_at: '2018-03-10T17:59:27Z'
-    stargazers_count: 8529
+    watchers: 8530
+    updated_at: '2018-03-11T05:38:35Z'
+    stargazers_count: 8530
     github_description: 'A rich text editor for everyday writing'
 -
     title: Prosemirror
@@ -123,9 +123,9 @@
     license: MIT
     community: null
     open_issues: 208
-    watchers: 6800
-    updated_at: '2018-03-10T17:19:55Z'
-    stargazers_count: 6800
+    watchers: 6804
+    updated_at: '2018-03-11T06:35:15Z'
+    stargazers_count: 6804
     github_description: 'A completely customizable framework for building rich text editors.'
 -
     title: Scribe
@@ -156,7 +156,7 @@
     license: MIT
     community: null
     open_issues: 50
-    watchers: 748
-    updated_at: '2018-03-09T22:00:27Z'
-    stargazers_count: 748
+    watchers: 749
+    updated_at: '2018-03-11T01:02:32Z'
+    stargazers_count: 749
     github_description: 'A toolkit for building WYSIWYG editors with Mobiledoc'

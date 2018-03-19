@@ -26,10 +26,10 @@
     format: XML/HTML
     license: 'BSD 3-clause'
     community: null
-    open_issues: 280
-    watchers: 17134
-    updated_at: '2018-03-18T17:43:09Z'
-    stargazers_count: 17134
+    open_issues: 279
+    watchers: 17142
+    updated_at: '2018-03-19T02:33:27Z'
+    stargazers_count: 17142
     github_description: 'Quill is a modern WYSIWYG editor built for compatibility and extensibility.'
 -
     title: CKEditor5
@@ -60,9 +60,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 506
-    watchers: 12361
-    updated_at: '2018-03-18T14:58:23Z'
-    stargazers_count: 12361
+    watchers: 12364
+    updated_at: '2018-03-19T05:53:36Z'
+    stargazers_count: 12364
     github_description: 'A React framework for building text editors.'
 -
     title: Trix
@@ -76,9 +76,9 @@
     license: MIT
     community: null
     open_issues: 53
-    watchers: 8545
-    updated_at: '2018-03-18T17:16:33Z'
-    stargazers_count: 8545
+    watchers: 8546
+    updated_at: '2018-03-18T23:52:13Z'
+    stargazers_count: 8546
     github_description: 'A rich text editor for everyday writing'
 -
     title: Prosemirror
@@ -90,10 +90,10 @@
     level: 4
     community: null
     description: "A very competent editor with support for real time collaboration. Good documentation and information.\n"
-    open_issues: 18
-    watchers: 3179
-    updated_at: '2018-03-18T15:27:39Z'
-    stargazers_count: 3179
+    open_issues: 20
+    watchers: 3181
+    updated_at: '2018-03-19T02:56:37Z'
+    stargazers_count: 3181
     github_description: 'The ProseMirror WYSIWYM editor'
 -
     title: ContentTools
@@ -122,10 +122,10 @@
     format: XML/HTML
     license: MIT
     community: null
-    open_issues: 216
-    watchers: 6860
-    updated_at: '2018-03-18T17:08:49Z'
-    stargazers_count: 6860
+    open_issues: 217
+    watchers: 6865
+    updated_at: '2018-03-19T02:59:39Z'
+    stargazers_count: 6865
     github_description: 'A completely customizable framework for building rich text editors.'
 -
     title: Scribe

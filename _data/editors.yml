@@ -27,9 +27,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 386
-    watchers: 18650
-    updated_at: '2018-07-01T15:15:24Z'
-    stargazers_count: 18650
+    watchers: 18657
+    updated_at: '2018-07-02T06:30:14Z'
+    stargazers_count: 18657
     github_description: 'Quill is a modern WYSIWYG editor built for compatibility and extensibility.'
 -
     title: CKEditor5
@@ -44,9 +44,9 @@
     license: GPL/LGPL/MPL
     community: null
     open_issues: 286
-    watchers: 1139
-    updated_at: '2018-07-01T15:59:52Z'
-    stargazers_count: 1139
+    watchers: 1142
+    updated_at: '2018-07-02T04:00:10Z'
+    stargazers_count: 1142
     github_description: 'Development environment for CKEditor 5; the best browser-based rich text editor.'
 -
     title: Draft.js
@@ -59,10 +59,10 @@
     format: XML/HTML
     license: 'BSD 3-clause'
     community: null
-    open_issues: 575
-    watchers: 13255
-    updated_at: '2018-07-01T16:14:11Z'
-    stargazers_count: 13255
+    open_issues: 574
+    watchers: 13258
+    updated_at: '2018-07-02T06:29:57Z'
+    stargazers_count: 13258
     github_description: 'A React framework for building text editors.'
 -
     title: Trix
@@ -91,9 +91,9 @@
     community: null
     description: "A very competent editor with support for real time collaboration. Good documentation and information.\n"
     open_issues: 28
-    watchers: 3438
-    updated_at: '2018-07-01T05:29:08Z'
-    stargazers_count: 3438
+    watchers: 3439
+    updated_at: '2018-07-01T23:13:31Z'
+    stargazers_count: 3439
     github_description: 'The ProseMirror WYSIWYM editor'
 -
     title: ContentTools
@@ -122,10 +122,10 @@
     format: XML/HTML
     license: MIT
     community: null
-    open_issues: 254
-    watchers: 7747
-    updated_at: '2018-07-01T12:39:18Z'
-    stargazers_count: 7747
+    open_issues: 248
+    watchers: 7752
+    updated_at: '2018-07-02T06:05:10Z'
+    stargazers_count: 7752
     github_description: 'A completely customizable framework for building rich text editors.'
 -
     title: Scribe

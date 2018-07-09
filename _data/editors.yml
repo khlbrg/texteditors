@@ -27,9 +27,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 387
-    watchers: 18760
-    updated_at: '2018-07-08T13:47:56Z'
-    stargazers_count: 18760
+    watchers: 18765
+    updated_at: '2018-07-09T06:31:31Z'
+    stargazers_count: 18765
     github_description: 'Quill is a modern WYSIWYG editor built for compatibility and extensibility.'
 -
     title: CKEditor5
@@ -43,7 +43,7 @@
     format: XML/HTML
     license: GPL/LGPL/MPL
     community: null
-    open_issues: 279
+    open_issues: 280
     watchers: 1161
     updated_at: '2018-07-07T17:57:09Z'
     stargazers_count: 1161
@@ -60,9 +60,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 581
-    watchers: 13299
-    updated_at: '2018-07-08T16:36:07Z'
-    stargazers_count: 13299
+    watchers: 13302
+    updated_at: '2018-07-09T04:42:03Z'
+    stargazers_count: 13302
     github_description: 'A React framework for building text editors.'
 -
     title: Trix
@@ -76,9 +76,9 @@
     license: MIT
     community: null
     open_issues: 48
-    watchers: 8757
-    updated_at: '2018-07-08T16:18:38Z'
-    stargazers_count: 8757
+    watchers: 8758
+    updated_at: '2018-07-08T23:55:01Z'
+    stargazers_count: 8758
     github_description: 'A rich text editor for everyday writing'
 -
     title: Prosemirror
@@ -91,9 +91,9 @@
     community: null
     description: "A very competent editor with support for real time collaboration. Good documentation and information.\n"
     open_issues: 28
-    watchers: 3453
-    updated_at: '2018-07-08T01:45:23Z'
-    stargazers_count: 3453
+    watchers: 3454
+    updated_at: '2018-07-09T02:48:52Z'
+    stargazers_count: 3454
     github_description: 'The ProseMirror WYSIWYM editor'
 -
     title: ContentTools
@@ -123,9 +123,9 @@
     license: MIT
     community: null
     open_issues: 255
-    watchers: 7799
-    updated_at: '2018-07-08T12:09:46Z'
-    stargazers_count: 7799
+    watchers: 7803
+    updated_at: '2018-07-09T05:21:36Z'
+    stargazers_count: 7803
     github_description: 'A completely customizable framework for building rich text editors.'
 -
     title: Scribe

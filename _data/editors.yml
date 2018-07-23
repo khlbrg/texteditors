@@ -44,9 +44,9 @@
     license: GPL/LGPL/MPL
     community: null
     open_issues: 273
-    watchers: 1193
-    updated_at: '2018-07-21T18:01:18Z'
-    stargazers_count: 1193
+    watchers: 1196
+    updated_at: '2018-07-23T02:37:36Z'
+    stargazers_count: 1196
     github_description: 'Development environment for CKEditor 5 – the best browser-based rich text editor.'
 -
     title: Draft.js
@@ -60,9 +60,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 584
-    watchers: 13419
-    updated_at: '2018-07-22T14:19:49Z'
-    stargazers_count: 13419
+    watchers: 13423
+    updated_at: '2018-07-23T02:26:17Z'
+    stargazers_count: 13423
     github_description: 'A React framework for building text editors.'
 -
     title: Trix
@@ -91,9 +91,9 @@
     community: null
     description: "A very competent editor with support for real time collaboration. Good documentation and information.\n"
     open_issues: 32
-    watchers: 3474
-    updated_at: '2018-07-22T10:27:36Z'
-    stargazers_count: 3474
+    watchers: 3476
+    updated_at: '2018-07-23T02:53:37Z'
+    stargazers_count: 3476
     github_description: 'The ProseMirror WYSIWYM editor'
 -
     title: ContentTools
@@ -123,9 +123,9 @@
     license: MIT
     community: null
     open_issues: 265
-    watchers: 7971
-    updated_at: '2018-07-22T17:52:12Z'
-    stargazers_count: 7971
+    watchers: 7980
+    updated_at: '2018-07-23T06:21:20Z'
+    stargazers_count: 7980
     github_description: 'A completely customizable framework for building rich text editors.'
 -
     title: Scribe

@@ -10,9 +10,9 @@
     license: MIT
     community: null
     open_issues: 172
-    watchers: 2526
-    updated_at: '2018-07-30T15:15:54Z'
-    stargazers_count: 2526
+    watchers: 2528
+    updated_at: '2018-08-02T01:36:02Z'
+    stargazers_count: 2528
     github_description: 'A JavaScript library for web-based content editing.'
 -
     title: Quill
@@ -26,10 +26,10 @@
     format: XML/HTML
     license: 'BSD 3-clause'
     community: null
-    open_issues: 402
-    watchers: 19075
-    updated_at: '2018-08-01T16:51:22Z'
-    stargazers_count: 19075
+    open_issues: 403
+    watchers: 19084
+    updated_at: '2018-08-02T06:32:29Z'
+    stargazers_count: 19084
     github_description: 'Quill is a modern WYSIWYG editor built for compatibility and extensibility.'
 -
     title: CKEditor5
@@ -59,10 +59,10 @@
     format: XML/HTML
     license: 'BSD 3-clause'
     community: null
-    open_issues: 589
-    watchers: 13488
-    updated_at: '2018-08-01T18:33:21Z'
-    stargazers_count: 13488
+    open_issues: 590
+    watchers: 13494
+    updated_at: '2018-08-02T06:16:44Z'
+    stargazers_count: 13494
     github_description: 'A React framework for building text editors.'
 -
     title: Trix
@@ -76,9 +76,9 @@
     license: MIT
     community: null
     open_issues: 49
-    watchers: 8850
-    updated_at: '2018-08-01T12:15:46Z'
-    stargazers_count: 8850
+    watchers: 8851
+    updated_at: '2018-08-01T23:13:51Z'
+    stargazers_count: 8851
     github_description: 'A rich text editor for everyday writing'
 -
     title: Prosemirror
@@ -122,10 +122,10 @@
     format: XML/HTML
     license: MIT
     community: null
-    open_issues: 271
-    watchers: 8097
-    updated_at: '2018-08-01T17:14:35Z'
-    stargazers_count: 8097
+    open_issues: 272
+    watchers: 8104
+    updated_at: '2018-08-02T06:16:50Z'
+    stargazers_count: 8104
     github_description: 'A completely customizable framework for building rich text editors.'
 -
     title: Scribe
@@ -155,7 +155,7 @@
     format: JSON
     license: MIT
     community: null
-    open_issues: 59
+    open_issues: 60
     watchers: 782
     updated_at: '2018-07-25T16:59:54Z'
     stargazers_count: 782

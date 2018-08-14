@@ -10,9 +10,9 @@
     license: MIT
     community: null
     open_issues: 172
-    watchers: 2539
-    updated_at: '2018-08-14T01:28:07Z'
-    stargazers_count: 2539
+    watchers: 2541
+    updated_at: '2018-08-14T16:10:29Z'
+    stargazers_count: 2541
     github_description: 'A JavaScript library for web-based content editing.'
 -
     title: Quill
@@ -26,10 +26,10 @@
     format: XML/HTML
     license: 'BSD 3-clause'
     community: null
-    open_issues: 416
-    watchers: 19234
-    updated_at: '2018-08-14T06:26:46Z'
-    stargazers_count: 19234
+    open_issues: 419
+    watchers: 19243
+    updated_at: '2018-08-14T13:35:32Z'
+    stargazers_count: 19243
     github_description: 'Quill is a modern WYSIWYG editor built for compatibility and extensibility.'
 -
     title: CKEditor5
@@ -43,7 +43,7 @@
     format: XML/HTML
     license: GPL/LGPL/MPL
     community: null
-    open_issues: 285
+    open_issues: 284
     watchers: 1263
     updated_at: '2018-08-13T13:35:00Z'
     stargazers_count: 1263
@@ -60,9 +60,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 595
-    watchers: 13583
-    updated_at: '2018-08-14T06:00:10Z'
-    stargazers_count: 13583
+    watchers: 13587
+    updated_at: '2018-08-14T18:06:38Z'
+    stargazers_count: 13587
     github_description: 'A React framework for building text editors.'
 -
     title: Trix
@@ -76,9 +76,9 @@
     license: MIT
     community: null
     open_issues: 51
-    watchers: 8877
-    updated_at: '2018-08-13T21:01:47Z'
-    stargazers_count: 8877
+    watchers: 8881
+    updated_at: '2018-08-14T16:24:03Z'
+    stargazers_count: 8881
     github_description: 'A rich text editor for everyday writing'
 -
     title: Prosemirror
@@ -122,10 +122,10 @@
     format: XML/HTML
     license: MIT
     community: null
-    open_issues: 234
-    watchers: 8235
-    updated_at: '2018-08-14T06:21:55Z'
-    stargazers_count: 8235
+    open_issues: 237
+    watchers: 8241
+    updated_at: '2018-08-14T17:20:04Z'
+    stargazers_count: 8241
     github_description: 'A completely customizable framework for building rich text editors.'
 -
     title: Scribe

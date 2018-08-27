@@ -26,10 +26,10 @@
     format: XML/HTML
     license: 'BSD 3-clause'
     community: null
-    open_issues: 426
-    watchers: 19380
-    updated_at: '2018-08-26T16:39:11Z'
-    stargazers_count: 19380
+    open_issues: 423
+    watchers: 19385
+    updated_at: '2018-08-27T05:39:41Z'
+    stargazers_count: 19385
     github_description: 'Quill is a modern WYSIWYG editor built for compatibility and extensibility.'
 -
     title: CKEditor5
@@ -43,10 +43,10 @@
     format: XML/HTML
     license: GPL/LGPL/MPL
     community: null
-    open_issues: 287
-    watchers: 1294
-    updated_at: '2018-08-26T07:25:38Z'
-    stargazers_count: 1294
+    open_issues: 288
+    watchers: 1297
+    updated_at: '2018-08-27T06:16:21Z'
+    stargazers_count: 1297
     github_description: 'Development environment for CKEditor 5 – the best browser-based rich text editor.'
 -
     title: Draft.js
@@ -60,9 +60,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 601
-    watchers: 13683
-    updated_at: '2018-08-26T15:24:47Z'
-    stargazers_count: 13683
+    watchers: 13688
+    updated_at: '2018-08-27T06:07:07Z'
+    stargazers_count: 13688
     github_description: 'A React framework for building text editors.'
 -
     title: Trix
@@ -77,7 +77,7 @@
     community: null
     open_issues: 50
     watchers: 8917
-    updated_at: '2018-08-26T13:39:09Z'
+    updated_at: '2018-08-27T05:39:28Z'
     stargazers_count: 8917
     github_description: 'A rich text editor for everyday writing'
 -
@@ -122,10 +122,10 @@
     format: XML/HTML
     license: MIT
     community: null
-    open_issues: 248
-    watchers: 8361
-    updated_at: '2018-08-26T17:24:50Z'
-    stargazers_count: 8361
+    open_issues: 249
+    watchers: 8366
+    updated_at: '2018-08-27T06:02:54Z'
+    stargazers_count: 8366
     github_description: 'A completely customizable framework for building rich text editors.'
 -
     title: Scribe
@@ -156,7 +156,7 @@
     license: MIT
     community: null
     open_issues: 60
-    watchers: 1022
-    updated_at: '2018-08-26T15:22:22Z'
-    stargazers_count: 1022
+    watchers: 1024
+    updated_at: '2018-08-26T21:50:50Z'
+    stargazers_count: 1024
     github_description: 'A toolkit for building WYSIWYG editors with Mobiledoc'

@@ -26,10 +26,10 @@
     format: XML/HTML
     license: 'BSD 3-clause'
     community: null
-    open_issues: 417
-    watchers: 19653
-    updated_at: '2018-09-15T18:05:02Z'
-    stargazers_count: 19653
+    open_issues: 418
+    watchers: 19655
+    updated_at: '2018-09-16T06:27:00Z'
+    stargazers_count: 19655
     github_description: 'Quill is a modern WYSIWYG editor built for compatibility and extensibility.'
 -
     title: CKEditor5
@@ -59,10 +59,10 @@
     format: XML/HTML
     license: 'BSD 3-clause'
     community: null
-    open_issues: 540
-    watchers: 13863
-    updated_at: '2018-09-15T16:07:00Z'
-    stargazers_count: 13863
+    open_issues: 533
+    watchers: 13866
+    updated_at: '2018-09-16T04:50:05Z'
+    stargazers_count: 13866
     github_description: 'A React framework for building text editors.'
 -
     title: Trix
@@ -76,9 +76,9 @@
     license: MIT
     community: null
     open_issues: 50
-    watchers: 8983
-    updated_at: '2018-09-15T10:32:01Z'
-    stargazers_count: 8983
+    watchers: 8984
+    updated_at: '2018-09-16T00:25:37Z'
+    stargazers_count: 8984
     github_description: 'A rich text editor for everyday writing'
 -
     title: Prosemirror
@@ -91,9 +91,9 @@
     community: null
     description: "A very competent editor with support for real time collaboration. Good documentation and information.\n"
     open_issues: 41
-    watchers: 3541
-    updated_at: '2018-09-14T07:18:03Z'
-    stargazers_count: 3541
+    watchers: 3542
+    updated_at: '2018-09-16T03:17:21Z'
+    stargazers_count: 3542
     github_description: 'The ProseMirror WYSIWYM editor'
 -
     title: ContentTools
@@ -123,9 +123,9 @@
     license: MIT
     community: null
     open_issues: 280
-    watchers: 8596
-    updated_at: '2018-09-15T16:29:00Z'
-    stargazers_count: 8596
+    watchers: 8599
+    updated_at: '2018-09-16T04:50:59Z'
+    stargazers_count: 8599
     github_description: 'A completely customizable framework for building rich text editors.'
 -
     title: Scribe
@@ -155,7 +155,7 @@
     format: JSON
     license: MIT
     community: null
-    open_issues: 61
+    open_issues: 60
     watchers: 1099
     updated_at: '2018-09-15T14:43:48Z'
     stargazers_count: 1099

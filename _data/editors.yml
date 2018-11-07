@@ -27,9 +27,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 478
-    watchers: 20309
-    updated_at: '2018-11-06T15:44:18Z'
-    stargazers_count: 20309
+    watchers: 20316
+    updated_at: '2018-11-07T03:56:00Z'
+    stargazers_count: 20316
     github_description: 'Quill is a modern WYSIWYG editor built for compatibility and extensibility.'
 -
     title: CKEditor5
@@ -44,9 +44,9 @@
     license: GPL/LGPL/MPL
     community: null
     open_issues: 317
-    watchers: 1554
-    updated_at: '2018-11-06T18:29:14Z'
-    stargazers_count: 1554
+    watchers: 1557
+    updated_at: '2018-11-07T02:25:45Z'
+    stargazers_count: 1557
     github_description: 'Development environment for CKEditor 5 – the best browser-based rich text editor.'
 -
     title: Draft.js
@@ -60,9 +60,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 515
-    watchers: 14255
-    updated_at: '2018-11-06T17:37:37Z'
-    stargazers_count: 14255
+    watchers: 14258
+    updated_at: '2018-11-07T05:04:32Z'
+    stargazers_count: 14258
     github_description: 'A React framework for building text editors.'
 -
     title: Trix
@@ -75,9 +75,9 @@
     format: XML/HTML
     license: MIT
     community: null
-    open_issues: 19
+    open_issues: 18
     watchers: 12511
-    updated_at: '2018-11-06T17:40:51Z'
+    updated_at: '2018-11-06T23:19:42Z'
     stargazers_count: 12511
     github_description: 'A rich text editor for everyday writing'
 -
@@ -90,7 +90,7 @@
     level: 4
     community: null
     description: "A very competent editor with support for real time collaboration. Good documentation and information.\n"
-    open_issues: 45
+    open_issues: 46
     watchers: 3612
     updated_at: '2018-11-06T09:01:48Z'
     stargazers_count: 3612
@@ -122,10 +122,10 @@
     format: XML/HTML
     license: MIT
     community: null
-    open_issues: 244
-    watchers: 9610
-    updated_at: '2018-11-06T17:30:11Z'
-    stargazers_count: 9610
+    open_issues: 245
+    watchers: 9618
+    updated_at: '2018-11-07T05:22:27Z'
+    stargazers_count: 9618
     github_description: 'A completely customizable framework for building rich text editors.'
 -
     title: Scribe
@@ -139,9 +139,9 @@
     license: Apache
     community: null
     open_issues: 108
-    watchers: 3623
-    updated_at: '2018-11-04T14:40:07Z'
-    stargazers_count: 3623
+    watchers: 3629
+    updated_at: '2018-11-07T05:58:48Z'
+    stargazers_count: 3629
     github_description: 'A rich text editor framework for the web platform'
 -
     title: Mobiledoc-kit
@@ -156,7 +156,7 @@
     license: MIT
     community: null
     open_issues: 64
-    watchers: 1134
-    updated_at: '2018-11-03T18:18:51Z'
-    stargazers_count: 1134
+    watchers: 1135
+    updated_at: '2018-11-07T03:01:09Z'
+    stargazers_count: 1135
     github_description: 'A toolkit for building WYSIWYG editors with Mobiledoc'

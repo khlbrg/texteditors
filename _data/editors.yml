@@ -10,9 +10,9 @@
     license: MIT
     community: null
     open_issues: 174
-    watchers: 2576
-    updated_at: '2018-11-23T14:09:39Z'
-    stargazers_count: 2576
+    watchers: 2577
+    updated_at: '2018-11-26T12:01:59Z'
+    stargazers_count: 2577
     github_description: 'A JavaScript library for web-based content editing.'
 -
     title: Quill
@@ -26,10 +26,10 @@
     format: XML/HTML
     license: 'BSD 3-clause'
     community: null
-    open_issues: 495
-    watchers: 20574
-    updated_at: '2018-11-26T05:42:12Z'
-    stargazers_count: 20574
+    open_issues: 496
+    watchers: 20578
+    updated_at: '2018-11-26T16:43:28Z'
+    stargazers_count: 20578
     github_description: 'Quill is a modern WYSIWYG editor built for compatibility and extensibility.'
 -
     title: CKEditor5
@@ -43,10 +43,10 @@
     format: XML/HTML
     license: GPL/LGPL/MPL
     community: null
-    open_issues: 325
-    watchers: 1601
-    updated_at: '2018-11-25T21:51:52Z'
-    stargazers_count: 1601
+    open_issues: 326
+    watchers: 1605
+    updated_at: '2018-11-26T16:16:06Z'
+    stargazers_count: 1605
     github_description: 'Development environment for CKEditor 5 – the best browser-based rich text editor.'
 -
     title: Draft.js
@@ -60,9 +60,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 521
-    watchers: 14373
-    updated_at: '2018-11-26T03:17:11Z'
-    stargazers_count: 14373
+    watchers: 14380
+    updated_at: '2018-11-26T16:09:20Z'
+    stargazers_count: 14380
     github_description: 'A React framework for building text editors.'
 -
     title: Trix
@@ -76,9 +76,9 @@
     license: MIT
     community: null
     open_issues: 20
-    watchers: 12615
-    updated_at: '2018-11-26T03:29:47Z'
-    stargazers_count: 12615
+    watchers: 12619
+    updated_at: '2018-11-26T18:08:41Z'
+    stargazers_count: 12619
     github_description: 'A rich text editor for everyday writing'
 -
     title: Prosemirror
@@ -90,7 +90,7 @@
     level: 4
     community: null
     description: "A very competent editor with support for real time collaboration. Good documentation and information.\n"
-    open_issues: 46
+    open_issues: 45
     watchers: 3641
     updated_at: '2018-11-25T06:57:53Z'
     stargazers_count: 3641
@@ -122,10 +122,10 @@
     format: XML/HTML
     license: MIT
     community: null
-    open_issues: 262
-    watchers: 12015
-    updated_at: '2018-11-26T06:01:40Z'
-    stargazers_count: 12015
+    open_issues: 264
+    watchers: 12030
+    updated_at: '2018-11-26T16:11:41Z'
+    stargazers_count: 12030
     github_description: 'A completely customizable framework for building rich text editors.'
 -
     title: Scribe

@@ -26,10 +26,10 @@
     format: XML/HTML
     license: 'BSD 3-clause'
     community: null
-    open_issues: 513
-    watchers: 21029
-    updated_at: '2019-01-04T12:59:43Z'
-    stargazers_count: 21029
+    open_issues: 515
+    watchers: 21031
+    updated_at: '2019-01-05T00:46:30Z'
+    stargazers_count: 21031
     github_description: 'Quill is a modern WYSIWYG editor built for compatibility and extensibility.'
 -
     title: CKEditor5
@@ -60,9 +60,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 532
-    watchers: 14640
-    updated_at: '2019-01-04T16:34:25Z'
-    stargazers_count: 14640
+    watchers: 14642
+    updated_at: '2019-01-05T04:07:02Z'
+    stargazers_count: 14642
     github_description: 'A React framework for building text editors.'
 -
     title: Trix
@@ -75,10 +75,10 @@
     format: XML/HTML
     license: MIT
     community: null
-    open_issues: 23
-    watchers: 12824
-    updated_at: '2019-01-04T12:56:01Z'
-    stargazers_count: 12824
+    open_issues: 25
+    watchers: 12823
+    updated_at: '2019-01-04T20:14:12Z'
+    stargazers_count: 12823
     github_description: 'A rich text editor for everyday writing'
 -
     title: Prosemirror
@@ -122,10 +122,10 @@
     format: XML/HTML
     license: MIT
     community: null
-    open_issues: 296
-    watchers: 12779
-    updated_at: '2019-01-04T17:55:06Z'
-    stargazers_count: 12779
+    open_issues: 297
+    watchers: 12783
+    updated_at: '2019-01-05T05:28:19Z'
+    stargazers_count: 12783
     github_description: 'A completely customizable framework for building rich text editors.'
 -
     title: Scribe

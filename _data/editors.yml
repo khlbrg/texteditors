@@ -11,7 +11,7 @@
     community: null
     open_issues: 175
     watchers: 2605
-    updated_at: '2019-01-21T23:40:37Z'
+    updated_at: '2019-01-22T14:20:29Z'
     stargazers_count: 2605
     github_description: 'A JavaScript library for web-based content editing.'
 -
@@ -26,10 +26,10 @@
     format: XML/HTML
     license: 'BSD 3-clause'
     community: null
-    open_issues: 530
-    watchers: 21254
-    updated_at: '2019-01-22T05:47:40Z'
-    stargazers_count: 21254
+    open_issues: 532
+    watchers: 21264
+    updated_at: '2019-01-22T14:17:07Z'
+    stargazers_count: 21264
     github_description: 'Quill is a modern WYSIWYG editor built for compatibility and extensibility.'
 -
     title: CKEditor5
@@ -43,7 +43,7 @@
     format: XML/HTML
     license: GPL/LGPL/MPL
     community: null
-    open_issues: 343
+    open_issues: 344
     watchers: 1773
     updated_at: '2019-01-22T03:56:08Z'
     stargazers_count: 1773
@@ -59,10 +59,10 @@
     format: XML/HTML
     license: 'BSD 3-clause'
     community: null
-    open_issues: 509
-    watchers: 14802
-    updated_at: '2019-01-22T06:25:09Z'
-    stargazers_count: 14802
+    open_issues: 508
+    watchers: 14806
+    updated_at: '2019-01-22T16:19:14Z'
+    stargazers_count: 14806
     github_description: 'A React framework for building text editors.'
 -
     title: Trix
@@ -76,9 +76,9 @@
     license: MIT
     community: null
     open_issues: 29
-    watchers: 12946
-    updated_at: '2019-01-21T22:10:48Z'
-    stargazers_count: 12946
+    watchers: 12951
+    updated_at: '2019-01-22T17:45:31Z'
+    stargazers_count: 12951
     github_description: 'A rich text editor for everyday writing'
 -
     title: Prosemirror
@@ -122,10 +122,10 @@
     format: XML/HTML
     license: MIT
     community: null
-    open_issues: 314
-    watchers: 12984
-    updated_at: '2019-01-22T03:45:10Z'
-    stargazers_count: 12984
+    open_issues: 316
+    watchers: 12990
+    updated_at: '2019-01-22T17:52:05Z'
+    stargazers_count: 12990
     github_description: 'A completely customizable framework for building rich text editors.'
 -
     title: Scribe

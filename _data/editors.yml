@@ -10,9 +10,9 @@
     license: MIT
     community: null
     open_issues: 175
-    watchers: 2609
-    updated_at: '2019-01-28T06:55:37Z'
-    stargazers_count: 2609
+    watchers: 2608
+    updated_at: '2019-01-28T20:07:24Z'
+    stargazers_count: 2608
     github_description: 'A JavaScript library for web-based content editing.'
 -
     title: Quill
@@ -26,10 +26,10 @@
     format: XML/HTML
     license: 'BSD 3-clause'
     community: null
-    open_issues: 531
-    watchers: 21330
-    updated_at: '2019-01-28T17:32:49Z'
-    stargazers_count: 21330
+    open_issues: 532
+    watchers: 21341
+    updated_at: '2019-01-29T06:15:54Z'
+    stargazers_count: 21341
     github_description: 'Quill is a modern WYSIWYG editor built for compatibility and extensibility.'
 -
     title: CKEditor5
@@ -43,10 +43,10 @@
     format: XML/HTML
     license: GPL/LGPL/MPL
     community: null
-    open_issues: 345
-    watchers: 1783
-    updated_at: '2019-01-28T11:24:10Z'
-    stargazers_count: 1783
+    open_issues: 346
+    watchers: 1785
+    updated_at: '2019-01-29T06:21:26Z'
+    stargazers_count: 1785
     github_description: 'Development environment for CKEditor 5 – the best browser-based rich text editor.'
 -
     title: Draft.js
@@ -60,9 +60,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 511
-    watchers: 14839
-    updated_at: '2019-01-28T17:52:03Z'
-    stargazers_count: 14839
+    watchers: 14838
+    updated_at: '2019-01-29T06:15:13Z'
+    stargazers_count: 14838
     github_description: 'A React framework for building text editors.'
 -
     title: Trix
@@ -76,9 +76,9 @@
     license: MIT
     community: null
     open_issues: 31
-    watchers: 12989
-    updated_at: '2019-01-28T18:13:45Z'
-    stargazers_count: 12989
+    watchers: 12992
+    updated_at: '2019-01-29T05:26:00Z'
+    stargazers_count: 12992
     github_description: 'A rich text editor for everyday writing'
 -
     title: Prosemirror
@@ -91,9 +91,9 @@
     community: null
     description: "A very competent editor with support for real time collaboration. Good documentation and information.\n"
     open_issues: 52
-    watchers: 3755
-    updated_at: '2019-01-28T13:27:05Z'
-    stargazers_count: 3755
+    watchers: 3758
+    updated_at: '2019-01-29T05:03:30Z'
+    stargazers_count: 3758
     github_description: 'The ProseMirror WYSIWYM editor'
 -
     title: ContentTools
@@ -107,9 +107,9 @@
     license: MIT
     community: 5
     open_issues: 67
-    watchers: 3465
-    updated_at: '2019-01-28T06:17:58Z'
-    stargazers_count: 3465
+    watchers: 3464
+    updated_at: '2019-01-28T21:43:54Z'
+    stargazers_count: 3464
     github_description: 'A JS library for building WYSIWYG editors for HTML content.'
 -
     title: Slate
@@ -122,10 +122,10 @@
     format: XML/HTML
     license: MIT
     community: null
-    open_issues: 318
-    watchers: 13107
-    updated_at: '2019-01-28T16:44:27Z'
-    stargazers_count: 13107
+    open_issues: 313
+    watchers: 13121
+    updated_at: '2019-01-29T06:17:09Z'
+    stargazers_count: 13121
     github_description: 'A completely customizable framework for building rich text editors.'
 -
     title: Scribe
@@ -139,9 +139,9 @@
     license: Apache
     community: null
     open_issues: 109
-    watchers: 3660
-    updated_at: '2019-01-25T10:57:27Z'
-    stargazers_count: 3660
+    watchers: 3661
+    updated_at: '2019-01-29T00:57:27Z'
+    stargazers_count: 3661
     github_description: 'A rich text editor framework for the web platform'
 -
     title: Mobiledoc-kit
@@ -156,7 +156,7 @@
     license: MIT
     community: null
     open_issues: 69
-    watchers: 1166
-    updated_at: '2019-01-28T15:15:41Z'
-    stargazers_count: 1166
+    watchers: 1167
+    updated_at: '2019-01-29T02:34:50Z'
+    stargazers_count: 1167
     github_description: 'A toolkit for building WYSIWYG editors with Mobiledoc'

@@ -26,10 +26,10 @@
     format: XML/HTML
     license: 'BSD 3-clause'
     community: null
-    open_issues: 541
-    watchers: 21410
-    updated_at: '2019-02-04T05:24:47Z'
-    stargazers_count: 21410
+    open_issues: 542
+    watchers: 21420
+    updated_at: '2019-02-04T18:25:23Z'
+    stargazers_count: 21420
     github_description: 'Quill is a modern WYSIWYG editor built for compatibility and extensibility.'
 -
     title: CKEditor5
@@ -43,7 +43,7 @@
     format: XML/HTML
     license: GPL/LGPL/MPL
     community: null
-    open_issues: 353
+    open_issues: 355
     watchers: 1801
     updated_at: '2019-02-03T22:24:52Z'
     stargazers_count: 1801
@@ -59,10 +59,10 @@
     format: XML/HTML
     license: 'BSD 3-clause'
     community: null
-    open_issues: 508
-    watchers: 14875
-    updated_at: '2019-02-04T02:55:43Z'
-    stargazers_count: 14875
+    open_issues: 509
+    watchers: 14881
+    updated_at: '2019-02-04T18:35:07Z'
+    stargazers_count: 14881
     github_description: 'A React framework for building text editors.'
 -
     title: Trix
@@ -76,9 +76,9 @@
     license: MIT
     community: null
     open_issues: 33
-    watchers: 13037
-    updated_at: '2019-02-04T04:27:09Z'
-    stargazers_count: 13037
+    watchers: 13038
+    updated_at: '2019-02-04T14:05:46Z'
+    stargazers_count: 13038
     github_description: 'A rich text editor for everyday writing'
 -
     title: Prosemirror
@@ -122,10 +122,10 @@
     format: XML/HTML
     license: MIT
     community: null
-    open_issues: 308
-    watchers: 13191
-    updated_at: '2019-02-04T04:15:37Z'
-    stargazers_count: 13191
+    open_issues: 310
+    watchers: 13192
+    updated_at: '2019-02-04T18:20:09Z'
+    stargazers_count: 13192
     github_description: 'A completely customizable framework for building rich text editors.'
 -
     title: Scribe
@@ -140,7 +140,7 @@
     community: null
     open_issues: 109
     watchers: 3660
-    updated_at: '2019-01-31T23:05:27Z'
+    updated_at: '2019-02-04T15:51:48Z'
     stargazers_count: 3660
     github_description: 'DEPRECATED: A rich text editor framework for the web platform'
 -

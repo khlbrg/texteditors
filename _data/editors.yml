@@ -27,9 +27,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 510
-    watchers: 21980
-    updated_at: '2019-03-22T17:06:24Z'
-    stargazers_count: 21980
+    watchers: 21989
+    updated_at: '2019-03-23T05:24:12Z'
+    stargazers_count: 21989
     github_description: 'Quill is a modern WYSIWYG editor built for compatibility and extensibility.'
 -
     title: CKEditor5
@@ -44,9 +44,9 @@
     license: GPL/LGPL/MPL
     community: null
     open_issues: 349
-    watchers: 1948
-    updated_at: '2019-03-22T15:32:20Z'
-    stargazers_count: 1948
+    watchers: 1947
+    updated_at: '2019-03-22T20:10:08Z'
+    stargazers_count: 1947
     github_description: 'Development environment for CKEditor 5 – the best browser-based rich text editor.'
 -
     title: Draft.js
@@ -60,9 +60,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 535
-    watchers: 15252
-    updated_at: '2019-03-22T17:14:06Z'
-    stargazers_count: 15252
+    watchers: 15256
+    updated_at: '2019-03-23T05:36:24Z'
+    stargazers_count: 15256
     github_description: 'A React framework for building text editors.'
 -
     title: Trix
@@ -76,9 +76,9 @@
     license: MIT
     community: null
     open_issues: 24
-    watchers: 13256
-    updated_at: '2019-03-22T16:37:57Z'
-    stargazers_count: 13256
+    watchers: 13258
+    updated_at: '2019-03-23T06:10:53Z'
+    stargazers_count: 13258
     github_description: 'A rich text editor for everyday writing'
 -
     title: Prosemirror
@@ -91,9 +91,9 @@
     community: null
     description: "A very competent editor with support for real time collaboration. Good documentation and information.\n"
     open_issues: 55
-    watchers: 3824
-    updated_at: '2019-03-22T14:11:14Z'
-    stargazers_count: 3824
+    watchers: 3825
+    updated_at: '2019-03-23T00:25:04Z'
+    stargazers_count: 3825
     github_description: 'The ProseMirror WYSIWYM editor'
 -
     title: ContentTools
@@ -124,7 +124,7 @@
     community: null
     open_issues: 329
     watchers: 13611
-    updated_at: '2019-03-22T16:58:43Z'
+    updated_at: '2019-03-23T03:07:58Z'
     stargazers_count: 13611
     github_description: 'A completely customizable framework for building rich text editors.'
 -

@@ -9,9 +9,9 @@
     format: XML/HTML
     license: MIT
     community: null
-    open_issues: 176
+    open_issues: 175
     watchers: 2633
-    updated_at: '2019-04-24T21:10:49Z'
+    updated_at: '2019-04-29T06:03:23Z'
     stargazers_count: 2633
     github_description: 'A JavaScript library for web-based content editing.'
 -
@@ -27,9 +27,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 540
-    watchers: 22504
-    updated_at: '2019-04-28T17:49:08Z'
-    stargazers_count: 22504
+    watchers: 22507
+    updated_at: '2019-04-29T06:32:27Z'
+    stargazers_count: 22507
     github_description: 'Quill is a modern WYSIWYG editor built for compatibility and extensibility.'
 -
     title: CKEditor5
@@ -59,10 +59,10 @@
     format: XML/HTML
     license: 'BSD 3-clause'
     community: null
-    open_issues: 544
-    watchers: 15519
-    updated_at: '2019-04-28T14:49:11Z'
-    stargazers_count: 15519
+    open_issues: 545
+    watchers: 15522
+    updated_at: '2019-04-29T01:58:58Z'
+    stargazers_count: 15522
     github_description: 'A React framework for building text editors.'
 -
     title: Trix
@@ -76,9 +76,9 @@
     license: MIT
     community: null
     open_issues: 24
-    watchers: 13401
-    updated_at: '2019-04-28T15:39:26Z'
-    stargazers_count: 13401
+    watchers: 13402
+    updated_at: '2019-04-29T00:51:58Z'
+    stargazers_count: 13402
     github_description: 'A rich text editor for everyday writing'
 -
     title: Prosemirror
@@ -106,7 +106,7 @@
     format: XML/HTML
     license: MIT
     community: 5
-    open_issues: 75
+    open_issues: 74
     watchers: 3519
     updated_at: '2019-04-28T17:09:05Z'
     stargazers_count: 3519
@@ -123,9 +123,9 @@
     license: MIT
     community: null
     open_issues: 335
-    watchers: 13971
-    updated_at: '2019-04-28T16:44:19Z'
-    stargazers_count: 13971
+    watchers: 13975
+    updated_at: '2019-04-29T02:19:29Z'
+    stargazers_count: 13975
     github_description: 'A completely customizable framework for building rich text editors.'
 -
     title: Scribe

@@ -10,9 +10,9 @@
     license: MIT
     community: null
     open_issues: 175
-    watchers: 2634
-    updated_at: '2019-05-01T10:37:57Z'
-    stargazers_count: 2634
+    watchers: 2633
+    updated_at: '2019-05-03T21:18:42Z'
+    stargazers_count: 2633
     github_description: 'A JavaScript library for web-based content editing.'
 -
     title: Quill
@@ -27,9 +27,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 541
-    watchers: 22556
-    updated_at: '2019-05-03T16:37:23Z'
-    stargazers_count: 22556
+    watchers: 22560
+    updated_at: '2019-05-04T05:53:49Z'
+    stargazers_count: 22560
     github_description: 'Quill is a modern WYSIWYG editor built for compatibility and extensibility.'
 -
     title: CKEditor5
@@ -45,7 +45,7 @@
     community: null
     open_issues: 348
     watchers: 2110
-    updated_at: '2019-05-03T08:27:48Z'
+    updated_at: '2019-05-04T02:35:21Z'
     stargazers_count: 2110
     github_description: 'Development environment for CKEditor 5 – the best browser-based rich text editor.'
 -
@@ -61,7 +61,7 @@
     community: null
     open_issues: 545
     watchers: 15554
-    updated_at: '2019-05-03T17:26:02Z'
+    updated_at: '2019-05-04T06:28:44Z'
     stargazers_count: 15554
     github_description: 'A React framework for building text editors.'
 -
@@ -76,9 +76,9 @@
     license: MIT
     community: null
     open_issues: 25
-    watchers: 13438
-    updated_at: '2019-05-03T16:31:40Z'
-    stargazers_count: 13438
+    watchers: 13440
+    updated_at: '2019-05-04T02:18:47Z'
+    stargazers_count: 13440
     github_description: 'A rich text editor for everyday writing'
 -
     title: Prosemirror
@@ -122,10 +122,10 @@
     format: XML/HTML
     license: MIT
     community: null
-    open_issues: 335
-    watchers: 14015
-    updated_at: '2019-05-03T17:41:15Z'
-    stargazers_count: 14015
+    open_issues: 336
+    watchers: 14014
+    updated_at: '2019-05-03T20:53:32Z'
+    stargazers_count: 14014
     github_description: 'A completely customizable framework for building rich text editors.'
 -
     title: Scribe

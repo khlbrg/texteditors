@@ -26,10 +26,10 @@
     format: XML/HTML
     license: 'BSD 3-clause'
     community: null
-    open_issues: 594
-    watchers: 23432
-    updated_at: '2019-07-19T02:46:22Z'
-    stargazers_count: 23432
+    open_issues: 595
+    watchers: 23441
+    updated_at: '2019-07-19T13:15:44Z'
+    stargazers_count: 23441
     github_description: 'Quill is a modern WYSIWYG editor built for compatibility and extensibility.'
 -
     title: CKEditor5
@@ -44,9 +44,9 @@
     license: GPL/LGPL/MPL
     community: null
     open_issues: 370
-    watchers: 2375
-    updated_at: '2019-07-19T05:22:40Z'
-    stargazers_count: 2375
+    watchers: 2378
+    updated_at: '2019-07-19T13:08:56Z'
+    stargazers_count: 2378
     github_description: 'Development environment for CKEditor 5 – the best browser-based rich text editor.'
 -
     title: Draft.js
@@ -60,9 +60,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 575
-    watchers: 16140
-    updated_at: '2019-07-19T06:22:12Z'
-    stargazers_count: 16140
+    watchers: 16148
+    updated_at: '2019-07-19T17:27:28Z'
+    stargazers_count: 16148
     github_description: 'A React framework for building text editors.'
 -
     title: Trix
@@ -76,9 +76,9 @@
     license: MIT
     community: null
     open_issues: 26
-    watchers: 13723
-    updated_at: '2019-07-19T06:34:50Z'
-    stargazers_count: 13723
+    watchers: 13724
+    updated_at: '2019-07-19T12:54:16Z'
+    stargazers_count: 13724
     github_description: 'A rich text editor for everyday writing'
 -
     title: Prosemirror
@@ -123,9 +123,9 @@
     license: MIT
     community: null
     open_issues: 383
-    watchers: 14804
-    updated_at: '2019-07-19T03:03:57Z'
-    stargazers_count: 14804
+    watchers: 14805
+    updated_at: '2019-07-19T12:25:48Z'
+    stargazers_count: 14805
     github_description: 'A completely customizable framework for building rich text editors. (Currently in beta.)'
 -
     title: Scribe
@@ -155,7 +155,7 @@
     format: JSON
     license: MIT
     community: null
-    open_issues: 76
+    open_issues: 77
     watchers: 1241
     updated_at: '2019-07-19T01:50:35Z'
     stargazers_count: 1241

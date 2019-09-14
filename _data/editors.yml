@@ -27,9 +27,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 604
-    watchers: 23990
-    updated_at: '2019-09-14T01:44:44Z'
-    stargazers_count: 23990
+    watchers: 23993
+    updated_at: '2019-09-14T17:49:48Z'
+    stargazers_count: 23993
     github_description: 'Quill is a modern WYSIWYG editor built for compatibility and extensibility.'
 -
     title: CKEditor5
@@ -44,9 +44,9 @@
     license: GPL/LGPL/MPL
     community: null
     open_issues: 370
-    watchers: 2550
-    updated_at: '2019-09-14T05:52:02Z'
-    stargazers_count: 2550
+    watchers: 2551
+    updated_at: '2019-09-14T12:31:12Z'
+    stargazers_count: 2551
     github_description: 'Powerful rich text editor framework with a modular architecture, modern integrations and features like collaborative editing.'
 -
     title: Draft.js
@@ -60,9 +60,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 599
-    watchers: 16522
-    updated_at: '2019-09-13T20:44:20Z'
-    stargazers_count: 16522
+    watchers: 16524
+    updated_at: '2019-09-14T18:13:12Z'
+    stargazers_count: 16524
     github_description: 'A React framework for building text editors.'
 -
     title: Trix
@@ -76,9 +76,9 @@
     license: MIT
     community: null
     open_issues: 32
-    watchers: 13991
-    updated_at: '2019-09-13T21:31:22Z'
-    stargazers_count: 13991
+    watchers: 13993
+    updated_at: '2019-09-14T17:46:46Z'
+    stargazers_count: 13993
     github_description: 'A rich text editor for everyday writing'
 -
     title: Prosemirror
@@ -91,9 +91,9 @@
     community: null
     description: "A very competent editor with support for real time collaboration. Good documentation and information.\n"
     open_issues: 69
-    watchers: 4119
-    updated_at: '2019-09-13T17:19:30Z'
-    stargazers_count: 4119
+    watchers: 4120
+    updated_at: '2019-09-14T09:28:32Z'
+    stargazers_count: 4120
     github_description: 'The ProseMirror WYSIWYM editor'
 -
     title: ContentTools
@@ -122,7 +122,7 @@
     format: XML/HTML
     license: MIT
     community: null
-    open_issues: 406
+    open_issues: 405
     watchers: 15271
     updated_at: '2019-09-13T21:31:05Z'
     stargazers_count: 15271

@@ -26,10 +26,10 @@
     format: XML/HTML
     license: 'BSD 3-clause'
     community: null
-    open_issues: 621
-    watchers: 24130
-    updated_at: '2019-09-29T17:15:00Z'
-    stargazers_count: 24130
+    open_issues: 622
+    watchers: 24136
+    updated_at: '2019-09-30T05:59:24Z'
+    stargazers_count: 24136
     github_description: 'Quill is a modern WYSIWYG editor built for compatibility and extensibility.'
 -
     title: CKEditor5
@@ -44,9 +44,9 @@
     license: GPL/LGPL/MPL
     community: null
     open_issues: 375
-    watchers: 2602
-    updated_at: '2019-09-29T16:20:10Z'
-    stargazers_count: 2602
+    watchers: 2603
+    updated_at: '2019-09-30T05:10:20Z'
+    stargazers_count: 2603
     github_description: 'Powerful rich text editor framework with a modular architecture, modern integrations and features like collaborative editing.'
 -
     title: Draft.js
@@ -60,9 +60,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 596
-    watchers: 16619
-    updated_at: '2019-09-29T14:45:03Z'
-    stargazers_count: 16619
+    watchers: 16620
+    updated_at: '2019-09-29T22:29:59Z'
+    stargazers_count: 16620
     github_description: 'A React framework for building text editors.'
 -
     title: Trix
@@ -77,7 +77,7 @@
     community: null
     open_issues: 33
     watchers: 14040
-    updated_at: '2019-09-29T16:43:04Z'
+    updated_at: '2019-09-30T02:37:17Z'
     stargazers_count: 14040
     github_description: 'A rich text editor for everyday writing'
 -
@@ -107,9 +107,9 @@
     license: MIT
     community: 5
     open_issues: 88
-    watchers: 3586
-    updated_at: '2019-09-28T14:20:55Z'
-    stargazers_count: 3586
+    watchers: 3587
+    updated_at: '2019-09-30T06:13:12Z'
+    stargazers_count: 3587
     github_description: 'A JS library for building WYSIWYG editors for HTML content.'
 -
     title: Slate
@@ -122,7 +122,7 @@
     format: XML/HTML
     license: MIT
     community: null
-    open_issues: 416
+    open_issues: 417
     watchers: 15344
     updated_at: '2019-09-29T16:41:21Z'
     stargazers_count: 15344

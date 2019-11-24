@@ -26,10 +26,10 @@
     format: XML/HTML
     license: 'BSD 3-clause'
     community: null
-    open_issues: 673
-    watchers: 24691
-    updated_at: '2019-11-24T02:02:26Z'
-    stargazers_count: 24691
+    open_issues: 674
+    watchers: 24696
+    updated_at: '2019-11-24T15:40:57Z'
+    stargazers_count: 24696
     github_description: 'Quill is a modern WYSIWYG editor built for compatibility and extensibility.'
 -
     title: CKEditor5
@@ -43,7 +43,7 @@
     format: XML/HTML
     license: GPL/LGPL/MPL
     community: null
-    open_issues: 1095
+    open_issues: 1096
     watchers: 2792
     updated_at: '2019-11-24T01:49:36Z'
     stargazers_count: 2792
@@ -60,9 +60,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 626
-    watchers: 16991
-    updated_at: '2019-11-24T01:56:02Z'
-    stargazers_count: 16991
+    watchers: 16990
+    updated_at: '2019-11-24T15:40:49Z'
+    stargazers_count: 16990
     github_description: 'A React framework for building text editors.'
 -
     title: Trix
@@ -76,9 +76,9 @@
     license: MIT
     community: null
     open_issues: 33
-    watchers: 14223
-    updated_at: '2019-11-23T18:24:01Z'
-    stargazers_count: 14223
+    watchers: 14222
+    updated_at: '2019-11-24T17:37:59Z'
+    stargazers_count: 14222
     github_description: 'A rich text editor for everyday writing'
 -
     title: Prosemirror
@@ -123,9 +123,9 @@
     license: MIT
     community: null
     open_issues: 451
-    watchers: 15770
-    updated_at: '2019-11-23T17:13:35Z'
-    stargazers_count: 15770
+    watchers: 15771
+    updated_at: '2019-11-24T15:55:35Z'
+    stargazers_count: 15771
     github_description: 'A completely customizable framework for building rich text editors. (Currently in beta.)'
 -
     title: Scribe
@@ -139,9 +139,9 @@
     license: Apache
     community: null
     open_issues: 109
-    watchers: 3623
-    updated_at: '2019-11-19T18:54:35Z'
-    stargazers_count: 3623
+    watchers: 3622
+    updated_at: '2019-11-24T10:29:37Z'
+    stargazers_count: 3622
     github_description: 'DEPRECATED: A rich text editor framework for the web platform'
 -
     title: Mobiledoc-kit

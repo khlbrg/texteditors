@@ -43,10 +43,10 @@
     format: XML/HTML
     license: GPL/LGPL/MPL
     community: null
-    open_issues: 1159
-    watchers: 2938
-    updated_at: '2020-01-04T06:09:13Z'
-    stargazers_count: 2938
+    open_issues: 1160
+    watchers: 2939
+    updated_at: '2020-01-04T21:29:18Z'
+    stargazers_count: 2939
     github_description: 'Powerful rich text editor framework with a modular architecture, modern integrations and features like collaborative editing.'
 -
     title: Draft.js
@@ -60,9 +60,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 627
-    watchers: 17225
-    updated_at: '2020-01-04T12:54:58Z'
-    stargazers_count: 17225
+    watchers: 17227
+    updated_at: '2020-01-05T04:36:02Z'
+    stargazers_count: 17227
     github_description: 'A React framework for building text editors.'
 -
     title: Trix
@@ -123,9 +123,9 @@
     license: MIT
     community: null
     open_issues: 136
-    watchers: 16302
-    updated_at: '2020-01-04T17:42:18Z'
-    stargazers_count: 16302
+    watchers: 16304
+    updated_at: '2020-01-05T00:18:31Z'
+    stargazers_count: 16304
     github_description: 'A completely customizable framework for building rich text editors. (Currently in beta.)'
 -
     title: Scribe
@@ -156,7 +156,7 @@
     license: MIT
     community: null
     open_issues: 73
-    watchers: 1301
-    updated_at: '2019-12-31T18:25:54Z'
-    stargazers_count: 1301
+    watchers: 1302
+    updated_at: '2020-01-05T04:25:49Z'
+    stargazers_count: 1302
     github_description: 'A toolkit for building WYSIWYG editors with Mobiledoc'

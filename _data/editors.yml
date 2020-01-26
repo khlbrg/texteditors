@@ -27,9 +27,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 729
-    watchers: 25242
-    updated_at: '2020-01-26T06:34:26Z'
-    stargazers_count: 25242
+    watchers: 25243
+    updated_at: '2020-01-26T12:09:02Z'
+    stargazers_count: 25243
     github_description: 'Quill is a modern WYSIWYG editor built for compatibility and extensibility.'
 -
     title: CKEditor5
@@ -43,10 +43,10 @@
     format: XML/HTML
     license: GPL/LGPL/MPL
     community: null
-    open_issues: 1191
-    watchers: 2990
-    updated_at: '2020-01-24T21:51:07Z'
-    stargazers_count: 2990
+    open_issues: 1193
+    watchers: 2991
+    updated_at: '2020-01-26T13:21:43Z'
+    stargazers_count: 2991
     github_description: 'Powerful rich text editor framework with a modular architecture, modern integrations and features like collaborative editing.'
 -
     title: Draft.js
@@ -60,9 +60,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 636
-    watchers: 17330
-    updated_at: '2020-01-26T06:09:24Z'
-    stargazers_count: 17330
+    watchers: 17332
+    updated_at: '2020-01-26T13:48:18Z'
+    stargazers_count: 17332
     github_description: 'A React framework for building text editors.'
 -
     title: Trix
@@ -76,9 +76,9 @@
     license: MIT
     community: null
     open_issues: 37
-    watchers: 14567
-    updated_at: '2020-01-26T06:29:34Z'
-    stargazers_count: 14567
+    watchers: 14570
+    updated_at: '2020-01-26T18:30:01Z'
+    stargazers_count: 14570
     github_description: 'A rich text editor for everyday writing'
 -
     title: Prosemirror
@@ -91,9 +91,9 @@
     community: null
     description: "A very competent editor with support for real time collaboration. Good documentation and information.\n"
     open_issues: 76
-    watchers: 4282
-    updated_at: '2020-01-24T09:18:39Z'
-    stargazers_count: 4282
+    watchers: 4283
+    updated_at: '2020-01-26T12:27:36Z'
+    stargazers_count: 4283
     github_description: 'The ProseMirror WYSIWYM editor'
 -
     title: ContentTools
@@ -106,7 +106,7 @@
     format: XML/HTML
     license: MIT
     community: 5
-    open_issues: 89
+    open_issues: 90
     watchers: 3657
     updated_at: '2020-01-25T21:47:42Z'
     stargazers_count: 3657

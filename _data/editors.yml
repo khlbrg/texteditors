@@ -26,10 +26,10 @@
     format: XML/HTML
     license: 'BSD 3-clause'
     community: null
-    open_issues: 755
-    watchers: 25536
-    updated_at: '2020-02-21T18:30:03Z'
-    stargazers_count: 25536
+    open_issues: 757
+    watchers: 25539
+    updated_at: '2020-02-21T23:16:07Z'
+    stargazers_count: 25539
     github_description: 'Quill is a modern WYSIWYG editor built for compatibility and extensibility.'
 -
     title: CKEditor5
@@ -43,7 +43,7 @@
     format: XML/HTML
     license: GPL/LGPL/MPL
     community: null
-    open_issues: 1220
+    open_issues: 1221
     watchers: 3071
     updated_at: '2020-02-21T16:33:26Z'
     stargazers_count: 3071
@@ -60,9 +60,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 639
-    watchers: 17475
-    updated_at: '2020-02-21T15:37:26Z'
-    stargazers_count: 17475
+    watchers: 17477
+    updated_at: '2020-02-22T01:20:40Z'
+    stargazers_count: 17477
     github_description: 'A React framework for building text editors.'
 -
     title: Trix
@@ -76,9 +76,9 @@
     license: MIT
     community: null
     open_issues: 32
-    watchers: 14684
-    updated_at: '2020-02-21T15:57:27Z'
-    stargazers_count: 14684
+    watchers: 14685
+    updated_at: '2020-02-22T03:36:30Z'
+    stargazers_count: 14685
     github_description: 'A rich text editor for everyday writing'
 -
     title: Prosemirror
@@ -90,7 +90,7 @@
     level: 4
     community: null
     description: "A very competent editor with support for real time collaboration. Good documentation and information.\n"
-    open_issues: 77
+    open_issues: 78
     watchers: 4314
     updated_at: '2020-02-21T12:56:43Z'
     stargazers_count: 4314
@@ -122,10 +122,10 @@
     format: XML/HTML
     license: MIT
     community: null
-    open_issues: 196
-    watchers: 16684
-    updated_at: '2020-02-21T17:14:51Z'
-    stargazers_count: 16684
+    open_issues: 195
+    watchers: 16692
+    updated_at: '2020-02-22T06:28:44Z'
+    stargazers_count: 16692
     github_description: 'A completely customizable framework for building rich text editors. (Currently in beta.)'
 -
     title: Scribe

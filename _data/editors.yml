@@ -27,9 +27,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 787
-    watchers: 25864
-    updated_at: '2020-03-25T17:29:23Z'
-    stargazers_count: 25864
+    watchers: 25870
+    updated_at: '2020-03-26T04:16:14Z'
+    stargazers_count: 25870
     github_description: 'Quill is a modern WYSIWYG editor built for compatibility and extensibility.'
 -
     title: CKEditor5
@@ -44,9 +44,9 @@
     license: GPL/LGPL/MPL
     community: null
     open_issues: 1255
-    watchers: 3165
-    updated_at: '2020-03-25T15:52:24Z'
-    stargazers_count: 3165
+    watchers: 3168
+    updated_at: '2020-03-26T01:39:09Z'
+    stargazers_count: 3168
     github_description: 'Powerful rich text editor framework with a modular architecture, modern integrations and features like collaborative editing.'
 -
     title: Draft.js
@@ -59,10 +59,10 @@
     format: XML/HTML
     license: 'BSD 3-clause'
     community: null
-    open_issues: 645
-    watchers: 17679
-    updated_at: '2020-03-25T13:51:05Z'
-    stargazers_count: 17679
+    open_issues: 644
+    watchers: 17681
+    updated_at: '2020-03-26T06:30:23Z'
+    stargazers_count: 17681
     github_description: 'A React framework for building text editors.'
 -
     title: Trix
@@ -91,9 +91,9 @@
     community: null
     description: "A very competent editor with support for real time collaboration. Good documentation and information.\n"
     open_issues: 56
-    watchers: 4382
-    updated_at: '2020-03-25T06:01:38Z'
-    stargazers_count: 4382
+    watchers: 4383
+    updated_at: '2020-03-25T20:06:50Z'
+    stargazers_count: 4383
     github_description: 'The ProseMirror WYSIWYM editor'
 -
     title: ContentTools
@@ -122,10 +122,10 @@
     format: XML/HTML
     license: MIT
     community: null
-    open_issues: 191
-    watchers: 17009
-    updated_at: '2020-03-25T17:48:11Z'
-    stargazers_count: 17009
+    open_issues: 192
+    watchers: 17012
+    updated_at: '2020-03-26T02:07:32Z'
+    stargazers_count: 17012
     github_description: 'A completely customizable framework for building rich text editors. (Currently in beta.)'
 -
     title: Scribe
@@ -155,7 +155,7 @@
     format: JSON
     license: MIT
     community: null
-    open_issues: 69
+    open_issues: 70
     watchers: 1336
     updated_at: '2020-03-24T17:25:29Z'
     stargazers_count: 1336

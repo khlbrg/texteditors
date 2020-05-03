@@ -27,9 +27,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 820
-    watchers: 26293
-    updated_at: '2020-05-03T04:37:49Z'
-    stargazers_count: 26293
+    watchers: 26296
+    updated_at: '2020-05-03T17:27:49Z'
+    stargazers_count: 26296
     github_description: 'Quill is a modern WYSIWYG editor built for compatibility and extensibility.'
 -
     title: CKEditor5
@@ -43,7 +43,7 @@
     format: XML/HTML
     license: GPL/LGPL/MPL
     community: null
-    open_issues: 1299
+    open_issues: 1306
     watchers: 3301
     updated_at: '2020-05-03T04:52:30Z'
     stargazers_count: 3301
@@ -60,9 +60,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 661
-    watchers: 17931
-    updated_at: '2020-05-03T05:41:31Z'
-    stargazers_count: 17931
+    watchers: 17933
+    updated_at: '2020-05-03T16:38:12Z'
+    stargazers_count: 17933
     github_description: 'A React framework for building text editors.'
 -
     title: Trix
@@ -91,9 +91,9 @@
     community: null
     description: "A very competent editor with support for real time collaboration. Good documentation and information.\n"
     open_issues: 57
-    watchers: 4460
-    updated_at: '2020-05-03T05:06:46Z'
-    stargazers_count: 4460
+    watchers: 4462
+    updated_at: '2020-05-03T15:40:32Z'
+    stargazers_count: 4462
     github_description: 'The ProseMirror WYSIWYM editor'
 -
     title: ContentTools
@@ -108,7 +108,7 @@
     community: 5
     open_issues: 89
     watchers: 3709
-    updated_at: '2020-05-02T19:36:42Z'
+    updated_at: '2020-05-03T14:47:20Z'
     stargazers_count: 3709
     github_description: 'A JS library for building WYSIWYG editors for HTML content.'
 -
@@ -123,9 +123,9 @@
     license: MIT
     community: null
     open_issues: 211
-    watchers: 17423
-    updated_at: '2020-05-03T05:08:04Z'
-    stargazers_count: 17423
+    watchers: 17431
+    updated_at: '2020-05-03T15:38:36Z'
+    stargazers_count: 17431
     github_description: 'A completely customizable framework for building rich text editors. (Currently in beta.)'
 -
     title: Scribe

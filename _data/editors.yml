@@ -26,10 +26,10 @@
     format: XML/HTML
     license: 'BSD 3-clause'
     community: null
-    open_issues: 826
-    watchers: 26412
-    updated_at: '2020-05-13T03:54:53Z'
-    stargazers_count: 26412
+    open_issues: 828
+    watchers: 26421
+    updated_at: '2020-05-13T17:40:54Z'
+    stargazers_count: 26421
     github_description: 'Quill is a modern WYSIWYG editor built for compatibility and extensibility.'
 -
     title: CKEditor5
@@ -43,10 +43,10 @@
     format: XML/HTML
     license: GPL/LGPL/MPL
     community: null
-    open_issues: 1329
-    watchers: 3340
-    updated_at: '2020-05-13T03:21:30Z'
-    stargazers_count: 3340
+    open_issues: 1328
+    watchers: 3341
+    updated_at: '2020-05-13T12:54:25Z'
+    stargazers_count: 3341
     github_description: 'Powerful rich text editor framework with a modular architecture, modern integrations and features like collaborative editing.'
 -
     title: Draft.js
@@ -59,10 +59,10 @@
     format: XML/HTML
     license: 'BSD 3-clause'
     community: null
-    open_issues: 674
-    watchers: 18013
-    updated_at: '2020-05-13T01:17:15Z'
-    stargazers_count: 18013
+    open_issues: 675
+    watchers: 18017
+    updated_at: '2020-05-13T14:07:51Z'
+    stargazers_count: 18017
     github_description: 'A React framework for building text editors.'
 -
     title: Trix
@@ -75,10 +75,10 @@
     format: XML/HTML
     license: MIT
     community: null
-    open_issues: 44
-    watchers: 14994
-    updated_at: '2020-05-13T04:45:19Z'
-    stargazers_count: 14994
+    open_issues: 45
+    watchers: 14998
+    updated_at: '2020-05-13T18:16:21Z'
+    stargazers_count: 14998
     github_description: 'A rich text editor for everyday writing'
 -
     title: Prosemirror
@@ -122,10 +122,10 @@
     format: XML/HTML
     license: MIT
     community: null
-    open_issues: 224
-    watchers: 17507
-    updated_at: '2020-05-13T06:25:43Z'
-    stargazers_count: 17507
+    open_issues: 226
+    watchers: 17519
+    updated_at: '2020-05-13T16:04:05Z'
+    stargazers_count: 17519
     github_description: 'A completely customizable framework for building rich text editors. (Currently in beta.)'
 -
     title: Scribe

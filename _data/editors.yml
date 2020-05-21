@@ -26,10 +26,10 @@
     format: XML/HTML
     license: 'BSD 3-clause'
     community: null
-    open_issues: 828
-    watchers: 26490
-    updated_at: '2020-05-20T17:21:31Z'
-    stargazers_count: 26490
+    open_issues: 829
+    watchers: 26492
+    updated_at: '2020-05-21T06:05:23Z'
+    stargazers_count: 26492
     github_description: 'Quill is a modern WYSIWYG editor built for compatibility and extensibility.'
 -
     title: CKEditor5
@@ -43,10 +43,10 @@
     format: XML/HTML
     license: GPL/LGPL/MPL
     community: null
-    open_issues: 1366
-    watchers: 3375
-    updated_at: '2020-05-20T17:23:15Z'
-    stargazers_count: 3375
+    open_issues: 1367
+    watchers: 3378
+    updated_at: '2020-05-21T01:38:20Z'
+    stargazers_count: 3378
     github_description: 'Powerful rich text editor framework with a modular architecture, modern integrations and features like collaborative editing.'
 -
     title: Draft.js
@@ -59,10 +59,10 @@
     format: XML/HTML
     license: 'BSD 3-clause'
     community: null
-    open_issues: 674
-    watchers: 18078
-    updated_at: '2020-05-20T18:11:15Z'
-    stargazers_count: 18078
+    open_issues: 670
+    watchers: 18084
+    updated_at: '2020-05-21T04:31:20Z'
+    stargazers_count: 18084
     github_description: 'A React framework for building text editors.'
 -
     title: Trix
@@ -75,7 +75,7 @@
     format: XML/HTML
     license: MIT
     community: null
-    open_issues: 43
+    open_issues: 44
     watchers: 15017
     updated_at: '2020-05-20T16:15:18Z'
     stargazers_count: 15017
@@ -122,10 +122,10 @@
     format: XML/HTML
     license: MIT
     community: null
-    open_issues: 233
-    watchers: 17572
-    updated_at: '2020-05-20T16:21:37Z'
-    stargazers_count: 17572
+    open_issues: 224
+    watchers: 17573
+    updated_at: '2020-05-21T03:01:25Z'
+    stargazers_count: 17573
     github_description: 'A completely customizable framework for building rich text editors. (Currently in beta.)'
 -
     title: Scribe
@@ -139,9 +139,9 @@
     license: Apache
     community: null
     open_issues: 109
-    watchers: 3602
-    updated_at: '2020-05-19T07:36:15Z'
-    stargazers_count: 3602
+    watchers: 3601
+    updated_at: '2020-05-21T03:53:14Z'
+    stargazers_count: 3601
     github_description: 'DEPRECATED: A rich text editor framework for the web platform'
 -
     title: Mobiledoc-kit

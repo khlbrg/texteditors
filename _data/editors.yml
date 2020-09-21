@@ -27,9 +27,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 938
-    watchers: 27659
-    updated_at: '2020-09-21T06:13:25Z'
-    stargazers_count: 27659
+    watchers: 27666
+    updated_at: '2020-09-21T17:38:30Z'
+    stargazers_count: 27666
     github_description: 'Quill is a modern WYSIWYG editor built for compatibility and extensibility.'
 -
     title: CKEditor5
@@ -43,9 +43,9 @@
     format: XML/HTML
     license: GPL/LGPL/MPL
     community: null
-    open_issues: 1497
+    open_issues: 1496
     watchers: 3823
-    updated_at: '2020-09-20T20:03:45Z'
+    updated_at: '2020-09-21T16:08:49Z'
     stargazers_count: 3823
     github_description: 'Powerful rich text editor framework with a modular architecture, modern integrations and features like collaborative editing.'
 -
@@ -60,9 +60,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 730
-    watchers: 18905
-    updated_at: '2020-09-21T05:31:19Z'
-    stargazers_count: 18905
+    watchers: 18906
+    updated_at: '2020-09-21T11:42:03Z'
+    stargazers_count: 18906
     github_description: 'A React framework for building text editors.'
 -
     title: Trix
@@ -76,9 +76,9 @@
     license: MIT
     community: null
     open_issues: 48
-    watchers: 15487
-    updated_at: '2020-09-20T20:28:49Z'
-    stargazers_count: 15487
+    watchers: 15490
+    updated_at: '2020-09-21T14:12:30Z'
+    stargazers_count: 15490
     github_description: 'A rich text editor for everyday writing'
 -
     title: Prosemirror
@@ -91,9 +91,9 @@
     community: null
     description: "A very competent editor with support for real time collaboration. Good documentation and information.\n"
     open_issues: 65
-    watchers: 4683
-    updated_at: '2020-09-19T23:19:21Z'
-    stargazers_count: 4683
+    watchers: 4686
+    updated_at: '2020-09-21T14:54:15Z'
+    stargazers_count: 4686
     github_description: 'The ProseMirror WYSIWYM editor'
 -
     title: ContentTools
@@ -122,7 +122,7 @@
     format: XML/HTML
     license: MIT
     community: null
-    open_issues: 330
+    open_issues: 331
     watchers: 18560
     updated_at: '2020-09-21T03:11:55Z'
     stargazers_count: 18560

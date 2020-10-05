@@ -44,9 +44,9 @@
     license: GPL/LGPL/MPL
     community: null
     open_issues: 1542
-    watchers: 3859
-    updated_at: '2020-10-04T02:23:06Z'
-    stargazers_count: 3859
+    watchers: 3861
+    updated_at: '2020-10-05T03:05:19Z'
+    stargazers_count: 3861
     github_description: 'Powerful rich text editor framework with a modular architecture, modern integrations and features like collaborative editing.'
 -
     title: Draft.js
@@ -61,7 +61,7 @@
     community: null
     open_issues: 734
     watchers: 18983
-    updated_at: '2020-10-03T23:25:26Z'
+    updated_at: '2020-10-05T05:56:47Z'
     stargazers_count: 18983
     github_description: 'A React framework for building text editors.'
 -
@@ -75,7 +75,7 @@
     format: XML/HTML
     license: MIT
     community: null
-    open_issues: 46
+    open_issues: 47
     watchers: 15518
     updated_at: '2020-10-04T15:45:49Z'
     stargazers_count: 15518
@@ -122,10 +122,10 @@
     format: XML/HTML
     license: MIT
     community: null
-    open_issues: 343
-    watchers: 18647
-    updated_at: '2020-10-04T16:25:39Z'
-    stargazers_count: 18647
+    open_issues: 344
+    watchers: 18646
+    updated_at: '2020-10-04T20:03:41Z'
+    stargazers_count: 18646
     github_description: 'A completely customizable framework for building rich text editors. (Currently in beta.)'
 -
     title: Scribe

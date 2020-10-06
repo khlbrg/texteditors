@@ -27,9 +27,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 946
-    watchers: 27776
-    updated_at: '2020-10-05T16:22:31Z'
-    stargazers_count: 27776
+    watchers: 27779
+    updated_at: '2020-10-06T06:09:17Z'
+    stargazers_count: 27779
     github_description: 'Quill is a modern WYSIWYG editor built for compatibility and extensibility.'
 -
     title: CKEditor5
@@ -43,9 +43,9 @@
     format: XML/HTML
     license: GPL/LGPL/MPL
     community: null
-    open_issues: 1542
+    open_issues: 1543
     watchers: 3864
-    updated_at: '2020-10-05T17:13:34Z'
+    updated_at: '2020-10-05T20:21:03Z'
     stargazers_count: 3864
     github_description: 'Powerful rich text editor framework with a modular architecture, modern integrations and features like collaborative editing.'
 -
@@ -59,10 +59,10 @@
     format: XML/HTML
     license: 'BSD 3-clause'
     community: null
-    open_issues: 734
-    watchers: 18987
-    updated_at: '2020-10-05T18:02:10Z'
-    stargazers_count: 18987
+    open_issues: 736
+    watchers: 18990
+    updated_at: '2020-10-06T04:41:45Z'
+    stargazers_count: 18990
     github_description: 'A React framework for building text editors.'
 -
     title: Trix
@@ -77,7 +77,7 @@
     community: null
     open_issues: 47
     watchers: 15519
-    updated_at: '2020-10-05T18:07:42Z'
+    updated_at: '2020-10-06T03:33:41Z'
     stargazers_count: 15519
     github_description: 'A rich text editor for everyday writing'
 -
@@ -92,7 +92,7 @@
     description: "A very competent editor with support for real time collaboration. Good documentation and information.\n"
     open_issues: 66
     watchers: 4691
-    updated_at: '2020-10-04T13:18:52Z'
+    updated_at: '2020-10-06T00:57:34Z'
     stargazers_count: 4691
     github_description: 'The ProseMirror WYSIWYM editor'
 -
@@ -122,7 +122,7 @@
     format: XML/HTML
     license: MIT
     community: null
-    open_issues: 343
+    open_issues: 344
     watchers: 18652
     updated_at: '2020-10-05T16:35:44Z'
     stargazers_count: 18652

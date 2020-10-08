@@ -26,10 +26,10 @@
     format: XML/HTML
     license: 'BSD 3-clause'
     community: null
-    open_issues: 947
-    watchers: 27789
-    updated_at: '2020-10-08T06:03:49Z'
-    stargazers_count: 27789
+    open_issues: 949
+    watchers: 27795
+    updated_at: '2020-10-08T17:56:48Z'
+    stargazers_count: 27795
     github_description: 'Quill is a modern WYSIWYG editor built for compatibility and extensibility.'
 -
     title: CKEditor5
@@ -43,10 +43,10 @@
     format: XML/HTML
     license: GPL/LGPL/MPL
     community: null
-    open_issues: 1546
-    watchers: 3876
-    updated_at: '2020-10-07T23:31:27Z'
-    stargazers_count: 3876
+    open_issues: 1537
+    watchers: 3880
+    updated_at: '2020-10-08T15:34:07Z'
+    stargazers_count: 3880
     github_description: 'Powerful rich text editor framework with a modular architecture, modern integrations and features like collaborative editing.'
 -
     title: Draft.js
@@ -60,9 +60,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 739
-    watchers: 18999
-    updated_at: '2020-10-07T21:30:29Z'
-    stargazers_count: 18999
+    watchers: 19001
+    updated_at: '2020-10-08T17:23:47Z'
+    stargazers_count: 19001
     github_description: 'A React framework for building text editors.'
 -
     title: Trix
@@ -76,9 +76,9 @@
     license: MIT
     community: null
     open_issues: 48
-    watchers: 15522
-    updated_at: '2020-10-08T05:56:34Z'
-    stargazers_count: 15522
+    watchers: 15524
+    updated_at: '2020-10-08T17:52:03Z'
+    stargazers_count: 15524
     github_description: 'A rich text editor for everyday writing'
 -
     title: Prosemirror
@@ -122,10 +122,10 @@
     format: XML/HTML
     license: MIT
     community: null
-    open_issues: 352
-    watchers: 18664
-    updated_at: '2020-10-08T05:13:12Z'
-    stargazers_count: 18664
+    open_issues: 353
+    watchers: 18672
+    updated_at: '2020-10-08T15:34:21Z'
+    stargazers_count: 18672
     github_description: 'A completely customizable framework for building rich text editors. (Currently in beta.)'
 -
     title: Scribe

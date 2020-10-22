@@ -9,9 +9,9 @@
     format: XML/HTML
     license: MIT
     community: null
-    open_issues: 39
+    open_issues: 38
     watchers: 2715
-    updated_at: '2020-10-14T17:28:13Z'
+    updated_at: '2020-10-22T10:45:44Z'
     stargazers_count: 2715
     github_description: 'A JavaScript library for web-based content editing.'
 -
@@ -27,9 +27,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 955
-    watchers: 27887
-    updated_at: '2020-10-22T06:20:47Z'
-    stargazers_count: 27887
+    watchers: 27893
+    updated_at: '2020-10-22T17:46:20Z'
+    stargazers_count: 27893
     github_description: 'Quill is a modern WYSIWYG editor built for compatibility and extensibility.'
 -
     title: CKEditor5
@@ -43,10 +43,10 @@
     format: XML/HTML
     license: GPL/LGPL/MPL
     community: null
-    open_issues: 1537
-    watchers: 3933
-    updated_at: '2020-10-22T06:14:01Z'
-    stargazers_count: 3933
+    open_issues: 1539
+    watchers: 3938
+    updated_at: '2020-10-22T17:48:42Z'
+    stargazers_count: 3938
     github_description: 'Powerful rich text editor framework with a modular architecture, modern integrations and features like collaborative editing.'
 -
     title: Draft.js
@@ -59,10 +59,10 @@
     format: XML/HTML
     license: 'BSD 3-clause'
     community: null
-    open_issues: 747
-    watchers: 19084
-    updated_at: '2020-10-22T03:51:05Z'
-    stargazers_count: 19084
+    open_issues: 745
+    watchers: 19090
+    updated_at: '2020-10-22T18:34:18Z'
+    stargazers_count: 19090
     github_description: 'A React framework for building text editors.'
 -
     title: Trix
@@ -76,9 +76,9 @@
     license: MIT
     community: null
     open_issues: 49
-    watchers: 15560
-    updated_at: '2020-10-21T22:27:31Z'
-    stargazers_count: 15560
+    watchers: 15561
+    updated_at: '2020-10-22T06:51:50Z'
+    stargazers_count: 15561
     github_description: 'A rich text editor for everyday writing'
 -
     title: Prosemirror
@@ -91,9 +91,9 @@
     community: null
     description: "A very competent editor with support for real time collaboration. Good documentation and information.\n"
     open_issues: 66
-    watchers: 4727
-    updated_at: '2020-10-22T05:48:24Z'
-    stargazers_count: 4727
+    watchers: 4728
+    updated_at: '2020-10-22T11:45:53Z'
+    stargazers_count: 4728
     github_description: 'The ProseMirror WYSIWYM editor'
 -
     title: ContentTools
@@ -122,10 +122,10 @@
     format: XML/HTML
     license: MIT
     community: null
-    open_issues: 366
-    watchers: 18772
-    updated_at: '2020-10-21T22:21:58Z'
-    stargazers_count: 18772
+    open_issues: 367
+    watchers: 18781
+    updated_at: '2020-10-22T17:55:47Z'
+    stargazers_count: 18781
     github_description: 'A completely customizable framework for building rich text editors. (Currently in beta.)'
 -
     title: Scribe

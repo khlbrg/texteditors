@@ -26,10 +26,10 @@
     format: XML/HTML
     license: 'BSD 3-clause'
     community: null
-    open_issues: 976
-    watchers: 28179
-    updated_at: '2020-11-20T06:07:23Z'
-    stargazers_count: 28179
+    open_issues: 977
+    watchers: 28183
+    updated_at: '2020-11-20T14:48:21Z'
+    stargazers_count: 28183
     github_description: 'Quill is a modern WYSIWYG editor built for compatibility and extensibility.'
 -
     title: CKEditor5
@@ -43,10 +43,10 @@
     format: XML/HTML
     license: GPL/LGPL/MPL
     community: null
-    open_issues: 1574
-    watchers: 4033
-    updated_at: '2020-11-19T19:18:42Z'
-    stargazers_count: 4033
+    open_issues: 1560
+    watchers: 4035
+    updated_at: '2020-11-20T15:15:21Z'
+    stargazers_count: 4035
     github_description: 'Powerful rich text editor framework with a modular architecture, modern integrations and features like collaborative editing.'
 -
     title: Draft.js
@@ -60,9 +60,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 739
-    watchers: 19259
-    updated_at: '2020-11-20T01:16:17Z'
-    stargazers_count: 19259
+    watchers: 19262
+    updated_at: '2020-11-20T10:13:56Z'
+    stargazers_count: 19262
     github_description: 'A React framework for building text editors.'
 -
     title: Trix
@@ -75,10 +75,10 @@
     format: XML/HTML
     license: MIT
     community: null
-    open_issues: 47
-    watchers: 15640
-    updated_at: '2020-11-20T01:40:09Z'
-    stargazers_count: 15640
+    open_issues: 48
+    watchers: 15639
+    updated_at: '2020-11-20T14:44:16Z'
+    stargazers_count: 15639
     github_description: 'A rich text editor for everyday writing'
 -
     title: Prosemirror
@@ -123,9 +123,9 @@
     license: MIT
     community: null
     open_issues: 402
-    watchers: 19025
-    updated_at: '2020-11-20T01:43:16Z'
-    stargazers_count: 19025
+    watchers: 19032
+    updated_at: '2020-11-20T18:08:43Z'
+    stargazers_count: 19032
     github_description: 'A completely customizable framework for building rich text editors. (Currently in beta.)'
 -
     title: Scribe
@@ -139,9 +139,9 @@
     license: Apache
     community: null
     open_issues: 108
-    watchers: 3587
-    updated_at: '2020-11-11T07:22:35Z'
-    stargazers_count: 3587
+    watchers: 3586
+    updated_at: '2020-11-20T11:44:26Z'
+    stargazers_count: 3586
     github_description: 'DEPRECATED: A rich text editor framework for the web platform'
 -
     title: Mobiledoc-kit

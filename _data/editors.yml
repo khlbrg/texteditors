@@ -27,9 +27,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 1051
-    watchers: 29562
-    updated_at: '2021-04-18T09:46:06Z'
-    stargazers_count: 29562
+    watchers: 29567
+    updated_at: '2021-04-19T05:46:55Z'
+    stargazers_count: 29567
     github_description: 'Quill is a modern WYSIWYG editor built for compatibility and extensibility.'
 -
     title: CKEditor5
@@ -43,7 +43,7 @@
     format: XML/HTML
     license: GPL/LGPL/MPL
     community: null
-    open_issues: 1823
+    open_issues: 1822
     watchers: 4531
     updated_at: '2021-04-18T16:11:34Z'
     stargazers_count: 4531
@@ -59,10 +59,10 @@
     format: XML/HTML
     license: 'BSD 3-clause'
     community: null
-    open_issues: 835
-    watchers: 20131
-    updated_at: '2021-04-18T18:07:29Z'
-    stargazers_count: 20131
+    open_issues: 836
+    watchers: 20134
+    updated_at: '2021-04-19T06:34:15Z'
+    stargazers_count: 20134
     github_description: 'A React framework for building text editors.'
 -
     title: Trix
@@ -92,7 +92,7 @@
     description: "A very competent editor with support for real time collaboration. Good documentation and information.\n"
     open_issues: 73
     watchers: 5079
-    updated_at: '2021-04-17T21:44:14Z'
+    updated_at: '2021-04-19T01:49:24Z'
     stargazers_count: 5079
     github_description: 'The ProseMirror WYSIWYM editor'
 -
@@ -123,9 +123,9 @@
     license: MIT
     community: null
     open_issues: 403
-    watchers: 20354
-    updated_at: '2021-04-18T18:02:07Z'
-    stargazers_count: 20354
+    watchers: 20359
+    updated_at: '2021-04-19T06:34:18Z'
+    stargazers_count: 20359
     github_description: 'A completely customizable framework for building rich text editors. (Currently in beta.)'
 -
     title: Scribe
@@ -156,7 +156,7 @@
     license: MIT
     community: null
     open_issues: 65
-    watchers: 1438
-    updated_at: '2021-04-18T03:58:35Z'
-    stargazers_count: 1438
+    watchers: 1439
+    updated_at: '2021-04-19T04:29:40Z'
+    stargazers_count: 1439
     github_description: 'A toolkit for building WYSIWYG editors with Mobiledoc'

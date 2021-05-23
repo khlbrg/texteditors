@@ -27,9 +27,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 1078
-    watchers: 29884
-    updated_at: '2021-05-22T18:22:05Z'
-    stargazers_count: 29884
+    watchers: 29885
+    updated_at: '2021-05-23T06:03:52Z'
+    stargazers_count: 29885
     github_description: 'Quill is a modern WYSIWYG editor built for compatibility and extensibility.'
 -
     title: CKEditor5
@@ -44,9 +44,9 @@
     license: GPL/LGPL/MPL
     community: null
     open_issues: 1871
-    watchers: 4648
-    updated_at: '2021-05-22T12:17:05Z'
-    stargazers_count: 4648
+    watchers: 4649
+    updated_at: '2021-05-23T05:16:06Z'
+    stargazers_count: 4649
     github_description: 'Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.'
 -
     title: Draft.js
@@ -60,9 +60,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 865
-    watchers: 20303
-    updated_at: '2021-05-22T18:09:52Z'
-    stargazers_count: 20303
+    watchers: 20301
+    updated_at: '2021-05-23T06:02:09Z'
+    stargazers_count: 20301
     github_description: 'A React framework for building text editors.'
 -
     title: Trix
@@ -91,9 +91,9 @@
     community: null
     description: "A very competent editor with support for real time collaboration. Good documentation and information.\n"
     open_issues: 75
-    watchers: 5172
-    updated_at: '2021-05-22T17:03:47Z'
-    stargazers_count: 5172
+    watchers: 5174
+    updated_at: '2021-05-23T06:29:20Z'
+    stargazers_count: 5174
     github_description: 'The ProseMirror WYSIWYM editor'
 -
     title: ContentTools
@@ -123,9 +123,9 @@
     license: MIT
     community: null
     open_issues: 419
-    watchers: 20646
-    updated_at: '2021-05-22T17:10:47Z'
-    stargazers_count: 20646
+    watchers: 20648
+    updated_at: '2021-05-22T20:02:18Z'
+    stargazers_count: 20648
     github_description: 'A completely customizable framework for building rich text editors. (Currently in beta.)'
 -
     title: Scribe

@@ -26,10 +26,10 @@
     format: XML/HTML
     license: 'BSD 3-clause'
     community: null
-    open_issues: 1116
-    watchers: 30645
-    updated_at: '2021-08-21T06:12:50Z'
-    stargazers_count: 30645
+    open_issues: 1115
+    watchers: 30647
+    updated_at: '2021-08-21T16:12:06Z'
+    stargazers_count: 30647
     github_description: 'Quill is a modern WYSIWYG editor built for compatibility and extensibility.'
 -
     title: CKEditor5
@@ -43,7 +43,7 @@
     format: XML/HTML
     license: GPL/LGPL/MPL
     community: null
-    open_issues: 2037
+    open_issues: 2038
     watchers: 4928
     updated_at: '2021-08-20T19:44:12Z'
     stargazers_count: 4928
@@ -60,9 +60,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 892
-    watchers: 20686
-    updated_at: '2021-08-21T05:58:23Z'
-    stargazers_count: 20686
+    watchers: 20687
+    updated_at: '2021-08-21T10:00:10Z'
+    stargazers_count: 20687
     github_description: 'A React framework for building text editors.'
 -
     title: Trix
@@ -76,9 +76,9 @@
     license: MIT
     community: null
     open_issues: 51
-    watchers: 16331
-    updated_at: '2021-08-19T03:13:26Z'
-    stargazers_count: 16331
+    watchers: 16332
+    updated_at: '2021-08-21T17:40:16Z'
+    stargazers_count: 16332
     github_description: 'A rich text editor for everyday writing'
 -
     title: Prosemirror
@@ -107,9 +107,9 @@
     license: MIT
     community: 5
     open_issues: 91
-    watchers: 3790
-    updated_at: '2021-08-13T07:49:31Z'
-    stargazers_count: 3790
+    watchers: 3789
+    updated_at: '2021-08-21T17:25:05Z'
+    stargazers_count: 3789
     github_description: 'A JS library for building WYSIWYG editors for HTML content.'
 -
     title: Slate
@@ -122,9 +122,9 @@
     format: XML/HTML
     license: MIT
     community: null
-    open_issues: 417
+    open_issues: 413
     watchers: 21996
-    updated_at: '2021-08-21T02:09:43Z'
+    updated_at: '2021-08-21T14:21:31Z'
     stargazers_count: 21996
     github_description: 'A completely customizable framework for building rich text editors. (Currently in beta.)'
 -

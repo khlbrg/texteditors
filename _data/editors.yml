@@ -27,9 +27,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 1115
-    watchers: 30647
-    updated_at: '2021-08-21T16:12:06Z'
-    stargazers_count: 30647
+    watchers: 30648
+    updated_at: '2021-08-22T14:03:23Z'
+    stargazers_count: 30648
     github_description: 'Quill is a modern WYSIWYG editor built for compatibility and extensibility.'
 -
     title: CKEditor5
@@ -44,9 +44,9 @@
     license: GPL/LGPL/MPL
     community: null
     open_issues: 2038
-    watchers: 4927
-    updated_at: '2021-08-22T02:48:53Z'
-    stargazers_count: 4927
+    watchers: 4928
+    updated_at: '2021-08-22T11:37:49Z'
+    stargazers_count: 4928
     github_description: 'Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.'
 -
     title: Draft.js
@@ -60,9 +60,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 892
-    watchers: 20690
-    updated_at: '2021-08-22T06:22:54Z'
-    stargazers_count: 20690
+    watchers: 20692
+    updated_at: '2021-08-22T15:43:37Z'
+    stargazers_count: 20692
     github_description: 'A React framework for building text editors.'
 -
     title: Trix
@@ -123,9 +123,9 @@
     license: MIT
     community: null
     open_issues: 412
-    watchers: 21998
-    updated_at: '2021-08-22T02:37:11Z'
-    stargazers_count: 21998
+    watchers: 22002
+    updated_at: '2021-08-22T15:17:41Z'
+    stargazers_count: 22002
     github_description: 'A completely customizable framework for building rich text editors. (Currently in beta.)'
 -
     title: Scribe

@@ -27,9 +27,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 1124
-    watchers: 30758
-    updated_at: '2021-09-04T04:49:11Z'
-    stargazers_count: 30758
+    watchers: 30759
+    updated_at: '2021-09-04T14:09:18Z'
+    stargazers_count: 30759
     github_description: 'Quill is a modern WYSIWYG editor built for compatibility and extensibility.'
 -
     title: CKEditor5
@@ -43,10 +43,10 @@
     format: XML/HTML
     license: GPL/LGPL/MPL
     community: null
-    open_issues: 2052
-    watchers: 4989
-    updated_at: '2021-09-03T21:07:49Z'
-    stargazers_count: 4989
+    open_issues: 2054
+    watchers: 4990
+    updated_at: '2021-09-04T14:30:22Z'
+    stargazers_count: 4990
     github_description: 'Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.'
 -
     title: Draft.js
@@ -60,9 +60,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 892
-    watchers: 20740
-    updated_at: '2021-09-03T17:44:16Z'
-    stargazers_count: 20740
+    watchers: 20746
+    updated_at: '2021-09-04T18:20:56Z'
+    stargazers_count: 20746
     github_description: 'A React framework for building text editors.'
 -
     title: Trix
@@ -76,9 +76,9 @@
     license: MIT
     community: null
     open_issues: 54
-    watchers: 16356
-    updated_at: '2021-09-03T19:31:25Z'
-    stargazers_count: 16356
+    watchers: 16357
+    updated_at: '2021-09-04T14:08:11Z'
+    stargazers_count: 16357
     github_description: 'A rich text editor for everyday writing'
 -
     title: Prosemirror
@@ -107,9 +107,9 @@
     license: MIT
     community: 5
     open_issues: 91
-    watchers: 3788
-    updated_at: '2021-09-04T05:26:21Z'
-    stargazers_count: 3788
+    watchers: 3789
+    updated_at: '2021-09-04T17:03:16Z'
+    stargazers_count: 3789
     github_description: 'A JS library for building WYSIWYG editors for HTML content.'
 -
     title: Slate
@@ -122,10 +122,10 @@
     format: XML/HTML
     license: MIT
     community: null
-    open_issues: 405
-    watchers: 22089
-    updated_at: '2021-09-03T21:13:19Z'
-    stargazers_count: 22089
+    open_issues: 407
+    watchers: 22092
+    updated_at: '2021-09-04T17:18:23Z'
+    stargazers_count: 22092
     github_description: 'A completely customizable framework for building rich text editors. (Currently in beta.)'
 -
     title: Scribe

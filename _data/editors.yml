@@ -27,9 +27,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 1138
-    watchers: 30993
-    updated_at: '2021-10-05T18:40:24Z'
-    stargazers_count: 30993
+    watchers: 30996
+    updated_at: '2021-10-06T12:01:29Z'
+    stargazers_count: 30996
     github_description: 'Quill is a modern WYSIWYG editor built for compatibility and extensibility.'
 -
     title: CKEditor5
@@ -43,10 +43,10 @@
     format: XML/HTML
     license: GPL/LGPL/MPL
     community: null
-    open_issues: 2067
-    watchers: 5108
-    updated_at: '2021-10-06T06:21:29Z'
-    stargazers_count: 5108
+    open_issues: 2069
+    watchers: 5111
+    updated_at: '2021-10-06T16:35:38Z'
+    stargazers_count: 5111
     github_description: 'Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.'
 -
     title: Draft.js
@@ -60,9 +60,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 901
-    watchers: 20868
-    updated_at: '2021-10-06T06:30:57Z'
-    stargazers_count: 20868
+    watchers: 20872
+    updated_at: '2021-10-06T12:46:06Z'
+    stargazers_count: 20872
     github_description: 'A React framework for building text editors.'
 -
     title: Trix
@@ -90,10 +90,10 @@
     level: 4
     community: null
     description: "A very competent editor with support for real time collaboration. Good documentation and information.\n"
-    open_issues: 82
-    watchers: 5456
-    updated_at: '2021-10-05T14:48:59Z'
-    stargazers_count: 5456
+    open_issues: 81
+    watchers: 5457
+    updated_at: '2021-10-06T17:13:02Z'
+    stargazers_count: 5457
     github_description: 'The ProseMirror WYSIWYM editor'
 -
     title: ContentTools
@@ -122,10 +122,10 @@
     format: XML/HTML
     license: MIT
     community: null
-    open_issues: 410
-    watchers: 22326
-    updated_at: '2021-10-06T01:47:58Z'
-    stargazers_count: 22326
+    open_issues: 413
+    watchers: 22329
+    updated_at: '2021-10-06T14:34:35Z'
+    stargazers_count: 22329
     github_description: 'A completely customizable framework for building rich text editors. (Currently in beta.)'
 -
     title: Scribe

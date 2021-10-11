@@ -26,9 +26,9 @@
     format: XML/HTML
     license: 'BSD 3-clause'
     community: null
-    open_issues: 1140
+    open_issues: 1141
     watchers: 31035
-    updated_at: '2021-10-11T03:57:27Z'
+    updated_at: '2021-10-11T17:15:56Z'
     stargazers_count: 31035
     github_description: 'Quill is a modern WYSIWYG editor built for compatibility and extensibility.'
 -
@@ -43,10 +43,10 @@
     format: XML/HTML
     license: GPL/LGPL/MPL
     community: null
-    open_issues: 2072
-    watchers: 5125
-    updated_at: '2021-10-11T05:25:10Z'
-    stargazers_count: 5125
+    open_issues: 2079
+    watchers: 5129
+    updated_at: '2021-10-11T11:36:12Z'
+    stargazers_count: 5129
     github_description: 'Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.'
 -
     title: Draft.js
@@ -60,9 +60,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 904
-    watchers: 20895
-    updated_at: '2021-10-11T02:51:04Z'
-    stargazers_count: 20895
+    watchers: 20902
+    updated_at: '2021-10-11T15:35:44Z'
+    stargazers_count: 20902
     github_description: 'A React framework for building text editors.'
 -
     title: Trix
@@ -91,9 +91,9 @@
     community: null
     description: "A very competent editor with support for real time collaboration. Good documentation and information.\n"
     open_issues: 82
-    watchers: 5462
-    updated_at: '2021-10-10T14:42:45Z'
-    stargazers_count: 5462
+    watchers: 5464
+    updated_at: '2021-10-11T14:51:41Z'
+    stargazers_count: 5464
     github_description: 'The ProseMirror WYSIWYM editor'
 -
     title: ContentTools
@@ -122,10 +122,10 @@
     format: XML/HTML
     license: MIT
     community: null
-    open_issues: 418
-    watchers: 22374
-    updated_at: '2021-10-11T05:57:22Z'
-    stargazers_count: 22374
+    open_issues: 421
+    watchers: 22381
+    updated_at: '2021-10-11T16:06:20Z'
+    stargazers_count: 22381
     github_description: 'A completely customizable framework for building rich text editors. (Currently in beta.)'
 -
     title: Scribe

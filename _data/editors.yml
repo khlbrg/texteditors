@@ -27,9 +27,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 1154
-    watchers: 31162
-    updated_at: '2021-10-28T18:34:29Z'
-    stargazers_count: 31162
+    watchers: 31166
+    updated_at: '2021-10-29T06:07:25Z'
+    stargazers_count: 31166
     github_description: 'Quill is a modern WYSIWYG editor built for compatibility and extensibility.'
 -
     title: CKEditor5
@@ -59,10 +59,10 @@
     format: XML/HTML
     license: 'BSD 3-clause'
     community: null
-    open_issues: 901
-    watchers: 20962
-    updated_at: '2021-10-28T16:25:16Z'
-    stargazers_count: 20962
+    open_issues: 902
+    watchers: 20970
+    updated_at: '2021-10-29T05:08:07Z'
+    stargazers_count: 20970
     github_description: 'A React framework for building text editors.'
 -
     title: Trix
@@ -76,9 +76,9 @@
     license: MIT
     community: null
     open_issues: 57
-    watchers: 16466
-    updated_at: '2021-10-28T14:20:19Z'
-    stargazers_count: 16466
+    watchers: 16468
+    updated_at: '2021-10-29T03:35:00Z'
+    stargazers_count: 16468
     github_description: 'A rich text editor for everyday writing'
 -
     title: Prosemirror
@@ -91,9 +91,9 @@
     community: null
     description: "A very competent editor with support for real time collaboration. Good documentation and information.\n"
     open_issues: 84
-    watchers: 5504
-    updated_at: '2021-10-28T14:56:33Z'
-    stargazers_count: 5504
+    watchers: 5506
+    updated_at: '2021-10-29T04:25:06Z'
+    stargazers_count: 5506
     github_description: 'The ProseMirror WYSIWYM editor'
 -
     title: ContentTools
@@ -122,10 +122,10 @@
     format: XML/HTML
     license: MIT
     community: null
-    open_issues: 410
-    watchers: 22642
-    updated_at: '2021-10-28T18:26:16Z'
-    stargazers_count: 22642
+    open_issues: 408
+    watchers: 22647
+    updated_at: '2021-10-29T06:25:07Z'
+    stargazers_count: 22647
     github_description: 'A completely customizable framework for building rich text editors. (Currently in beta.)'
 -
     title: Scribe

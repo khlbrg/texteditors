@@ -26,10 +26,10 @@
     format: XML/HTML
     license: 'BSD 3-clause'
     community: null
-    open_issues: 1195
-    watchers: 32120
-    updated_at: '2022-03-09T06:16:20Z'
-    stargazers_count: 32120
+    open_issues: 1196
+    watchers: 32127
+    updated_at: '2022-03-09T15:20:59Z'
+    stargazers_count: 32127
     github_description: 'Quill is a modern WYSIWYG editor built for compatibility and extensibility.'
 -
     title: CKEditor5
@@ -43,10 +43,10 @@
     format: XML/HTML
     license: GPL/LGPL/MPL
     community: null
-    open_issues: 2328
-    watchers: 5696
-    updated_at: '2022-03-09T03:13:02Z'
-    stargazers_count: 5696
+    open_issues: 2329
+    watchers: 5699
+    updated_at: '2022-03-09T10:21:41Z'
+    stargazers_count: 5699
     github_description: 'Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.'
 -
     title: Draft.js
@@ -60,9 +60,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 930
-    watchers: 21475
-    updated_at: '2022-03-09T05:55:31Z'
-    stargazers_count: 21475
+    watchers: 21477
+    updated_at: '2022-03-09T13:19:40Z'
+    stargazers_count: 21477
     github_description: 'A React framework for building text editors.'
 -
     title: Trix
@@ -76,9 +76,9 @@
     license: MIT
     community: null
     open_issues: 72
-    watchers: 16699
-    updated_at: '2022-03-08T21:47:00Z'
-    stargazers_count: 16699
+    watchers: 16701
+    updated_at: '2022-03-09T14:31:38Z'
+    stargazers_count: 16701
     github_description: 'A rich text editor for everyday writing'
 -
     title: Prosemirror
@@ -91,9 +91,9 @@
     community: null
     description: "A very competent editor with support for real time collaboration. Good documentation and information.\n"
     open_issues: 87
-    watchers: 5784
-    updated_at: '2022-03-08T23:59:38Z'
-    stargazers_count: 5784
+    watchers: 5785
+    updated_at: '2022-03-09T07:00:26Z'
+    stargazers_count: 5785
     github_description: 'The ProseMirror WYSIWYM editor'
 -
     title: ContentTools
@@ -122,10 +122,10 @@
     format: XML/HTML
     license: MIT
     community: null
-    open_issues: 477
-    watchers: 23732
-    updated_at: '2022-03-09T05:35:12Z'
-    stargazers_count: 23732
+    open_issues: 476
+    watchers: 23740
+    updated_at: '2022-03-09T16:45:00Z'
+    stargazers_count: 23740
     github_description: 'A completely customizable framework for building rich text editors. (Currently in beta.)'
 -
     title: Scribe
@@ -156,7 +156,7 @@
     license: MIT
     community: null
     open_issues: 66
-    watchers: 1489
-    updated_at: '2022-02-13T16:02:27Z'
-    stargazers_count: 1489
+    watchers: 1490
+    updated_at: '2022-03-09T07:17:47Z'
+    stargazers_count: 1490
     github_description: 'A toolkit for building WYSIWYG editors with Mobiledoc'

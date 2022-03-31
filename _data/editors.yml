@@ -26,10 +26,10 @@
     format: XML/HTML
     license: 'BSD 3-clause'
     community: null
-    open_issues: 1206
-    watchers: 32314
-    updated_at: '2022-03-30T18:31:15Z'
-    stargazers_count: 32314
+    open_issues: 1207
+    watchers: 32321
+    updated_at: '2022-03-31T03:20:49Z'
+    stargazers_count: 32321
     github_description: 'Quill is a modern WYSIWYG editor built for compatibility and extensibility.'
 -
     title: CKEditor5
@@ -43,10 +43,10 @@
     format: XML/HTML
     license: GPL/LGPL/MPL
     community: null
-    open_issues: 2357
-    watchers: 5747
-    updated_at: '2022-03-30T09:38:43Z'
-    stargazers_count: 5747
+    open_issues: 2358
+    watchers: 5749
+    updated_at: '2022-03-31T01:55:24Z'
+    stargazers_count: 5749
     github_description: 'Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.'
 -
     title: Draft.js
@@ -60,9 +60,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 933
-    watchers: 21541
-    updated_at: '2022-03-30T18:04:09Z'
-    stargazers_count: 21541
+    watchers: 21543
+    updated_at: '2022-03-31T03:53:41Z'
+    stargazers_count: 21543
     github_description: 'A React framework for building text editors.'
 -
     title: Trix
@@ -76,9 +76,9 @@
     license: MIT
     community: null
     open_issues: 74
-    watchers: 16715
-    updated_at: '2022-03-30T13:28:45Z'
-    stargazers_count: 16715
+    watchers: 16714
+    updated_at: '2022-03-30T23:22:23Z'
+    stargazers_count: 16714
     github_description: 'A rich text editor for everyday writing'
 -
     title: Prosemirror
@@ -122,10 +122,10 @@
     format: XML/HTML
     license: MIT
     community: null
-    open_issues: 485
-    watchers: 23918
-    updated_at: '2022-03-30T15:48:19Z'
-    stargazers_count: 23918
+    open_issues: 486
+    watchers: 23920
+    updated_at: '2022-03-31T06:32:00Z'
+    stargazers_count: 23920
     github_description: 'A completely customizable framework for building rich text editors. (Currently in beta.)'
 -
     title: Scribe

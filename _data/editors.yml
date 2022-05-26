@@ -27,9 +27,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 1231
-    watchers: 32736
-    updated_at: '2022-05-25T18:29:52Z'
-    stargazers_count: 32736
+    watchers: 32742
+    updated_at: '2022-05-26T05:38:42Z'
+    stargazers_count: 32742
     github_description: 'Quill is a modern WYSIWYG editor built for compatibility and extensibility.'
 -
     title: CKEditor5
@@ -43,10 +43,10 @@
     format: XML/HTML
     license: GPL/LGPL/MPL
     community: null
-    open_issues: 2467
-    watchers: 5934
-    updated_at: '2022-05-25T17:17:02Z'
-    stargazers_count: 5934
+    open_issues: 2469
+    watchers: 5935
+    updated_at: '2022-05-26T04:37:55Z'
+    stargazers_count: 5935
     github_description: 'Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.'
 -
     title: Draft.js
@@ -60,9 +60,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 938
-    watchers: 21737
-    updated_at: '2022-05-25T16:57:59Z'
-    stargazers_count: 21737
+    watchers: 21740
+    updated_at: '2022-05-26T05:56:33Z'
+    stargazers_count: 21740
     github_description: 'A React framework for building text editors.'
 -
     title: Trix
@@ -91,9 +91,9 @@
     community: null
     description: "A very competent editor with support for real time collaboration. Good documentation and information.\n"
     open_issues: 95
-    watchers: 5903
-    updated_at: '2022-05-24T21:15:05Z'
-    stargazers_count: 5903
+    watchers: 5906
+    updated_at: '2022-05-26T06:34:22Z'
+    stargazers_count: 5906
     github_description: 'The ProseMirror WYSIWYM editor'
 -
     title: ContentTools
@@ -122,10 +122,10 @@
     format: XML/HTML
     license: MIT
     community: null
-    open_issues: 504
-    watchers: 24430
-    updated_at: '2022-05-25T17:38:51Z'
-    stargazers_count: 24430
+    open_issues: 503
+    watchers: 24437
+    updated_at: '2022-05-26T06:22:25Z'
+    stargazers_count: 24437
     github_description: 'A completely customizable framework for building rich text editors. (Currently in beta.)'
 -
     title: Scribe
@@ -139,9 +139,9 @@
     license: Apache
     community: null
     open_issues: 107
-    watchers: 3547
-    updated_at: '2022-03-23T20:50:11Z'
-    stargazers_count: 3547
+    watchers: 3546
+    updated_at: '2022-05-25T18:53:23Z'
+    stargazers_count: 3546
     github_description: 'DEPRECATED: A rich text editor framework for the web platform'
 -
     title: Mobiledoc-kit

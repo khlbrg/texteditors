@@ -43,7 +43,7 @@
     format: XML/HTML
     license: GPL/LGPL/MPL
     community: null
-    open_issues: 2529
+    open_issues: 2530
     watchers: 6040
     updated_at: '2022-06-25T13:59:45Z'
     stargazers_count: 6040
@@ -90,10 +90,10 @@
     level: 4
     community: null
     description: "A very competent editor with support for real time collaboration. Good documentation and information.\n"
-    open_issues: 95
-    watchers: 5972
-    updated_at: '2022-06-25T15:24:43Z'
-    stargazers_count: 5972
+    open_issues: 94
+    watchers: 5973
+    updated_at: '2022-06-26T02:21:22Z'
+    stargazers_count: 5973
     github_description: 'The ProseMirror WYSIWYM editor'
 -
     title: ContentTools
@@ -123,9 +123,9 @@
     license: MIT
     community: null
     open_issues: 512
-    watchers: 24659
-    updated_at: '2022-06-25T13:49:34Z'
-    stargazers_count: 24659
+    watchers: 24661
+    updated_at: '2022-06-26T02:44:16Z'
+    stargazers_count: 24661
     github_description: 'A completely customizable framework for building rich text editors. (Currently in beta.)'
 -
     title: Scribe

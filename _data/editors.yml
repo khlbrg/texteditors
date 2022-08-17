@@ -26,10 +26,10 @@
     format: XML/HTML
     license: 'BSD 3-clause'
     community: null
-    open_issues: 1265
-    watchers: 33371
-    updated_at: '2022-08-17T06:33:45Z'
-    stargazers_count: 33371
+    open_issues: 1266
+    watchers: 33378
+    updated_at: '2022-08-17T16:23:32Z'
+    stargazers_count: 33378
     github_description: 'Quill is a modern WYSIWYG editor built for compatibility and extensibility.'
 -
     title: CKEditor5
@@ -43,9 +43,9 @@
     format: XML/HTML
     license: GPL/LGPL/MPL
     community: null
-    open_issues: 2597
+    open_issues: 2595
     watchers: 6230
-    updated_at: '2022-08-17T02:49:51Z'
+    updated_at: '2022-08-17T15:56:47Z'
     stargazers_count: 6230
     github_description: 'Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.'
 -
@@ -60,9 +60,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 949
-    watchers: 21936
-    updated_at: '2022-08-17T05:26:24Z'
-    stargazers_count: 21936
+    watchers: 21941
+    updated_at: '2022-08-17T14:54:12Z'
+    stargazers_count: 21941
     github_description: 'A React framework for building text editors.'
 -
     title: Trix
@@ -76,9 +76,9 @@
     license: MIT
     community: null
     open_issues: 91
-    watchers: 16909
-    updated_at: '2022-08-16T20:01:31Z'
-    stargazers_count: 16909
+    watchers: 16912
+    updated_at: '2022-08-17T14:06:37Z'
+    stargazers_count: 16912
     github_description: 'A rich text editor for everyday writing'
 -
     title: Prosemirror
@@ -122,10 +122,10 @@
     format: XML/HTML
     license: MIT
     community: null
-    open_issues: 521
-    watchers: 25086
-    updated_at: '2022-08-17T02:40:33Z'
-    stargazers_count: 25086
+    open_issues: 522
+    watchers: 25094
+    updated_at: '2022-08-17T11:54:29Z'
+    stargazers_count: 25094
     github_description: 'A completely customizable framework for building rich text editors. (Currently in beta.)'
 -
     title: Scribe
@@ -155,8 +155,8 @@
     format: JSON
     license: MIT
     community: null
-    open_issues: 57
-    watchers: 1508
-    updated_at: '2022-08-15T06:15:05Z'
-    stargazers_count: 1508
+    open_issues: 58
+    watchers: 1509
+    updated_at: '2022-08-17T17:42:04Z'
+    stargazers_count: 1509
     github_description: 'A toolkit for building WYSIWYG editors with Mobiledoc'

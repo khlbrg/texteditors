@@ -27,9 +27,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 1282
-    watchers: 33651
-    updated_at: '2022-09-21T05:17:46Z'
-    stargazers_count: 33651
+    watchers: 33653
+    updated_at: '2022-09-21T07:48:41Z'
+    stargazers_count: 33653
     github_description: 'Quill is a modern WYSIWYG editor built for compatibility and extensibility.'
 -
     title: CKEditor5
@@ -43,10 +43,10 @@
     format: XML/HTML
     license: GPL/LGPL/MPL
     community: null
-    open_issues: 2628
-    watchers: 6312
-    updated_at: '2022-09-20T23:14:35Z'
-    stargazers_count: 6312
+    open_issues: 2626
+    watchers: 6313
+    updated_at: '2022-09-21T08:48:11Z'
+    stargazers_count: 6313
     github_description: 'Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.'
 -
     title: Draft.js
@@ -60,9 +60,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 952
-    watchers: 22063
-    updated_at: '2022-09-20T22:57:23Z'
-    stargazers_count: 22063
+    watchers: 22062
+    updated_at: '2022-09-21T11:01:57Z'
+    stargazers_count: 22062
     github_description: 'A React framework for building text editors.'
 -
     title: Trix
@@ -75,7 +75,7 @@
     format: XML/HTML
     license: MIT
     community: null
-    open_issues: 91
+    open_issues: 92
     watchers: 16966
     updated_at: '2022-09-21T05:19:50Z'
     stargazers_count: 16966
@@ -122,10 +122,10 @@
     format: XML/HTML
     license: MIT
     community: null
-    open_issues: 533
-    watchers: 25445
-    updated_at: '2022-09-21T06:14:33Z'
-    stargazers_count: 25445
+    open_issues: 534
+    watchers: 25451
+    updated_at: '2022-09-21T16:12:54Z'
+    stargazers_count: 25451
     github_description: 'A completely customizable framework for building rich text editors. (Currently in beta.)'
 -
     title: Scribe
@@ -155,7 +155,7 @@
     format: JSON
     license: MIT
     community: null
-    open_issues: 46
+    open_issues: 47
     watchers: 1512
     updated_at: '2022-09-07T15:00:57Z'
     stargazers_count: 1512

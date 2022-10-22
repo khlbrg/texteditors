@@ -26,9 +26,9 @@
     format: XML/HTML
     license: 'BSD 3-clause'
     community: null
-    open_issues: 1292
+    open_issues: 1293
     watchers: 33881
-    updated_at: '2022-10-21T18:09:48Z'
+    updated_at: '2022-10-22T06:03:34Z'
     stargazers_count: 33881
     github_description: 'Quill is a modern WYSIWYG editor built for compatibility and extensibility.'
 -
@@ -43,7 +43,7 @@
     format: XML/HTML
     license: GPL/LGPL/MPL
     community: null
-    open_issues: 2703
+    open_issues: 2704
     watchers: 6433
     updated_at: '2022-10-21T14:08:01Z'
     stargazers_count: 6433
@@ -61,7 +61,7 @@
     community: null
     open_issues: 957
     watchers: 22148
-    updated_at: '2022-10-21T17:14:03Z'
+    updated_at: '2022-10-21T23:47:26Z'
     stargazers_count: 22148
     github_description: 'A React framework for building text editors.'
 -
@@ -76,9 +76,9 @@
     license: MIT
     community: null
     open_issues: 96
-    watchers: 17000
-    updated_at: '2022-10-21T06:32:56Z'
-    stargazers_count: 17000
+    watchers: 17001
+    updated_at: '2022-10-21T18:44:18Z'
+    stargazers_count: 17001
     github_description: 'A rich text editor for everyday writing'
 -
     title: Prosemirror
@@ -91,9 +91,9 @@
     community: null
     description: "A very competent editor with support for real time collaboration. Good documentation and information.\n"
     open_issues: 102
-    watchers: 6144
-    updated_at: '2022-10-21T10:49:58Z'
-    stargazers_count: 6144
+    watchers: 6145
+    updated_at: '2022-10-22T00:23:55Z'
+    stargazers_count: 6145
     github_description: 'The ProseMirror WYSIWYM editor'
 -
     title: ContentTools
@@ -122,10 +122,10 @@
     format: XML/HTML
     license: MIT
     community: null
-    open_issues: 542
-    watchers: 25678
-    updated_at: '2022-10-21T17:04:17Z'
-    stargazers_count: 25678
+    open_issues: 541
+    watchers: 25682
+    updated_at: '2022-10-22T02:31:17Z'
+    stargazers_count: 25682
     github_description: 'A completely customizable framework for building rich text editors. (Currently in beta.)'
 -
     title: Scribe

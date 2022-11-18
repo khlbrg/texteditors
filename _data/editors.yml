@@ -27,9 +27,9 @@
     license: 'BSD 3-clause'
     community: null
     open_issues: 1305
-    watchers: 34064
-    updated_at: '2022-11-18T06:24:38Z'
-    stargazers_count: 34064
+    watchers: 34070
+    updated_at: '2022-11-18T17:01:05Z'
+    stargazers_count: 34070
     github_description: 'Quill is a modern WYSIWYG editor built for compatibility and extensibility.'
 -
     title: CKEditor5
@@ -43,10 +43,10 @@
     format: XML/HTML
     license: GPL/LGPL/MPL
     community: null
-    open_issues: 2769
-    watchers: 6520
-    updated_at: '2022-11-17T20:15:50Z'
-    stargazers_count: 6520
+    open_issues: 2774
+    watchers: 6521
+    updated_at: '2022-11-18T12:50:46Z'
+    stargazers_count: 6521
     github_description: 'Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.'
 -
     title: Draft.js
@@ -75,10 +75,10 @@
     format: XML/HTML
     license: MIT
     community: null
-    open_issues: 98
-    watchers: 17169
-    updated_at: '2022-11-18T05:22:15Z'
-    stargazers_count: 17169
+    open_issues: 97
+    watchers: 17173
+    updated_at: '2022-11-18T17:10:04Z'
+    stargazers_count: 17173
     github_description: 'A rich text editor for everyday writing'
 -
     title: Prosemirror
@@ -91,9 +91,9 @@
     community: null
     description: "A very competent editor with support for real time collaboration. Good documentation and information.\n"
     open_issues: 109
-    watchers: 6175
-    updated_at: '2022-11-17T03:24:50Z'
-    stargazers_count: 6175
+    watchers: 6176
+    updated_at: '2022-11-18T17:12:44Z'
+    stargazers_count: 6176
     github_description: 'The ProseMirror WYSIWYM editor'
 -
     title: ContentTools
@@ -122,10 +122,10 @@
     format: XML/HTML
     license: MIT
     community: null
-    open_issues: 552
-    watchers: 25905
-    updated_at: '2022-11-18T06:31:02Z'
-    stargazers_count: 25905
+    open_issues: 553
+    watchers: 25909
+    updated_at: '2022-11-18T16:07:56Z'
+    stargazers_count: 25909
     github_description: 'A completely customizable framework for building rich text editors. (Currently in beta.)'
 -
     title: Scribe

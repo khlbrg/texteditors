@@ -44,9 +44,9 @@
     license: GPL/LGPL/MPL
     community: null
     open_issues: 2850
-    watchers: 6605
-    updated_at: '2022-12-16T10:22:16Z'
-    stargazers_count: 6605
+    watchers: 6606
+    updated_at: '2022-12-17T06:12:51Z'
+    stargazers_count: 6606
     github_description: 'Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.'
 -
     title: Draft.js
@@ -91,9 +91,9 @@
     community: null
     description: "A very competent editor with support for real time collaboration. Good documentation and information.\n"
     open_issues: 111
-    watchers: 6224
-    updated_at: '2022-12-16T16:50:48Z'
-    stargazers_count: 6224
+    watchers: 6226
+    updated_at: '2022-12-17T03:58:23Z'
+    stargazers_count: 6226
     github_description: 'The ProseMirror WYSIWYM editor'
 -
     title: ContentTools
@@ -123,9 +123,9 @@
     license: MIT
     community: null
     open_issues: 565
-    watchers: 26085
-    updated_at: '2022-12-16T14:39:29Z'
-    stargazers_count: 26085
+    watchers: 26087
+    updated_at: '2022-12-17T05:30:19Z'
+    stargazers_count: 26087
     github_description: 'A completely customizable framework for building rich text editors. (Currently in beta.)'
 -
     title: Scribe

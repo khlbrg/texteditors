@@ -76,9 +76,9 @@
     license: MIT
     community: null
     open_issues: 98
-    watchers: 17404
-    updated_at: '2023-02-06T14:03:08Z'
-    stargazers_count: 17404
+    watchers: 17405
+    updated_at: '2023-02-06T19:17:45Z'
+    stargazers_count: 17405
     github_description: 'A rich text editor for everyday writing'
 -
     title: Prosemirror
@@ -107,9 +107,9 @@
     license: MIT
     community: 5
     open_issues: 98
-    watchers: 3882
-    updated_at: '2023-02-02T18:49:09Z'
-    stargazers_count: 3882
+    watchers: 3883
+    updated_at: '2023-02-07T00:58:13Z'
+    stargazers_count: 3883
     github_description: 'A JS library for building WYSIWYG editors for HTML content.'
 -
     title: Slate
@@ -123,9 +123,9 @@
     license: MIT
     community: null
     open_issues: 566
-    watchers: 26370
-    updated_at: '2023-02-06T15:02:48Z'
-    stargazers_count: 26370
+    watchers: 26371
+    updated_at: '2023-02-06T19:11:54Z'
+    stargazers_count: 26371
     github_description: 'A completely customizable framework for building rich text editors. (Currently in beta.)'
 -
     title: Scribe
